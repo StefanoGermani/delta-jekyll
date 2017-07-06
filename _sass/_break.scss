@@ -1,0 +1,29 @@
+.break .text-title {
+    color: #fff;
+    margin: 0;
+}
+
+.break .text-inline {
+    color: #fff;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.break-right .cont-text {
+    margin-left: 80px;
+    padding-left: 25px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-left: 6px solid #19c85e;
+    max-width: 500px;
+}
+
+.break-left .cont-text {
+    margin-right: 80px;
+    padding-right: 25px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-right: 6px solid #19c85e;
+    max-width: 500px;
+    float: right;
+}

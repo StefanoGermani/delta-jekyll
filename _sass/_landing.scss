@@ -1,0 +1,61 @@
+.landing {
+  max-width: 1000px;
+}
+
+.landing-title {
+  margin: 0;
+}
+
+.landing-title h1 {
+  font-size: 50px;
+  color: #649dc0;
+  text-transform: uppercase;
+}
+
+.landing-subtitle {
+  margin: 30px 0;
+}
+
+.landing-subtitle h2 {
+  font-size: 30px;
+  color: #649dc0;
+  text-transform: uppercase;
+}
+
+.land-setting {
+    align-items: center;
+    padding-top: 125px;
+    padding-bottom: 40px;
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox;      /* TWEENER - IE 10 */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+}
+
+/* dimensioni e posizionamento del div contenitore btn call to action su img di sfondo landing */
+
+.div-action {
+  margin: 80px 0;
+  text-align: center;
+}
+
+.btn-action {
+  color: #fff;
+  background-color: rgba(25, 200, 94, 0.7);
+  border: 3px solid #19c85e;
+  border-radius: 0px;
+  transition: 0.4s all linear;
+  padding: 30px 20px;
+  font-size: 25px;
+  text-transform: uppercase;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
+
+.btn-action:hover {
+  color: #fff;
+  background-color: rgba(100, 157, 192, 0.8);
+  border: 3px solid #649dc0;
+}

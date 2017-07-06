@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% include navbar.html %}
+
+<section id="contacts" class="container contacts">
+    <div class="row">
+        <div class="col-xs-12 col-md-6">
+            <div class="cont-text-modal">
+                <h2 class="content-title text-underline h2-line-sub">
+                    Richiedi una<strong> consulenza gratuita</strong>
+                </h2>
+                <p class="p-line-sub">We create compelling and engaging stories that draw users in, appeal to their emotions and drive them to
+                    action.
+                </p>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6">
+            <form class="consultant-form">
+                <div class="form-group form-name">
+                    <label for="company-name"></label>
+                    <input type="text" class="form-control" id="company-name" placeholder="Nome azienda">
+                </div>
+                <div class="form-group form-name">
+                    <label for="name"></label>
+                    <input type="text" class="form-control" id="name" placeholder="Nome contatto">
+                </div>
+                <div class="form-group form-phone">
+                    <label for="phone"></label>
+                    <input type="tel" class="form-control" id="phone" placeholder="Telefono">
+                </div>
+                <div class="form-group form-text">
+                    <label for="comment"></label>
+                    <textarea class="form-control sett" rows="5" id="comment" placeholder="Message"></textarea>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 btn-modal">
+            <button type="submit" class="btn btn-primary btn-form center-block">Invia</button>
+        </div>
+    </div>
+</section>
