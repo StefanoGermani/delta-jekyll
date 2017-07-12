@@ -2,33 +2,37 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="robots" content="index, follow">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Delta Local Marketing</title>
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Delta Local Marketing</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-        crossorigin="anonymous">
-    <link href="assets/css/main.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="assets/vendors/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    crossorigin="anonymous">
+  <link href="assets/css/main.css" rel="stylesheet" type="text/css">
 
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css?family=Baumans" rel="stylesheet" type="text/css">
-    <link rel="icon" href="assets/img/58.ico" type="image/gif" sizes="16x16">
+  <link href="https://fonts.googleapis.com/css?family=Baumans" rel="stylesheet" type="text/css">
+  <link rel="icon" href="assets/img/58.ico" type="image/gif" sizes="16x16">
 </head>
 
-<body data-spy="scroll" data-target="#navbar-example" style="background-image: url('assets/img/bg_pattern.png')">
+<body style="background-image: url('assets/img/bg_pattern.png')">
   {{ content }}
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
+    crossorigin="anonymous"></script>
+  <script src="assets/vendors/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/js/custom.js"></script>
   <script src="assets/js/cookiechoices.js"></script>
   <script>
     //<![CDATA[
     document.addEventListener('DOMContentLoaded', function (event) {
-      cookieChoices.showCookieConsentBar(' Local Marketing usa i cookies per poter configurare in modo ottimale e migliorare costantemente le sue pagine web.',
+      cookieChoices.showCookieConsentBar(
+        ' Local Marketing usa i cookies per poter configurare in modo ottimale e migliorare costantemente le sue pagine web.',
         'OK', 'Maggiori Informazioni',
         'http://indirizzo_pagina_cookie_policy');
     });
