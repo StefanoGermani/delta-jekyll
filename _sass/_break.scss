@@ -1,15 +1,15 @@
-.break .text-title {
+.break-text-title {
     color: #fff;
     margin: 0;
 }
 
-.break .text-inline {
+.break-text-inline {
     color: #fff;
     margin-bottom: 0;
     margin-top: 10px;
 }
 
-.break-right .cont-text {
+.break-text-right {
     margin-left: 80px;
     padding-left: 25px;
     padding-top: 6px;
@@ -18,7 +18,7 @@
     max-width: 500px;
 }
 
-.break-left .cont-text {
+.break-text-left {
     margin-right: 80px;
     padding-right: 25px;
     padding-top: 6px;
@@ -26,4 +26,13 @@
     border-right: 6px solid #19c85e;
     max-width: 500px;
     float: right;
+}
+
+.row-setting {
+    display: flex;
+    align-items: center;
+    background-color: rgba(100, 157, 192, 0.9);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-top: 6px solid #fff;
 }
