@@ -1,4 +1,3 @@
-
 $(window).scroll(function () {
     var scrollPos = $(window).scrollTop(),
         button = $('.btn-link');
@@ -28,7 +27,9 @@ $(document).on('click', '.navbar-collapse.in', function (e) {
 });
 
 /* evidenziare le voci menu allo scroll */
-$('body').scrollspy({ target: '#navbar-example' })
+$('body').scrollspy({
+    target: '#navbar-example'
+})
 
 $('[data-toggle="popover"]').popover()
 
@@ -42,4 +43,11 @@ $(".navbar-collapse ul li a[href^='#']").on('click', function (e) {
     }, 600, function () {
         window.location.hash = target;
     });
+});
+
+document.addEventListener('DOMContentLoaded', function (event) {
+    cookieChoices.showCookieConsentBar(
+        ' Local Marketing usa i cookies per poter configurare in modo ottimale e migliorare costantemente le sue pagine web.',
+        'OK', 'Maggiori Informazioni',
+        'http://indirizzo_pagina_cookie_policy');
 });

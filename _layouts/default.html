@@ -8,34 +8,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Delta Local Marketing</title>
 
-    <link href="assets/css/main.css" rel="stylesheet" type="text/css">
-
+    <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet" type="text/css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
-
-    <link rel="icon" href="assets/img/58.ico" type="image/gif" sizes="16x16">
+    <link rel="icon" href="{{site.baseurl}}/assets/img/58.ico" type="image/gif" sizes="16x16">
 </head>
 
-<body style="background-image: url('assets/img/bg_pattern.png')">
+<body style="background-image: url('{{site.baseurl}}/assets/img/bg_pattern.png')">
     {{ content }}
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.8/umd/popper.min.js" integrity="sha256-n96swYoYKdVyLr5XatK9CzcdyrpAI0xcSlIeWOZeTAI="
         crossorigin="anonymous"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/custom.js"></script>
-    <script src="assets/js/cookiechoices.js"></script>
-    <script>
-        //<![CDATA[
-        document.addEventListener('DOMContentLoaded', function (event) {
-            cookieChoices.showCookieConsentBar(
-                ' Local Marketing usa i cookies per poter configurare in modo ottimale e migliorare costantemente le sue pagine web.',
-                'OK', 'Maggiori Informazioni',
-                'http://indirizzo_pagina_cookie_policy');
-        });
-        //]]>
-
-    </script>
+    <script src="{{site.baseurl}}/assets/js/bootstrap.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/cookiechoices.js"></script>
+    <script src="{{site.baseurl}}/assets/js/custom.js"></script>
 </body>
 
 </html>
