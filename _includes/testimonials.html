@@ -1,73 +1,20 @@
-<section class="testimonials" id="success-stories">
-    <div class="sheet-testimonials">
-        <div class="container bottom-padding">
-            <div class="row">
-                <div class="col-md-12 text-center super-padding">
-                    <h2 class="testimonials-title">Storie di successo</h2>
-                </div>
-            </div>
-            <div class="row sheet-testimonial">
-                <div class="col-lg-4 col-sm-6 testimonial">
-                    <h3 class="text-testimonial-title">“Business better than ever”</h3>
-                    <p class="text-testimonial-inline">“Big 6 Media have been doing a great job for us. Business is better than ever. We've been in business
-                        for 9 years... Thank you.”</p>
-                    <div class="identification-testimonial clearfix">
-                        <img src="assets/img/4.1.jpg" class="img-responsive img-testimonial" alt="Jared McKinney from McKinney &amp; McKinney">
-                        <h4 class="testimonial-name">- Jared McKinney</h4>
-                        <h5 class="testimonial-firm">McKinney &amp; McKinney</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 testimonial">
-                    <h3 class="text-testimonial-title">“Business better than ever”</h3>
-                    <p class="text-testimonial-inline">“Big 6 Media have been doing a great job for us. Business is better than ever. We've been in business
-                        for 9 years... Thank you.”</p>
-                    <div class="identification-testimonial clearfix">
-                        <img src="assets/img/4.1.jpg" class="img-responsive img-testimonial" alt="Jared McKinney from McKinney &amp; McKinney">
-                        <h4 class="testimonial-name">- Jared McKinney</h4>
-                        <h5 class="testimonial-firm">McKinney &amp; McKinney</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 testimonial">
-                    <h3 class="text-testimonial-title">“Business better than ever”</h3>
-                    <p class="text-testimonial-inline">“Big 6 Media have been doing a great job for us. Business is better than ever. We've been in business
-                        for 9 years... Thank you.”</p>
-                    <div class="identification-testimonial clearfix">
-                        <img src="assets/img/4.1.jpg" class="img-responsive img-testimonial" alt="Jared McKinney from McKinney &amp; McKinney">
-                        <h4 class="testimonial-name">- Jared McKinney</h4>
-                        <h5 class="testimonial-firm">McKinney &amp; McKinney</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 testimonial serv-padding-top">
-                    <h3 class="text-testimonial-title">“Business better than ever”</h3>
-                    <p class="text-testimonial-inline">“Big 6 Media have been doing a great job for us. Business is better than ever. We've been in business
-                        for 9 years... Thank you.”</p>
-                    <div class="identification-testimonial clearfix">
-                        <img src="assets/img/4.1.jpg" class="img-responsive img-testimonial" alt="Jared McKinney from McKinney &amp; McKinney">
-                        <h4 class="testimonial-name">- Jared McKinney</h4>
-                        <h5 class="testimonial-firm">McKinney &amp; McKinney</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 testimonial serv-padding-top">
-                    <h3 class="text-testimonial-title">“Business better than ever”</h3>
-                    <p class="text-testimonial-inline">“Big 6 Media have been doing a great job for us. Business is better than ever. We've been in business
-                        for 9 years... Thank you.”</p>
-                    <div class="identification-testimonial clearfix">
-                        <img src="assets/img/4.1.jpg" class="img-responsive img-testimonial" alt="Jared McKinney from McKinney &amp; McKinney">
-                        <h4 class="testimonial-name">- Jared McKinney</h4>
-                        <h5 class="testimonial-firm">McKinney &amp; McKinney</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 testimonial serv-padding-top">
-                    <h3 class="text-testimonial-title">“Business better than ever”</h3>
-                    <p class="text-testimonial-inline">“Big 6 Media have been doing a great job for us. Business is better than ever. We've been in business
-                        for 9 years... Thank you.”</p>
-                    <div class="identification-testimonial clearfix">
-                        <img src="assets/img/4.1.jpg" class="img-responsive img-testimonial" alt="Jared McKinney from McKinney &amp; McKinney">
-                        <h4 class="testimonial-name">- Jared McKinney</h4>
-                        <h5 class="testimonial-firm">McKinney &amp; McKinney</h5>
-                    </div>
-                </div>
+<section class="container testimonials" id="success-stories">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="testimonials-title text-center">Storie di successo</h2>
+        </div>
+    </div>
+    <div class="row sheet-testimonial">
+        {% for testimonial in site.data.testimonials %}
+        <div class="col-sm-6 col-lg-4 testimonial">
+            <h4 class="text-testimonial-title">{{ testimonial.title }}</h4>
+            <p class="text-testimonial-inline">{{ testimonial.text }}</p>
+            <div class="identification-testimonial clearfix">
+                <img src="{{ testimonial.image }}" class="img-responsive img-testimonial" alt="">
+                <h6 class="testimonial-name">- {{ testimonial.name }}</h4>
+                    <h7 class="testimonial-firm">{{ testimonial.firm }}</h5>
             </div>
         </div>
+        {% endfor %}
     </div>
 </section>
