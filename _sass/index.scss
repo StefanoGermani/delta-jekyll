@@ -38,6 +38,12 @@ body {
     @extend .btn-success;
 }
 
+.shadow {
+    -webkit-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
+    -moz-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
+    box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
+}
+
 #cookieChoiceInfo {
     bottom: 0!important;
     top: auto!important;
