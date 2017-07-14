@@ -33,7 +33,7 @@
     margin: 1em;
 }
 
-@media (min-width: 992px) {
+@media (min-width: $md) {
     .feature-box {
         border-right-width: 0;
         margin: 0;

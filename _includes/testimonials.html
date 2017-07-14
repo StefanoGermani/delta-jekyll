@@ -1,13 +1,13 @@
 <section class="container testimonials py-4" id="success-stories">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 pb-3">
             <h2 class="testimonials-title text-center">Storie di successo</h2>
         </div>
     </div>
     <div class="row sheet-testimonial">
         {% for testimonial in site.data.testimonials %}
         <div class="col-sm-6 col-lg-4 testimonial">
-            <h4 class="text-testimonial-title">{{ testimonial.title }}</h4>
+            <h5 class="text-testimonial-title">{{ testimonial.title }}</h5>
             <p class="text-testimonial-inline">{{ testimonial.text }}</p>
             <div class="identification-testimonial clearfix">
                 <img src="{{ testimonial.image }}" class="img-fluid img-testimonial" alt="">
