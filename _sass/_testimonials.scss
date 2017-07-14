@@ -46,37 +46,9 @@
   margin: 8px auto;
 }
 
-.serv-padding-top {
-  padding-top: 60px;
-  padding-bottom: 20px;
-}
-
-.bottom-padding {
-  padding-bottom: 70px;
-}
-
-#success-stories {
-  padding-top: 70px;
-  margin-top: -70px;
-}
-
 @media (max-width: 1200px) {
-  .serv-padding-top {
-    padding-top: 0px;
-    padding-bottom: 0px;
-  }
   .testimonial {
     margin-bottom: 30px;
-  }
-}
-
-@media (max-width: 992px) {
-  .bottom-padding {
-    padding-bottom: 50px;
-  }
-    #success-stories {
-    padding-top: 79px;
-    margin-top: -79px;
   }
 }
 
