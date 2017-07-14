@@ -11,20 +11,40 @@
     <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet" type="text/css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
     <link rel="icon" href="{{site.baseurl}}/assets/img/58.ico" type="image/gif" sizes="16x16">
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"
+    />
 </head>
 
 <body style="background-image: url('{{site.baseurl}}/assets/img/bg_pattern.png')">
-    {% include navbar.html %}
-
-    {{ content }}
+    {% include navbar.html %} {{ content }}
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.8/umd/popper.min.js" integrity="sha256-n96swYoYKdVyLr5XatK9CzcdyrpAI0xcSlIeWOZeTAI="
         crossorigin="anonymous"></script>
     <script src="{{site.baseurl}}/assets/js/bootstrap.min.js"></script>
-    <script src="{{site.baseurl}}/assets/js/cookiechoices.js"></script>
-    <script src="{{site.baseurl}}/assets/js/custom.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function () {
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#237afc"
+                    },
+                    "button": {
+                        "background": "#fff",
+                        "text": "#237afc"
+                    }
+                },
+                "theme": "classic",
+                "content": {
+                    "message": "Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Se continui ad utilizzare questo sito accetti la nostra Privacy Policy.",
+                    "dismiss": "Accetto",
+                    "link": "Leggi di più"
+                }
+            })
+        });
+    </script>
 </body>
 
 </html>
