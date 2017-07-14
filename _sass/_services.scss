@@ -15,10 +15,6 @@
     color: #fff;
 }
 
-.features-wrapper {
-    padding: 3em 0 5em;
-}
-
 .features-title {
     text-align: center;
     margin-top: 0;
@@ -63,11 +59,11 @@
 }
 
 .feature-title-wrapper {
+    @include transition(.6s);
     height: 63px;
     margin-bottom: 1em;
     margin-right: 10px;
     border-bottom: 2px solid transparent;
-    @include transition(.6s);
 }
 
 .feature-box:hover .feature-info .feature-title-wrapper {
@@ -81,11 +77,11 @@
 }
 
 .feature-title {
+    @include translateY(-100%);
     font-size: 1.41em;
     font-weight: 500;
     position: relative;
     top: 100%;
-    @include translateY(-100%);
 }
 
 .feature-icon {
@@ -100,13 +96,6 @@
     height: 100px;
 }
 
-
 .features-title.text-underline:after {
     border-bottom-color: #ff8500;
-}
-
-@media (max-width: 767px) {
-    .features-wrapper {
-        padding: 3em 0;
-    }
 }
