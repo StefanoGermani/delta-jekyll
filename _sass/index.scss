@@ -34,8 +34,10 @@ body {
     color: #666;
 }
 
-.btn-delta {
+.btn-delta-action {
     @extend .btn-success;
+    text-transform: uppercase;
+    padding: 1rem;
 }
 
 .shadow {
