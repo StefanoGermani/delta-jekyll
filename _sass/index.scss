@@ -31,7 +31,7 @@ html {
 
 body {
     background-color: #f8f8f8;
-    color: #666;
+    color: #444;
 }
 
 .btn-delta-action {
@@ -44,25 +44,4 @@ body {
     -webkit-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
     -moz-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
     box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
-}
-
-#cookieChoiceInfo {
-    bottom: 0!important;
-    top: auto!important;
-    background-color: #555!important;
-    padding: 10px!important;
-    font-size: 18px!important;
-    color: #fff!important;
-}
-
-#cookieChoiceInfo>a {
-    color: #fff!important;
-}
-
-#cookieChoiceDismiss {
-    border: 2px solid $dark-green;
-    background-color: $dark-green;
-    padding: 0 5px 0 5px;
-    text-decoration: none;
-    border-radius: 4px;
 }
