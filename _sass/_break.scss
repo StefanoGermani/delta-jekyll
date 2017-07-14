@@ -12,7 +12,19 @@
 .row-setting {
     display: flex;
     align-items: center;
-    background-color: rgba(100, 157, 192, 0.9);
+    background-color: $blue;
     padding-top: 40px;
     padding-bottom: 40px;
+}
+
+.break-action {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.btn-break-action {
+    @extend .btn-success;
+    white-space: normal;
+    max-width: 20rem;
 }
