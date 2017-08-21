@@ -1,3 +1,5 @@
+{% assign current = page.url | downcase | split: '/' %}
+
 <div class="container">
     <nav class="navbar navbar-expand-md navbar-light" role="navigation">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
@@ -9,9 +11,10 @@
         </a>
         <div class="collapse navbar-collapse flex-row-reverse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-item nav-link" href="{{site.baseurl}}/#about">Chi Siamo</a>
-                <a class="nav-item nav-link" href="{{site.baseurl}}/#services">Servizi</a>
-                <a class="nav-item nav-link" href="{{site.baseurl}}/blog">Blog</a>
+                <a class="nav-item nav-link{% if current.last == 'chi-siamo' %} active{% endif %}" href="{{site.baseurl}}/chi-siamo">Chi Siamo</a>
+                <a class="nav-item nav-link{% if current.last == 'servizi' %} active{% endif %}" href="{{site.baseurl}}/servizi">Servizi</a>
+                <a class="nav-item nav-link{% if current.last == 'blog' %} active{% endif %}" href="{{site.baseurl}}/blog">Blog</a>
+                <a class="nav-item nav-link{% if current.last == 'consulenza-gratuita' %} active{% endif %}" href="{{site.baseurl}}/consulenza-gratuita">Consulenza</a>
             </div>
         </div>
     </nav>
