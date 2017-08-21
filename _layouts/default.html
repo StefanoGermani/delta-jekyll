@@ -20,7 +20,12 @@
 </head>
 
 <body style="background-image: url('{{site.baseurl}}/assets/img/bg_pattern.png')">
-    {% include navbar.html %} {{ content }}
+    <div class="wrap">
+        {% include navbar.html %}
+        {{ content }}
+    </div>
+
+    {% include footer.html %}
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
     <script>

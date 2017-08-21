@@ -1,6 +1,17 @@
+.wrap {
+    min-height: 100%;
+    padding-bottom: 40px;
+    /* this needs to be bigger than footer height*/
+}
+
 footer {
     background-color: $blue;
     color: #fff;
+    position: relative;
+    margin-top: -40px;
+    /* negative value of footer height */
+    height: 40px;
+    clear: both;
     a:hover {
         color: #19c85e;
         text-decoration: none;
