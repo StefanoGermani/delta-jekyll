@@ -12,27 +12,25 @@
                 </div>
             </div>
             <div class="col-12 col-md-6">
-                <form class="consultant-form">
+                <form class="consultant-form" method="POST" action="http://formspree.io/info@deltalocalmarketing.it">
                     <div class="form-group form-name">
                         <label for="company-name">Nome azienda</label>
-                        <input type="text" class="form-control" id="company-name" placeholder="Delta local marketing">
+                        <input type="text" class="form-control" name="company-name" placeholder="Delta local marketing">
                     </div>
                     <div class="form-group form-name">
                         <label for="name">Nome contatto</label>
-                        <input type="text" class="form-control" id="name" placeholder="Mario Rossi">
+                        <input type="text" class="form-control" name="name" placeholder="Mario Rossi">
                     </div>
                     <div class="form-group form-phone">
                         <label for="phone">Telefono</label>
-                        <input type="tel" class="form-control" id="phone" placeholder="+39 320 1212123">
+                        <input type="tel" class="form-control" name="phone" placeholder="+39 320 1212123">
                     </div>
                     <div class="form-group form-text">
                         <label for="comments">Note</label>
-                        <textarea class="form-control sett" rows="5" id="comments" placeholder="es. Contattare dopo le 18." ></textarea>
+                        <textarea class="form-control sett" rows="5" name="comments" placeholder="es. Contattare dopo le 18." ></textarea>
                     </div>
+                    <button type="submit" class="btn btn-primary btn-form center-block">Invia</button>
                 </form>
-            </div>
-            <div class="col-12 btn-modal">
-                <button type="submit" class="btn btn-primary btn-form center-block">Invia</button>
             </div>
         </div>
     </section>
