@@ -4,11 +4,8 @@ title: Che cosa è la personalizzazione nel Marketing?
 description: Come un tocco personale può fare la differenza!
 date:   2017-09-01 11:10:19 +0200
 categories: personalizzazione marketing
-translated_from: https://www.referralsaasquatch.com/what-is-personalization-in-marketing/
 comments: true
 ---
-
-
 
 > “Ricorda che il nome di una persona, per quella persona, è il suono più dolce e importante in qualsiasi linguaggio” - Dale Carnegie, How to Win Friends and Influence People
 
