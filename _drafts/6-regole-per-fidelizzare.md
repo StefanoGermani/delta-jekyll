@@ -4,6 +4,7 @@ title:  6 Regole per Fidelizzare i tuoi Clienti
 description: Scopri cosa usano i migliori venditori per tenersi i propri clienti
 date:   2017-09-02 11:10:19 +0200
 categories: birra marketing
+comments: true
 ---
 
 **I migliori venditori usano queste sei semplici regole per far sì che i loro clienti continuino a comprare da loro vincendo sulla concorrenza.**

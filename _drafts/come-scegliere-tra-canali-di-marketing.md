@@ -4,6 +4,7 @@ title:  Come scegliere tra i canali di marketing gratis e a pagamento
 description:
 date:   2017-09-03 11:10:19 +0200
 categories: advertising marketing
+comments: true
 ---
 
 

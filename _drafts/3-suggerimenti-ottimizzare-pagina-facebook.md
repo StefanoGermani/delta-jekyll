@@ -4,6 +4,7 @@ title:  3 Semplici Suggerimenti per Ottimizzare la tua Pagina Facebook
 description: 3 Semplici Suggerimenti per Ottimizzare la tua Pagina Facebook
 date:   2017-09-02 11:10:19 +0200
 categories: facebook social marketing
+comments: true
 ---
 
 Per sviluppare una presenza online significativa, la gestione corretta dei tuoi profili sui social media è essenziale. Ogni strategia di marketing di successo ne ha bisogno! Ci sono delle ovvie, e importanti, azioni da fare: avere eleganti foto di profilo e copertina, pubblicare contenuto interessante e coinvolgere i potenziali clienti. Ci sono delle misure che tu dovresti prendere per assicurarti che la tua pagina Facebook ti stia aiutando a raggiungere la tua utenza
