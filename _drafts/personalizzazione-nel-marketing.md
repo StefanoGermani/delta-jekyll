@@ -1,6 +1,11 @@
-Come un tocco personale può fare la differenza!
-
-[articolo da cui ho tradotto https://www.referralsaasquatch.com/what-is-personalization-in-marketing/]
+---
+layout: post
+title: Che cosa è la personalizzazione nel Marketing?
+description: Come un tocco personale può fare la differenza!
+date:   2017-09-01 11:10:19 +0200
+categories: branding marketing
+translated_from: https://www.referralsaasquatch.com/what-is-personalization-in-marketing/
+---
 
 
 
