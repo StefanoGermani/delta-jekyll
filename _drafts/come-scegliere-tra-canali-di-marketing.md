@@ -62,7 +62,7 @@ Il costo delle inserzione puo’ essere veramente basso. Il modo migliore e’ d
 
 Puoi testare differenti messaggi e immagini per imparare quali Call to Action sono migliori per la tua audience.
 
-### All’inizio cerca di andare in pareggio [da migliorare]
+### All’inizio cerca di andare in pareggio <!-- [da migliorare] -->
 
 Tutte le piattaforme possono mostrati il ROI (ritorno di investimento) sulle varie inserzioni. Con la tua prima campagna e’ probabile avere un ROI negativo, cioè perdere soldi con quella campagna. Ma va bene. E’ normale avere delle campagna che non performano come dovrebbero.
 
