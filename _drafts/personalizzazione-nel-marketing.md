@@ -3,7 +3,7 @@ layout: post
 title: Che cosa è la personalizzazione nel Marketing?
 description: Come un tocco personale può fare la differenza!
 date:   2017-09-01 11:10:19 +0200
-categories: branding marketing
+categories: personalizzazione marketing
 translated_from: https://www.referralsaasquatch.com/what-is-personalization-in-marketing/
 ---
 
@@ -21,10 +21,11 @@ La personalizzazione nel marketing cerca di fare sentire i consumatori come se o
 
 Il marketing si basa tutto sul fornire informazioni di valore al posto giusto nel momento giusto.
 
-Il marketing personalizzato usa informazioni sui clienti, la loro demografia e il loro comportamento per determinare il miglior posto, il momento giusto per la persona giusta. [NON SONO SICURA DI AVER CAPITO IL SENSO]
+Il marketing personalizzato usa informazioni sui clienti, la loro demografia e il loro comportamento per determinare il miglior posto, il momento giusto per la persona giusta.
 
+<!--
 [Marketing is all about delivering valuable information at the right place and the right time. But how about delivering this valuable information to the right person?
-Personalized Marketing uses customer information, demographics and behavior to determine the best place, at the right time, to the right person. ]
+Personalized Marketing uses customer information, demographics and behavior to determine the best place, at the right time, to the right person. ] -->
 
 ## Perché il Marketing Personalizzato funziona?
 
