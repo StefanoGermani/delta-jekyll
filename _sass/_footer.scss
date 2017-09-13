@@ -13,11 +13,11 @@ footer {
     height: 40px;
     clear: both;
     a:hover {
-        color: #19c85e;
+        color: $secondary;
         text-decoration: none;
     }
     .copyright {
-        border-top: 2px solid #19c85e;
+        border-top: 2px solid $secondary;
         padding-top: 30px;
     }
 }

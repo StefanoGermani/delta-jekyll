@@ -6,25 +6,20 @@ $light-secondary:#f2873e;
 $dark-secondary: #eb6308;
 $secondary: #f56e13;
 $text-light: #fff;
-
-
 // DEVICES
 $sm: 576px; // Small devices (landscape phones, 576px and up)
 $md: 768px; // Small devices (tablets)
 $lg: 992px; // Medium devices (desktops)
 $xl: 1200px; // Large devices (large desktops)
-
 @import './navbar';
 @import './landing';
 @import './footer';
 @import './testimonials';
 @import './break';
 @import './services';
-
 html {
     font-size: 14px;
     height: 100%;
-
     @media (min-width: $md) {
         font-size: 18px;
     }
@@ -51,4 +46,9 @@ body {
     color: $text-light;
     background-color: $secondary;
     border-color: $secondary;
+
+    &:hover {
+        background-color: $dark-secondary;
+        border-color: $dark-secondary;
+    }
 }
