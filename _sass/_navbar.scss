@@ -1,4 +1,6 @@
 .nav-link {
+    color: $primary !important;
+
     &:hover {
         color: $light-secondary !important;
     }

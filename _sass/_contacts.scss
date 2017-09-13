@@ -1,6 +1,6 @@
 .form-control {
     &:hover {
-        border-color: darkgray;
+        border-color: $primary;
     }
     &:focus {
         border-color: $secondary;
