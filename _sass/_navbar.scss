@@ -1,0 +1,8 @@
+.nav-link {
+    &:hover {
+        color: $light-secondary !important;
+    }
+    &.active {
+        color: $dark-secondary !important;
+    }
+}
