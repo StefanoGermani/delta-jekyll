@@ -1,10 +1,10 @@
 .break-text-title {
-    color: #fff;
+    color: $text-light;
     margin: 0;
 }
 
 .break-text-inline {
-    color: #fff;
+    color: $text-light;
     margin-bottom: 0;
     margin-top: 10px;
 }
@@ -12,7 +12,7 @@
 .row-setting {
     display: flex;
     align-items: center;
-    background-color: $blue;
+    background-color: $primary;
     padding-top: 40px;
     padding-bottom: 40px;
 }

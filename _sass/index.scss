@@ -1,9 +1,14 @@
-$green: #17db00;
-$light-green: #6bff4f;
-$dark-green: #00a800;
-$blue: rgba(100, 157, 192, 0.9);
-// Extra small devices (portrait phones, less than 576px)
-// No media query since this is the default in Bootstrap
+// COLORS
+$primary: #1aa7fa;
+$light-primary: #17a8fd;
+$dark-primary: #1185c7;
+$light-secondary:#f2873e;
+$dark-secondary: #eb6308;
+$secondary: #f56e13;
+$text-light: #fff;
+
+
+// DEVICES
 $sm: 576px; // Small devices (landscape phones, 576px and up)
 $md: 768px; // Small devices (tablets)
 $lg: 992px; // Medium devices (desktops)
@@ -40,4 +45,10 @@ body {
     -webkit-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
     -moz-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
     box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
+}
+
+.btn-call-to-action {
+    color: $text-light;
+    background-color: $secondary;
+    border-color: $secondary;
 }

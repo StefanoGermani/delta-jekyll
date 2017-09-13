@@ -12,7 +12,7 @@
 }
 
 .features {
-    color: #fff;
+    color: $text-light;
 }
 
 .feature-title {
@@ -25,7 +25,7 @@
         display: block;
         width: 220px;
         height: 2px;
-        background: $dark-green;
+        background: $dark-secondary;
         margin: 6px auto;
     }
 }
