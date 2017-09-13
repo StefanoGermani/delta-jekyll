@@ -11,12 +11,16 @@ $sm: 576px; // Small devices (landscape phones, 576px and up)
 $md: 768px; // Small devices (tablets)
 $lg: 992px; // Medium devices (desktops)
 $xl: 1200px; // Large devices (large desktops)
+
+// IMPORTS
 @import './navbar';
 @import './landing';
 @import './footer';
 @import './testimonials';
 @import './break';
 @import './services';
+@import './contacts';
+
 html {
     font-size: 14px;
     height: 100%;

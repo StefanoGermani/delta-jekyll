@@ -1,85 +1,8 @@
-.contacts {
-    margin-top: 150px;
-}
-
-.form-group {
-    margin-bottom: 0px;
-}
-
-.btn-modal {
-    padding: 0px 45px 20px 45px;
-}
-
-.btn-form {
-    width: 100%;
-    max-width:500px;
-    height: 40px;
-    font-size: 18px;
-    color: #fff;
-    border-color: #19c85e;
-    border-radius: 0px;
-    background-color: rgba(25, 200, 94, 0.7);
-}
-
-.btn-form:hover {
-    background-color: rgba(25, 200, 94, 1);
-    border-color: #009b5a;
-    color: #fff;
-}
-
-.consultant-form {
-    padding: 0px;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 0px;
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
 .form-control {
-    border-radius: 0px;
-    height: 40px;
-}
-
-.note {
-    height: 80px;
-}
-
-.sett {
-    height: 170px!important;
-}
-
-.form-control:focus {
-    border-color: $secondary;
-}
-
-.form-control:focus {
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(25, 200, 94, 0.7);
-}
-
-.cont-text-modal {
-    text-align: center;
-}
-
-.cont-text-modal>p {
-    font-size: 25px;
-    padding: 0px 20px;
-    margin: 0;
-}
-
-@media (max-width: 992px) {
-    .btn-modal {
-        padding: 0px 35px 20px 35px;
+    &:hover {
+        border-color: darkgray;
     }
-    .container {
-        width: auto;
-    }
-    .consultant-form {
-        padding: 0px;
-        padding-left: 20px;
-        padding-right: 20px;
-        padding-top: 0;
-        margin-top: 0;
-        margin-bottom: 0;
+    &:focus {
+        border-color: $secondary;
     }
 }
