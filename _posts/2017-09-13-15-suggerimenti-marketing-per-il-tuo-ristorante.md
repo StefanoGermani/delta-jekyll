@@ -2,7 +2,7 @@
 layout: post
 title:  15 suggerimenti di marketing per avere succeso con il tuo ristorante
 description: Come promuovere il tuo ristorante
-date:   2017-09-02 11:10:19 +0200
+date:   2017-09-13 11:10:19 +0200
 categories: birra marketing
 comments: true
 ---
