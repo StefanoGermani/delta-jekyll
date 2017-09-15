@@ -2,9 +2,9 @@
     color: $primary !important;
 
     &:hover {
-        color: $light-secondary !important;
+        color: $dark-primary !important;
     }
     &.active {
-        color: $dark-secondary !important;
+        color: $secondary !important;
     }
 }
