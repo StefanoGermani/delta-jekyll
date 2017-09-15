@@ -1,0 +1,34 @@
+{% assign first_post = site.posts.first %}
+{% assign posts = site.posts | shift %}
+
+<section class="container home">
+    <div class="row">
+        <div class="col p-1">
+            <div class="card clickable" onclick="location.href='{{ first_post.url | relative_url }}';">
+                <img class="card-img-top" src="{{ first_post.image }}" alt="first post image">
+                <div class="card-body">
+                    <h4 class="card-title">{{ first_post.title }}</h4>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ first_post.description }}</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        {% for post in site.posts %}
+            {% if forloop.index > 1 and forloop.index < 5 %}
+                <div class="col-md-4 p-1">
+                    <div class="card clickable" onclick="location.href='{{ post.url | relative_url }}';">
+                        <img class="card-img-top" src="{{ post.image }}" alt="Post image">
+                        <div class="card-body">
+                            <h4 class="card-title">{{ post.title }}</h4>
+                            <h6 class="card-subtitle mb-2 text-muted">{{ post.description }}</h6>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | relative_url }}">via RSS</a></p>
+</section>
