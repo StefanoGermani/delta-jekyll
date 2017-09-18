@@ -33,6 +33,11 @@ html {
     }
 }
 
+::selection {
+    color: $text-light;
+    background: $secondary;
+}
+
 body {
     position: relative;
     background-color: #fAfAfA;
