@@ -1,23 +1,16 @@
 .wrap {
     min-height: 100%;
-    padding-bottom: 40px;
+    padding-bottom: 6rem;
     /* this needs to be bigger than footer height*/
 }
 
 footer {
+    position: relative;
+    margin-top: -2rem;
+    /* negative value of footer height */
+    height: 2rem;
+    clear: both;
     background-color: $light-primary;
     color: $text-light;
-    position: relative;
-    margin-top: -40px;
-    /* negative value of footer height */
-    height: 40px;
-    clear: both;
-    a:hover {
-        color: $secondary;
-        text-decoration: none;
-    }
-    .copyright {
-        border-top: 2px solid $secondary;
-        padding-top: 30px;
-    }
 }
+
