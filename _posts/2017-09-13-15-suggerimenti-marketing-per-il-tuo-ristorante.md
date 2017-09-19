@@ -4,7 +4,7 @@ title:  15 suggerimenti di marketing per avere succeso con il tuo ristorante
 description: Come promuovere il tuo ristorante
 date:   2017-09-13 11:10:19 +0200
 image: posts/facebook-tips.png
-image_sharing: posts/facebook-tips-sharing.png
+image_sharing: posts/facebook-tips-small.png
 categories: ristorante marketing
 comments: true
 ---
