@@ -10,9 +10,9 @@
 
     {% if page.id %}
         <meta property="og:title" content="{{ page.title }}" />
-        <meta property="og:url" content="{{ page.url }}" />
+        <meta property="og:url" content="{{site.url}}{{ page.url }}" />
         <meta property="og:description" content="{{ page.description }}">
-        <meta property="og:image" content="{{ page.image }}">
+        <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/img/{{ page.image }}">
         <meta property="og:type" content="article" />
         <meta property="og:locale" content="it_IT" />
     {% endif %}
