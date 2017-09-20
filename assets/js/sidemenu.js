@@ -1,11 +1,20 @@
 // Open navbarSide when button is clicked
-$('#navbarSideButton').on('click', function () {
-    $('#navbarSide').addClass('reveal');
-    $('.overlay').show();
-});
 
-// Close navbarSide when the outside of menu is clicked
-$('.overlay').on('click', function () {
-    $('#navbarSide').removeClass('reveal');
-    $('.overlay').hide();
+$(document).ready(function () {
+
+    var openSideMenu = function () {
+        $('#navbarSide').addClass('reveal');
+        $('.overlay').show();
+    };
+
+    var closeSideMenu = function () {
+        $('#navbarSide').removeClass('reveal');
+        $('.overlay').hide();
+    };
+
+    $('#navbarSideButton').on('click', openSideMenu);
+    $('.overlay').on('click', closeSideMenu);
+
+    $(document).on('swiperight', openSideMenu);
+    $(document).on('swipeleft', closeSideMenu);
 });
