@@ -14,21 +14,25 @@
         </div>
     </div>
 
-    <div class="row">
-        {% for post in site.posts %}
-            {% if forloop.index > 1 and forloop.index < 5 %}
-                <div class="col-md-4 p-1">
-                    <div class="card clickable" onclick="location.href='{{ post.url | relative_url }}';">
-                        <img class="card-img-top" src="{{site.baseurl}}/assets/img/{{ post.image }}" alt="Post image">
-                        <div class="card-body">
-                            <h4 class="card-title">{{ post.title }}</h4>
-                            <h6 class="card-subtitle mb-2 text-muted">{{ post.description }}</h6>
+    {% for i in (0..1) %}
+        <div class="row">
+            {% assign start =  3 | times: i | plus: 1 %}
+            {% assign end =  3 | times: i | plus: 4 %}
+            {% for post in site.posts %}
+                {% if forloop.index > start and forloop.index <= end %}
+                    <div class="col-md-4 p-1">
+                        <div class="card clickable" onclick="location.href='{{ post.url | relative_url }}';">
+                            <img class="card-img-top" src="{{site.baseurl}}/assets/img/{{ post.image }}" alt="Post image">
+                            <div class="card-body">
+                                <h4 class="card-title">{{ post.title }}</h4>
+                                <h6 class="card-subtitle mb-2 text-muted">{{ post.description }}</h6>
+                            </div>
                         </div>
                     </div>
-                </div>
-            {% endif %}
-        {% endfor %}
-    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml " | relative_url }}">via RSS</a></p>
 </section>
