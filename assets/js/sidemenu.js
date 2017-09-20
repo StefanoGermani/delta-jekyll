@@ -3,13 +3,17 @@
 $(document).ready(function () {
 
     var openSideMenu = function () {
-        $('#navbarSide').addClass('reveal');
-        $('.overlay').show();
+        if ($('#desktopNavigation').css('display') === 'none') {
+            $('#navbarSide').addClass('reveal');
+            $('.overlay').show();
+        }
     };
 
     var closeSideMenu = function () {
-        $('#navbarSide').removeClass('reveal');
-        $('.overlay').hide();
+        if ($('#desktopNavigation').css('display') === 'none') {
+            $('#navbarSide').removeClass('reveal');
+            $('.overlay').hide();
+        }
     };
 
     $('#navbarSideButton').on('click', openSideMenu);
