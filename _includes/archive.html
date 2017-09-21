@@ -1,0 +1,19 @@
+<section class="container">
+    <h2>Archivio</h2>
+
+    {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+    {% for year in postsByYear %}
+        <h4>{{ year.name }}</h3>
+        {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'"  %}
+        {% for month in postsByMonth %}
+            {% assign m = month.name | minus: 1 %}
+            <h6>{{ site.data.it.months[m] }}</h6>
+            <ul>
+            {% for post in month.items %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
+        {% endfor %}
+    {% endfor %}
+</section>
+
