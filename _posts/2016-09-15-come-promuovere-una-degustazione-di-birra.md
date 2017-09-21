@@ -12,13 +12,13 @@ Organizzare delle degustazioni è un' ottima mossa per promuovere, contemporanea
 
 Qui vi darò dei consigli su come organizzare una degustazione che lasci il segno, permettendo ai clienti di associare la vostra birra ad una fantastica esperienza
 
-### Inizia dalla presentazione.
+### Inizia dalle presentazioni
 
 Una degustazione è innanzitutto un’esperienza sociale. Usa questa fase di conoscenza per rompere il ghiaccio, per far conoscere tra di loro i degustatori. E' un momento molto importante in cui si mettono le basi per garantire una fantastica esperienza a tutti.
 
-### Evita spiegazioni troppo tecniche o con immagini/video.
+### Mostragli come produci la birra
 
-Le persone non sono interessate ad una lezione tecnica sulla produzione della birra, ma vogliono passare una bella giornata. Oltre a conoscere nuove persone ed assaggiare della buona birra artigianale, vogliono vedere con i loro occhi il modo in cui viene prodotto ciò che stanno gustando. Il modo migliore per accontentare gli avventori? Portarli nel tuo laboratorio e coinvolgerli nell’esperienza della produzione della birra.
+Oltre a conoscere nuove persone ed assaggiare della buona birra artigianale, vogliono vedere con i loro occhi il modo in cui viene prodotto ciò che stanno gustando. Evita spiegazioni troppo tecniche o con immagini/video che rischiano di annoiare i tuoi avventori, ma invece portali nel tuo laboratorio e coinvolgerli nell’esperienza della produzione della birra.
 
 ### Coinvolgi tutti i sensi dei tuoi clienti
 
@@ -46,10 +46,12 @@ Una volta finito di parlare delle birre, lascia che la conversazione fluisca da 
 
 ### Chiedi un feedback onesto
 
-Il modo migliore per migliorare [gioco di parole?] è di chiedere un feedback a chi ha partecipato. Incoraggia le persone ad essere oneste, ed accetta tutte le critiche positivamente. Serviranno a migliorare la tua degustazione.
+Il modo migliore per migliorare <!-- gioco di parole? --> è di chiedere un feedback a chi ha partecipato. Incoraggia le persone ad essere oneste, ed accetta tutte le critiche positivamente. Serviranno a migliorare la tua degustazione. Se la degustazione e' andata bene chiedi anche di lasciare una recenzione online, cosi' da migliorare la tua reputazione.
 
-### Fornisci una brochure
+### Alla fine fornisci una brochure
+
+Alla fine della degustazione fornisci una brochure esplicativa in cui siano presenti i contatti, un riepilogo di cio' che e' stato discusso nella degustazione e informazioni su come acquistare la birra. Questo permettera' alle persone di trovarti sui social network e offline, a promuovere la tua vendita diretta e a promuovere il tuo brand.
 
 
+Organizzare una degustazione non e' cosi' semplice come puo' sembrare, ma bisogna tenere in considerazione molti fattori per riuscire nel migliore dei modi. E voi come organizzate la vostra degustazione? Avete altri consigli da condividere?
 
-La location è un punto fondamentale, come il clima in cui le persone vengono accolte, rendi tutto il più familiare possibile. Infine, fornisci una brochure esplicativa in cui siano presenti i contatti e una spiegazione su come acquistare la birra.
