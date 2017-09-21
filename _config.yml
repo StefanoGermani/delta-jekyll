@@ -14,8 +14,9 @@ baseurl: /delta-jekyll
 
 # Build settings
 markdown: kramdown
-plugins_dir:
+plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 sass:
     style: compressed
