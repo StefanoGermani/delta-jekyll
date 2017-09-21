@@ -2,7 +2,7 @@
 layout: post
 title:  Come organizzare una degustazione di birra artigianale
 description: Promuovere il proprio birrificio attraverso delle degustazioni di birra artigianale.
-date:   2017-09-02 11:10:19 +0200
+date:   2016-09-02 11:10:19 +0200
 categories: birra marketing
 comments: true
 ---
