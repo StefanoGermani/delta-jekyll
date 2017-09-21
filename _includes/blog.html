@@ -21,7 +21,7 @@
             {% for post in site.posts %}
                 {% if forloop.index > start and forloop.index <= end %}
                     <div class="col-md-4 p-1">
-                        <div class="card clickable" onclick="location.href='{{ post.url | relative_url }}';">
+                        <div class="card clickable blog-article" onclick="location.href='{{ post.url | relative_url }}';">
                             <img class="card-img-top" src="{{site.baseurl}}/assets/img/{{ post.image }}" alt="Post image">
                             <div class="card-body">
                                 <h4 class="card-title">{{ post.title }}</h4>
