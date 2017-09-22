@@ -6,13 +6,13 @@
   text: Creazione strategia per la comunicazione sui social media, campagne su social network
   icon: assets/img/services/sharing.png
 
-- title: Web design
-  text: Progettazione e di sviluppo del tuo sito web
-  icon: assets/img/services/world.png
-
 - title: Search Engine Optimization
   text: Tecniche di ottimizzazione web per una adeguata indicizzazione del sito sui mototri di ricerca
   icon: assets/img/services/analytics.png
+
+- title: Web design
+  text: Progettazione e di sviluppo del tuo sito web
+  icon: assets/img/services/world.png
 
 - title: Grafica Business
   text: Creazione business card, brochure, e tutti gli strumenti di marketing grafici necessari ad un’azienda
