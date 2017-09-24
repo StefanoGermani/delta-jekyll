@@ -16,7 +16,7 @@ La fidelizzazione dei clienti è la chiave del profitto. La ragione è semplice:
 
 Senza fidelizzazione, i clienti se ne vanno. In questo caso puoi essere costretto a sacrificare più di un terzo del tuo fatturato per far tornare la tua attività allo stesso livello dell’anno prima.
 
-Ti sei mai chiesto come facciano i migliori venditori a mantenere i propri clienti?  Il segreto della fidelizzazione dei clienti sta nel mettere i loro gli interessi davanti ai tuoi. E’ veramente semplice!
+Ti sei mai chiesto come facciano i migliori venditori a mantenere i propri clienti?  Il segreto sta nel mettere i loro interessi davanti ai tuoi. E’ veramente semplice!
 
 Ecco le 6 regole per renderlo possibile:
 
@@ -29,4 +29,4 @@ Ecco le 6 regole per renderlo possibile:
 
 Il cliente deve essere sempre al centro!
 
-Quali sono le tue regole personali che applichi per fidelizzare i tuoi clienti? Cosa ha funzionato oppure no? Scrivetemi nei commenti qui sotto!
+Quali sono le tue regole per fidelizzare i tuoi clienti? Cosa ha funzionato oppure no? Scrivimelo nei commenti qui sotto!
