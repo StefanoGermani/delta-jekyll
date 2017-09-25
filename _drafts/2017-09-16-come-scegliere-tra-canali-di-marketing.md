@@ -24,7 +24,7 @@ Ci molti canali gratis che puoi usare, come ad esempio:
 * Pinterest;
 * Video marketing (YouTube).
 
-Mentre questi canali ti porteranno clienti, il problema è che devi iniziare a costruire un pubblico prima di avere un ritorno d'investimento serio.
+Questi canali ti porteranno clienti, ma hanno un problema: devi crearti un pubblico prima di avere un ritorno d'investimento serio.
 
 Questo può essere difficile specialmente su alcune piattaforme, come Facebook, che danno maggiore visibilità ai post a pagamento.
 
@@ -50,7 +50,7 @@ Costruire qualcosa da zero è difficile e lento. Persino se hai un messaggio con
 
 Le inserzioni ti permetto di raggiungere il tuo pubblico perfetto. Specialmente Facebook ha un sistema di targeting robusto che ti permette di scegliere gli interessi, l’eta’, il sesso e il luogo di residenza. Puoi selezionare gli utenti in qualsiasi punto della loro esperienza come cliente, quando visitano il tuo sito, visitano una specifica pagina o si uniscono alla newsletter.
 
-Riuscendo a raggiungere direttamente il tuo target, è molto più probabile che riuscirai a concludere una vendita. Se di solito hai bisogno di 100 visitatori sul tuo sito web per fare una vendita, potresti aver bisogno solo di 50 o 25 o, se sei veramente bravo, solo di 5 visitatori per fare una vendita con le inserzioni a pagamento.
+Riuscendo a raggiungere direttamente il tuo target, è più probabile che riuscirai a concludere una vendita. Se di solito per riuscirci hai bisogno di 100 visitatori, usando questi canali potrebbero bastarne 50 o 25 o, se sei veramente bravo, 5 per concludere una vendita con le inserzioni a pagamento.
 
 Con le inserzioni non paghi per semplici visitatori, paghi per ottimi visitatori.
 
@@ -76,7 +76,7 @@ C'è un'altra strategia. Puoi usare l'audience di qualcun' altro per promuovere 
 
 Sto parlando dell'affiliate marketing e dell'influencer marketing.
 
-Se hai un prodotto che le persone sono disposte a promuovere, e se non lo hai dovresti riconsiderare cosa stai vendendo, allora puoi contattare gli influencers del tuo settore. Gli influencers sono quelle persone che sono già degli esperti riconosciuti tra il tuo target di riferimento. Essi possono aiutarti a raggiungere un bacino di persone, altresì irraggiungibile.
+Se hai un prodotto che le persone sarebbero disposte a promuovere, e se non ce l'hai dovresti riconsiderare cosa stai vendendo, allora potresti contattare gli influencer del tuo settore. Queste persone sono riconosciuti dal tuo target di riferimento come degli esperti. Solitamente hanno un bacino d'utenza ampio e quindi possono aiutarti a raggiungere un pubblico più ampio di quello a cui potresti arrivare solo con i tuoi mezzi.
 
 Chiedigli di diventare tuoi affiliati e dagli una commissione per ogni vendita fatta tramite i loro canali.
 
