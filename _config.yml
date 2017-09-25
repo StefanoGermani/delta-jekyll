@@ -10,6 +10,7 @@
 
 # SEO
 permalink: /blog/:title
+url: https://deltalocalmarketing.it
 baseurl:
 
 # Build settings
