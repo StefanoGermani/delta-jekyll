@@ -2,7 +2,7 @@
 layout: post
 title:  3 Semplici Suggerimenti per Ottimizzare la tua Pagina Facebook
 description: 3 Semplici Suggerimenti per Ottimizzare la tua Pagina Facebook
-date:   2017-09-14 11:10:19 +0200
+date:   2017-09-14 11:00:00 +0200
 image: posts/facebook-tips.png
 image_sharing: posts/facebook-tips-small.png
 categories: facebook social marketing

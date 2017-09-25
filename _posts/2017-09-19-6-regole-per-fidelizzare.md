@@ -2,7 +2,7 @@
 layout: post
 title:  6 Regole per Fidelizzare i tuoi Clienti
 description: Scopri cosa usano i migliori venditori per tenersi i propri clienti
-date:   2017-09-02 11:10:19 +0200
+date:   2017-09-19 11:00:00 +0200
 categories: birra marketing
 image: posts/fidelization.png
 image_sharing: posts/fidelization-small.png
