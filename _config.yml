@@ -10,7 +10,7 @@
 
 # SEO
 permalink: /blog/:title
-baseurl: /delta-jekyll
+baseurl:
 
 # Build settings
 markdown: kramdown
