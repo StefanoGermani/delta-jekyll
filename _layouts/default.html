@@ -10,12 +10,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Delta Local Marketing{% if page.title %} - {% endif %}{{ page.title }}</title>
 
-    {% if page.id %}
+    {% if page.id and page.image_sharing %}
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:url" content="{{site.url}}{{ page.url }}" />
         <meta property="og:description" content="{{ page.description }}">
         <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/img/{{ page.image_sharing }}">
         <meta property="og:type" content="article" />
+        <meta property="og:locale" content="it_IT" />
+    {% else %}
+        <meta property="og:title" content="Delta Local Marketing{% if page.title %} - {% endif %}{{ page.title }}" />
+        <meta property="og:url" content="{{site.url}}{{ page.url }}" />
+        <meta property="og:description" content="Il tuo successo, il nostro business.">
+        <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/img/delta-link.png">
+        <meta property="og:type" content="website" />
         <meta property="og:locale" content="it_IT" />
     {% endif %}
 
