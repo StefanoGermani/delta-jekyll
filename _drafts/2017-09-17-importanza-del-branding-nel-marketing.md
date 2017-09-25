@@ -39,8 +39,7 @@ Un brand forte è senza prezzo.
 
 È importante investire tempo nella ricerca, definizione e costruzione del proprio brand: è una promessa ai tuoi clienti. È un pezzo fondamentale nel marketing e non puoi starne senza.
 
-Il brand è strategico, di lungo termine, mentre il marketing è tattico, di breve termine, e serve a far arrivare il tuo brand di fronte ai tuoi clienti. Questo è il motivo per cui è fondamentale per una società.
-
+Il brand è strategico, di lungo termine, mentre il marketing è tattico, di breve termine, e serve a far arrivare il tuo brand ai tuoi clienti. Questo è il motivo per cui è fondamentale per una società.
 Il brand serve come guida per capire lo scopo degli obiettivi business. Riesce ad allineare il tuo piano di marketing con quegli obiettivi e a realizzare la tua strategia in generale.
 
 L’efficacia di un brand non si dimostra solo prima di una vendita, ma anche durante la vita del prodotto e le esperienza che dà al consumatore.
@@ -58,6 +57,6 @@ Come puoi sapere se il tuo brand è forte abbastanza da darti il valore interno 
 * Il tuo brand riflette la promessa che stai facendo sia al tuo target che ai tuoi dipendenti?
 * Il tuo brand riflette i valori che vuoi trasmettere ai tuoi clienti?
 
-Fai in modo che queste domande ti servano come linea guida nello sviluppo del tuo brand. Se le risposte non sono chiare, potresti dover ridefinire il tuo brand.
+Fai in modo che queste domande ti servano come linea guida nello sviluppo del tuo brand e, se le risposte non sono chiare, pensa a come cambiarlo.
 
 Tu cosa ne pensi? Hai sviluppato il tuo brand? E se si, quali vantaggi ti ha portato? Quali strategie hai usato? Scrivimi nei commenti!
