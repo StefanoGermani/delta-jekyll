@@ -8,7 +8,7 @@
     <meta name="description" content="{{ page.description }}">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Delta Local Marketing - {{ page.title }}</title>
+    <title>Delta Local Marketing{% if page.title %} - {% endif %}{{ page.title }}</title>
 
     {% if page.id %}
         <meta property="og:title" content="{{ page.title }}" />
