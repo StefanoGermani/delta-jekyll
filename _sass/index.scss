@@ -6,6 +6,8 @@ $light-secondary:#f09354;
 $dark-secondary: #eb6308;
 $secondary: #f56e13;
 $text-light: #fff;
+$background-color: #fAfAfA;
+
 // DEVICES
 $sm: 576px; // Small devices (landscape phones, 576px and up)
 $md: 768px; // Small devices (tablets)
@@ -41,7 +43,7 @@ html {
 
 body {
     position: relative;
-    background-color: #fAfAfA;
+    background-color: $background-color;
     color: #444;
     min-height: 100%;
     height: 100%;
