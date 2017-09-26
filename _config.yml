@@ -18,9 +18,13 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 
 sass:
     style: compressed
+
+paginate: 6
+paginate_path: "/blog/:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
