@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  3 Semplici Suggerimenti per Ottimizzare la tua Pagina Facebook
-description: 3 Semplici Suggerimenti per Ottimizzare la tua Pagina Facebook
+title:  3 semplici suggerimenti per ottimizzare la tua pagina Facebook
+description: Aumenta il traffico della tua pagina Facebook con questi semplici suggerimenti
 date:   2017-09-14 11:00:00 +0200
 image: posts/facebook-tips.png
 image_sharing: posts/facebook-tips-small.png

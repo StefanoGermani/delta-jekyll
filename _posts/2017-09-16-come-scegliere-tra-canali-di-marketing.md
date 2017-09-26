@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Come scegliere tra i canali di marketing gratis e a pagamento
-description:
+description: Piccola guida per decidere come pubblicizzare la tua attività
 date:   2017-09-16 11:10:19 +0200
 image: posts/paid-channels.png
 image_sharing: posts/paid-channels-small.png

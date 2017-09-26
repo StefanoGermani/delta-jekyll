@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  15 suggerimenti di marketing per avere succeso con il tuo ristorante
-description: Come promuovere il tuo ristorante
+description: Scopri come promuovere il tuo ristorante, online e offline, seguendo questi suggerimenti
 date:   2017-09-13 11:00:00 +0200
 image: posts/restaurant-tips.png
 image_sharing: posts/restaurant-tips-small2.png
