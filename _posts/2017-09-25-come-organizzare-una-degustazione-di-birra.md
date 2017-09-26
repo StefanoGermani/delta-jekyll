@@ -2,14 +2,16 @@
 layout: post
 title:  Come organizzare una degustazione di birra artigianale
 description: Promuovere il proprio birrificio attraverso delle degustazioni di birra artigianale.
-date:   2016-09-02 11:10:19 +0200
-categories: birra marketing
+date:   2017-09-25 11:00:00 +0200
+category: eventi
+image: posts/fidelization.png
+image_sharing: posts/fidelization-small.png
 comments: true
 ---
 
-Organizzare delle degustazioni è un' ottima mossa per promuovere, contemporaneamente, il proprio birrificio e far conoscere la propria birra ad un pubblico più vasto.
+Organizzare delle degustazioni è un'ottima mossa per promuovere, contemporaneamente, il proprio birrificio e far conoscere la propria birra ad un pubblico più vasto.
 
-Qui vi darò dei consigli su come organizzare una degustazione che lasci il segno, permettendo ai clienti di associare la vostra birra ad una fantastica esperienza
+Qui vi darò dei consigli su come organizzare una degustazione che lasci il segno, permettendo ai clienti di associare la vostra birra ad una fantastica esperienza.
 
 ### Inizia dalle presentazioni
 
@@ -50,5 +52,7 @@ Per migliorare, chiedi un feedback a chi ha partecipato. Incoraggia le persone a
 ### Alla fine fornisci una brochure
 
 Alla fine della degustazione fornisci una brochure esplicativa in cui siano presenti i contatti, un riepilogo di ciò che è stato discusso nella degustazione e informazioni su come acquistare la birra. Questo permetterà alle persone di trovarti sui social network e offline, ma anche di promuovere la tua vendita diretta e il tuo brand.
+
+
 
 Organizzare una degustazione non è cosi' semplice come può sembrare, infatti bisogna tenere in considerazione molti fattori per riuscire nel migliore dei modi. Tu come organizzi la degustazione? Hai altri consigli da condividere?
