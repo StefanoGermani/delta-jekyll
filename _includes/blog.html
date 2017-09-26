@@ -20,6 +20,10 @@
         </div>
         <div class="d-none d-md-block col-md-3">
             <h5>I post più popolari</h3>
+            {% for id in site.data.popular_posts %}
+                {% assign post = site.posts | where:"id", id | first %}
+                <h6>{{ post.title }}</h6>
+            {% endfor %}
         </div>
     </div>
 
