@@ -46,8 +46,7 @@
     font-size: 1.2rem;
 }
 
-.side-link:focus,
-.side-link:hover {
+.side-link:focus {
     text-decoration: none;
     background-color: $dark-primary;
     color: $text-light;
