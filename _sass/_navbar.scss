@@ -9,11 +9,11 @@
 }
 
 .navbar-side {
+    height: 150%;
     width: 60%;
     position: fixed;
     top: 0;
     left: 0;
-    bottom: -300px;
     padding-top: 1rem;
     background-color: $background-color;
     overflow-y: scroll;
