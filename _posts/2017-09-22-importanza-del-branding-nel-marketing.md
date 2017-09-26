@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  L'importanza del Branding nel Marketing
-description: Cosa intendiamo con branding? Perche’ e’ fondamentale per raggiungere i tuoi clienti?
-date:   2017-09-25 11:00:00 +0200
+description: Cosa intendiamo con branding? Perché è fondamentale per raggiungere i tuoi clienti?
+date:   2017-09-22 11:00:00 +0200
 categories: branding
+image: posts/branding.png
+image_sharing: posts/branding-small.png
 comments: true
 ---
 
