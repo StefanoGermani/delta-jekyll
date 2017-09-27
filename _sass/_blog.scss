@@ -60,16 +60,18 @@
     display: flex;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.8);
+    padding: 0.2rem 0;
 }
 
 .popular-post-number {
     background-color: $secondary;
     color: $text-light;
-    padding: 0.1rem 0.25rem;
+    padding: 0 0.25rem;
 }
 
 .popular-post-title {
     color: $text-light;
     padding-left: 0.5rem;
     font-size: 0.8rem;
+    line-height: 1.2;
 }
