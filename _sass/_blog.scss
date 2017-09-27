@@ -2,6 +2,14 @@
     cursor: pointer;
 }
 
+.no-decoration {
+    text-decoration: none;
+}
+
+.no-decoration:hover {
+    text-decoration: none;
+}
+
 .blog-article {
     padding: 0.5rem;
     border-bottom: 1px rgba(0, 0, 0, 0.2) solid;
@@ -14,6 +22,15 @@
 .blog-article-image {
     padding: 0;
     background-color: white;
+}
+
+.blog-post-title {
+    color: $primary;
+}
+
+.blog-post-title:hover {
+    color: $dark-primary;
+    text-decoration: none;
 }
 
 .blog-post-categories {

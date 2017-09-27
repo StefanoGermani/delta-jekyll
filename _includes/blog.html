@@ -7,11 +7,15 @@
                 {% for post in paginator.posts %}
                     <div class="row blog-article">
                         <div class="col-md-5 blog-article-image">
-                            <img class="img-fluid" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
+                            <a href="{{ post.url }}">
+                                <img class="img-fluid" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
+                            </a>
                         </div>
                         <div class="col-md-7">
                             <span class="blog-post-categories">{{ post.categories }}</span>
-                            <h5>{{ post.title }}</h4>
+                            <a class="no-decoration" href="{{ post.url }}">
+                                <h5 class="blog-post-title">{{ post.title }}</h4>
+                            </a>
                             <h6 class="mb-2 text-muted">{{ post.description }}</h6>
                         </div>
                     </div>
