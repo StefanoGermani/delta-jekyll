@@ -4,19 +4,19 @@
 
 .no-decoration {
     text-decoration: none;
-}
-
-.no-decoration:hover {
-    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
 }
 
 .blog-article {
     padding: 0.5rem;
-    border-bottom: 1px rgba(0, 0, 0, 0.2) solid;
-}
-
-.blog-article:hover {
-    background-color: rgba(0, 0, 0, 0.03);
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.03);
+    }
+    &:not(:last-of-type) {
+        border-bottom: 1px rgba(0, 0, 0, 0.2) solid;
+    }
 }
 
 .blog-article-image {
@@ -26,15 +26,50 @@
 
 .blog-post-title {
     color: $primary;
-}
-
-.blog-post-title:hover {
-    color: $dark-primary;
-    text-decoration: none;
+    &:hover {
+        color: $dark-primary;
+        text-decoration: underline;
+    }
 }
 
 .blog-post-categories {
     color: $light-secondary;
     text-transform: uppercase;
     font-size: 0.7rem;
+}
+
+.popular-post {
+    position: relative;
+    margin-bottom: 0.7rem;
+    background-color: white;
+    //border: 1px rgba(0, 0, 0, 0.2) solid;
+}
+
+.popular-post-layout {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+}
+
+.popular-post-text {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.popular-post-number {
+    background-color: $secondary;
+    color: $text-light;
+    padding: 0.1rem 0.25rem;
+}
+
+.popular-post-title {
+    color: $text-light;
+    padding-left: 0.5rem;
+    font-size: 0.8rem;
 }
