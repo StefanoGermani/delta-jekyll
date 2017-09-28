@@ -2,6 +2,107 @@
     cursor: pointer;
 }
 
+.no-decoration {
+    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
 .blog-article {
-    height: 15rem;
+    padding: 0.5rem;
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.03);
+    }
+    &:not(:last-of-type) {
+        border-bottom: 1px rgba(0, 0, 0, 0.2) solid;
+    }
+}
+
+.blog-article-image {
+    padding: 0;
+    background-color: white;
+}
+
+.blog-post-title {
+    color: $primary;
+    &:hover {
+        color: $dark-primary;
+        text-decoration: underline;
+    }
+}
+
+.blog-post-categories {
+    color: $light-secondary;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+}
+
+.popular-title {
+    margin-bottom: 1rem;
+}
+
+.popular-layout {
+    flex-direction: column;
+    align-items: center;
+}
+
+.popular-post {
+    position: relative;
+    margin-bottom: 0.7rem;
+    background-color: white;
+
+    &:hover {
+        .popular-post-text:after {
+            width: 100%;
+        }
+        .popular-post-text {
+            background-color: $dark-primary;
+            border-color: $dark-primary;
+        }
+    }
+}
+
+.popular-post-layout {
+    display: flex;
+    align-items: center;
+}
+
+.popular-post-text {
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: $primary;
+    padding: 0.2rem 0;
+    border-bottom: 5px $primary solid;
+    &::after {
+        content: "";
+        bottom: -5px;
+        height: 5px;
+        background: $secondary;
+        position: absolute;
+        left: 0;
+        width: 0;
+        -webkit-transition: 0.25s ease-in-out;
+        -ms-transition: 0.25s ease-in-out;
+        -moz-transition: 0.25s ease-in-out;
+        -o-transition: 0.25s ease-in-out;
+        transition: 0.25s ease-in-out;
+    }
+}
+
+
+
+.popular-post-number {
+    background-color: $secondary;
+    color: $text-light;
+    padding: 0 0.25rem;
+}
+
+.popular-post-title {
+    color: $text-light;
+    padding-left: 0.5rem;
+    font-size: 0.8rem;
+    line-height: 1.2;
 }

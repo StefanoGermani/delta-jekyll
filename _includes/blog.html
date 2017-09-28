@@ -1,38 +1,44 @@
 {% assign first_post = site.posts.first %}
-{% assign posts = site.posts | shift %}
 
 <section class="container home">
     <div class="row">
-        <div class="col p-1">
-            <div class="card clickable" onclick="location.href='{{ first_post.url | relative_url }}';">
-                <img class="card-img-top" src="{{site.baseurl}}/assets/img/{{ first_post.image }}" alt="first post image">
-                <div class="card-body">
-                    <h4 class="card-title">{{ first_post.title }}</h4>
-                    <h6 class="card-subtitle mb-2 text-muted">{{ first_post.description }}</h6>
-                </div>
+        <div class="col-md-9 p-1">
+            <div class="container-fluid">
+                {% for post in paginator.posts %}
+                    <div class="row blog-article">
+                        <div class="col-md-4 p-0">
+                            <a href="{{ post.url }}">
+                                <img class="img-fluid blog-article-image" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
+                            </a>
+                        </div>
+                        <div class="col-md-8">
+                            <span class="blog-post-categories">{{ post.categories }}</span>
+                            <a class="no-decoration" href="{{ post.url }}">
+                                <h5 class="blog-post-title">{{ post.title }}</h4>
+                            </a>
+                            <h6 class="mb-2 text-muted">{{ post.description }}</h6>
+                        </div>
+                    </div>
+                {% endfor %}
             </div>
         </div>
-    </div>
-
-    {% for i in (0..1) %}
-        <div class="row">
-            {% assign start =  3 | times: i | plus: 1 %}
-            {% assign end =  3 | times: i | plus: 4 %}
-            {% for post in site.posts %}
-                {% if forloop.index > start and forloop.index <= end %}
-                    <div class="col-md-4 p-1">
-                        <div class="card clickable blog-article" onclick="location.href='{{ post.url | relative_url }}';">
-                            <img class="card-img-top" src="{{site.baseurl}}/assets/img/{{ post.image }}" alt="Post image">
-                            <div class="card-body">
-                                <h5 class="card-title">{{ post.title }}</h4>
-                                <h7 class="card-subtitle mb-2 text-muted">{{ post.description }}</h6>
+        <div class="d-none d-md-flex col-md-3 popular-layout">
+            <h5 class="popular-title">I post più popolari</h3>
+            {% for id in site.data.popular_posts %}
+                {% assign post = site.posts | where:"id", id | first %}
+                <a href="{{ post.url }}" class="no-decoration">
+                    <div class="popular-post">
+                        <div class="popular-post-layout">
+                            <div class="popular-post-text">
+                                <span class="popular-post-number">{{ forloop.index }}</span>
+                                <span class="popular-post-title">{{ post.title }}</span>
                             </div>
                         </div>
                     </div>
-                {% endif %}
+                </a>
             {% endfor %}
         </div>
-    {% endfor %}
+    </div>
 
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml " | relative_url }}">via RSS</a></p> -->
 </section>
