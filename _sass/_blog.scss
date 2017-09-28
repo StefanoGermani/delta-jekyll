@@ -51,47 +51,48 @@
     position: relative;
     margin-bottom: 0.7rem;
     background-color: white;
-    //border: 1px rgba(0, 0, 0, 0.2) solid;
+
+    &:hover {
+        .popular-post-text:after {
+            width: 100%;
+        }
+        .popular-post-text {
+            background-color: $dark-primary;
+            border-color: $dark-primary;
+        }
+    }
 }
 
 .popular-post-layout {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
     display: flex;
     align-items: center;
 }
 
 .popular-post-text {
     position: relative;
-    width: 90%;
+    width: 100%;
     display: flex;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: $primary;
     padding: 0.2rem 0;
     border-bottom: 5px $primary solid;
+    &::after {
+        content: "";
+        bottom: -5px;
+        height: 5px;
+        background: $secondary;
+        position: absolute;
+        left: 0;
+        width: 0;
+        -webkit-transition: 0.25s ease-in-out;
+        -ms-transition: 0.25s ease-in-out;
+        -moz-transition: 0.25s ease-in-out;
+        -o-transition: 0.25s ease-in-out;
+        transition: 0.25s ease-in-out;
+    }
 }
 
-.popular-post-text::after {
-    content: "";
-    bottom: -5px;
-    height: 5px;
-    background: $secondary;
-    position: absolute;
-    left:0;
-    width: 0;
-    -webkit-transition: 0.25s ease-in-out;
-    -ms-transition: 0.25s ease-in-out;
-    -moz-transition: 0.25s ease-in-out;
-    -o-transition: 0.25s ease-in-out;
-    transition: 0.25s ease-in-out;
-}
 
-.popular-post:hover .popular-post-text:after {
-    width: 100%;
-}
 
 .popular-post-number {
     background-color: $secondary;

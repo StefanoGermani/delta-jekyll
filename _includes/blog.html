@@ -28,7 +28,6 @@
                 {% assign post = site.posts | where:"id", id | first %}
                 <a href="{{ post.url }}" class="no-decoration">
                     <div class="popular-post">
-                        <img class="img-fluid" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
                         <div class="popular-post-layout">
                             <div class="popular-post-text">
                                 <span class="popular-post-number">{{ forloop.index }}</span>
