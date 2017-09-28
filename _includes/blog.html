@@ -6,9 +6,9 @@
             <div class="container-fluid">
                 {% for post in paginator.posts %}
                     <div class="row blog-article">
-                        <div class="col-md-4 blog-article-image">
+                        <div class="col-md-4 p-0">
                             <a href="{{ post.url }}">
-                                <img class="img-fluid" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
+                                <img class="img-fluid blog-article-image" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
                             </a>
                         </div>
                         <div class="col-md-8">
@@ -22,11 +22,11 @@
                 {% endfor %}
             </div>
         </div>
-        <div class="d-none d-md-block col-md-3">
-            <h5>I post più popolari</h3>
+        <div class="d-none d-md-flex col-md-3 popular-layout">
+            <h5 class="popular-title">I post più popolari</h3>
             {% for id in site.data.popular_posts %}
                 {% assign post = site.posts | where:"id", id | first %}
-                <a href="{{ post.url }}">
+                <a href="{{ post.url }}" class="no-decoration">
                     <div class="popular-post">
                         <img class="img-fluid" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
                         <div class="popular-post-layout">
