@@ -2,6 +2,7 @@
 $primary: #1aa7fa;
 $light-primary:#58bef8;
 $dark-primary: #1185c7;
+$transparent-primary: rgba(26, 167, 250, 0.8);
 $light-secondary:#f09354;
 $dark-secondary: #eb6308;
 $secondary: #f56e13;
@@ -25,6 +26,7 @@ $xl: 1200px; // Large devices (large desktops)
 @import './blog';
 @import './consultancy';
 @import './popular-posts';
+@import './post';
 
 html {
     font-size: 14px;
