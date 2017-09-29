@@ -21,11 +21,11 @@
     text-transform: uppercase;
     background-color: $secondary;
     padding: 0.5rem;
+    color: $text-light;
 }
 
 .post-title-override {
     @media (min-width: $md) {
-        position: absolute;
         bottom: 0;
         left: 0;
         right: 0;
@@ -36,19 +36,19 @@
 
 .post-title-layout {
     background-color: $primary;
-    color: $text-light;
     padding: 2rem 1rem 1rem 1rem;
     position: relative;
 
     @media (min-width: $md) {
-        width: 70%;
-        background-color: $transparent-primary;
+        width: 100%;
+        background-color: $primary;
     }
 }
 
 .post-title {
     font-size: 1.5rem;
     text-align: center;
+    color: $text-light;
 }
 
 .post-image {
