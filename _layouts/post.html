@@ -1,27 +1,36 @@
 ---
 layout: default
 ---
+
 <article class="container post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <img src="{{site.baseurl}}/assets/img/{{page.image}}" class="img-fluid" />
+    <header class="row post-header">
+        <div class="col-12">
+            <img src="{{site.baseurl}}/assets/img/{{page.image}}" class="d-none d-md-block img-fluid post-image" />
+            <img src="{{site.baseurl}}/assets/img/{{page.image_sharing}}" class="d-md-none img-fluid post-image" />
+            <div class="post-title-override">
+                <div class="post-title-layout">
+                    <div class="post-category-layout">
+                        <span class="post-category">{{ page.category }}</span>
+                    </div>
+                    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+                </div>
+            </div>
+        </div>
+    </header>
 
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
-  </header>
+    <div class="row post-content" itemprop="articleBody">
+        <div class="col-md-9">
+            {{ content }}
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+            {% if page.comments %}
+                {% include disqus_comments.html %}
+            {% endif %}
+        </div>
+        <div class="d-none d-md-flex col-md-3 post-side-layout">
+            {% include popular_posts.html %}
+        </div>
+    </div>
 
-  {% if page.comments %}
-    {% include disqus_comments.html %}
-  {% endif %}
+
 </article>

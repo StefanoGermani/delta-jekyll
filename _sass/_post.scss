@@ -1,0 +1,56 @@
+.post-header {
+    margin-bottom: 1.5rem;
+}
+
+.post-side-layout {
+    flex-direction: column;
+    align-items: center;
+}
+
+.post-category-layout {
+    position: absolute;
+    top: -1rem;
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.post-category {
+    text-transform: uppercase;
+    background-color: $secondary;
+    padding: 0.5rem;
+    color: $text-light;
+}
+
+.post-title-override {
+    @media (min-width: $md) {
+        bottom: 0;
+        left: 0;
+        right: 0;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.post-title-layout {
+    background-color: $primary;
+    padding: 2rem 1rem 1rem 1rem;
+    position: relative;
+
+    @media (min-width: $md) {
+        width: 100%;
+        background-color: $primary;
+    }
+}
+
+.post-title {
+    font-size: 1.5rem;
+    text-align: center;
+    color: $text-light;
+}
+
+.post-image {
+    width: 100%;
+}
