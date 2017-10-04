@@ -1,3 +1,7 @@
 .btn-invia {
     width: 10rem;
 }
+
+.cons-title {
+    @include font-title;
+}

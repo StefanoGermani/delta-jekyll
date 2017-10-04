@@ -1,5 +1,7 @@
 .popular-title {
+    @include font-title;
     margin-bottom: 1rem;
+    text-align: center;
 }
 
 .popular-post {
@@ -31,6 +33,7 @@
     background-color: $primary;
     padding: 0.2rem 0;
     border-bottom: 5px $primary solid;
+    border-top: 1px $primary solid;
     &::after {
         content: "";
         bottom: -5px;
@@ -54,8 +57,10 @@
 }
 
 .popular-post-title {
+    @include font-title;
     color: $text-light;
     padding-left: 0.5rem;
+    padding-right: 0.5rem;
     font-size: 0.8rem;
     line-height: 1.2;
 }

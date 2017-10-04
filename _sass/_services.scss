@@ -16,8 +16,12 @@
 }
 
 .feature-title {
+    @include font-title;
+    @include translateY(-100%);
     text-align: center;
-    margin-bottom: 1.5em;
+    font-weight: 500;
+    position: relative;
+    top: 100%;
 
     &:after {
         content: '';
@@ -37,7 +41,6 @@
     @include transition(.6s);
     height: 63px;
     margin-bottom: 1em;
-    margin-right: 10px;
 }
 
 .feature-box {
@@ -76,14 +79,6 @@
 
 .feature-box:hover .feature-icon {
     opacity: 0.2;
-}
-
-.feature-title {
-    @include translateY(-100%);
-    font-size: 1.41em;
-    font-weight: 500;
-    position: relative;
-    top: 100%;
 }
 
 .feature-icon {

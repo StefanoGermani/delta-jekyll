@@ -1,9 +1,11 @@
 .landing-title {
+    @include font-title;
     color: $primary;
     text-transform: uppercase;
 }
 
 .landing-subtitle {
+    @include font-text;
     margin: 30px 0;
     color: $light-primary;
 }
