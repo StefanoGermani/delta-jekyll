@@ -1,5 +1,25 @@
-.subscription-layout
-{
-    background-color: $light-primary;
+.subscription-layout {
+    background-color: $primary;
     padding: 1rem;
+}
+
+.subscription-form-group {
+    margin-bottom: 0.8rem;
+}
+
+.subscription-title {
+    text-align: center;
+    color: $text-light;
+    margin-bottom: 1.5rem;
+}
+
+.subscription-text {
+    font-size: 0.7rem;
+    color: $text-light;
+    text-align: center;
+    margin-top: 0.8rem;
+}
+
+.subscription-control {
+    font-size: 0.75rem;
 }
