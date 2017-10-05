@@ -1,6 +1,6 @@
 .subscription-layout {
     background-color: $primary;
-    padding: 1rem;
+    padding: 0.7rem;
 }
 
 .subscription-form-group {
@@ -8,9 +8,10 @@
 }
 
 .subscription-title {
+    @include font-title;
     text-align: center;
     color: $text-light;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .subscription-text {
