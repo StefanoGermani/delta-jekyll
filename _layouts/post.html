@@ -20,17 +20,20 @@ layout: default
     </header>
 
     <div class="row post-content" itemprop="articleBody">
-        <div class="col-md-9">
+        <div class="col-md-8 col-lg-9">
             {{ content }}
 
             {% if page.comments %}
                 {% include disqus_comments.html %}
             {% endif %}
         </div>
-        <div class="d-none d-md-flex col-md-3 post-side-layout">
-            {% include popular_posts.html %}
+        <div class="d-none d-md-flex col-md-4 col-lg-3 blog-side-layout">
+            <div class="mb-5">
+                    {% include subscription.html %}
+            </div>
+            <div>
+                    {% include popular_posts.html %}
+            </div>
         </div>
     </div>
-
-
 </article>
