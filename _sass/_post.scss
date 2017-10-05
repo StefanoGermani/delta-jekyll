@@ -56,6 +56,10 @@
     width: 100%;
 }
 
+.post-content {
+    text-align: justify;
+}
+
 .post-content h1, h2, h3, h4, h5, h6 {
     @include font-title;
 }
