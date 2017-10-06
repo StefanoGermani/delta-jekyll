@@ -1,37 +1,88 @@
-.feature-layout {
-    position: relative;
-    padding: 0.5rem;
-    height: 25rem;
+@mixin translateY($value) {
+    -ms-transform: translateY($value);
+    -moz-transform: translateY($value);
+    -webkit-transform: translateY($value);
+    transform: translateY($value);
 }
 
-.feature-box {
-    padding: 1rem;
-    height: 100%;
+@mixin transition($value) {
+    -moz-transition: $value;
+    -webkit-transition: $value;
+    transition: $value;
 }
 
 .feature-title {
-    color: $text-light;
-    font-size: 1.25rem;
-    margin-bottom: 1.5em;
+    @include font-title;
+    @include translateY(-100%);
     text-align: center;
+    position: relative;
+    &:after {
+        content: '';
+        display: block;
+        width: 220px;
+        height: 2px;
+        background: $dark-secondary;
+        margin: 6px auto;
+    }
 }
 
 .feature-description {
     text-align: justify;
 }
 
+.feature-title-wrapper {
+    @include transition(.6s);
+    height: 63px;
+    margin-bottom: 1em;
+}
+
+.feature-box {
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    &:hover {
+        .feature-info .feature-title-wrapper {
+            border-bottom-color: #fff;
+            margin-bottom: .75em;
+            padding-bottom: .3em;
+        }
+        .feature-icon {
+            opacity: 0.2;
+        }
+        .feature-info {
+            @include translateY(0);
+            top: 2em;
+        }
+    }
+    @media (min-width: $md) {
+        border-right-width: 0;
+        margin: 0;
+    }
+}
+
 .feature-info {
-    color: rgba(255, 255, 255, 0.95);
-    padding: 1rem 0;
+    @include translateY(100%);
+    @include transition(.6s);
+    position: absolute;
+    bottom: 80px;
+    cursor: default;
+    right: 2rem;
+    left: 2rem;
 }
 
 .feature-icon {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem 0;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0.5rem;
+    left: 0;
+    right: 0;
+    width: 120px;
+    height: 120px;
+    margin: auto;
 }
 
-.feature-img {
+.img-status {
     width: 120px;
 }
+
