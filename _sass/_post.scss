@@ -38,7 +38,6 @@
     background-color: $primary;
     padding: 2rem 1rem 1rem 1rem;
     position: relative;
-
     @media (min-width: $md) {
         width: 100%;
         background-color: $primary;
@@ -60,7 +59,13 @@
     text-align: justify;
 }
 
-.post-content h1, h2, h3, h4, h5, h6 {
-    @include font-title;
+.post-content {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        @include font-title;
+    }
 }
-
