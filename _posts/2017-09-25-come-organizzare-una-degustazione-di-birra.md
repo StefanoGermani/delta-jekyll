@@ -9,7 +9,7 @@ image_sharing: posts/beer-small.png
 comments: true
 ---
 
-Organizzare delle degustazioni è un'ottima mossa per promuovere, contemporaneamente, il proprio birrificio e far conoscere la propria birra ad un pubblico più vasto.
+Organizzare delle degustazioni è un'ottima mossa per promuovere il proprio birrificio e far conoscere la propria birra ad un pubblico più vasto.
 
 Qui vi darò dei consigli su come organizzare una degustazione che lasci il segno, permettendo ai clienti di associare la vostra birra ad una fantastica esperienza.
 
