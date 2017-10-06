@@ -12,19 +12,16 @@
 .feature-title {
     color: $text-light;
     font-size: 1.25rem;
+    margin-bottom: 1.5em;
+    text-align: center;
 }
 
 .feature-description {
     text-align: justify;
 }
 
-.feature-title-wrapper {
-    height: 63px;
-    margin-bottom: 1em;
-}
-
 .feature-info {
-    color: $text-light;
+    color: rgba(255, 255, 255, 0.95);
     padding: 1rem 0;
 }
 
@@ -32,8 +29,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 1rem 0;
 }
 
-.img-status {
+.feature-img {
     width: 120px;
 }
