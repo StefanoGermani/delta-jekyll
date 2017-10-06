@@ -1,29 +1,29 @@
 - title: Branding
   text: Ti aiutiamo a sviluppare un identità per il tuo business
   icon: assets/img/services/brand.png
-  color: "#1aa7fa"
+  color: "rgba(26, 167, 250, 0.5)"
 
-- title: Social media marketing
+- title: Social Media Marketing
   text: Creazione strategia per la comunicazione sui social media, campagne su social network
   icon: assets/img/services/sharing.png
-  color: "#f56e13"
+  color: "rgba(245, 110, 19, 0.5)"
 
 - title: Search Engine Optimization
-  text: Tecniche di ottimizzazione web per una adeguata indicizzazione del sito sui mototri di ricerca
+  text: Ottimizziamo la tua presenza sul web in modo che se un potenziale cliente sta cercando il tuo prodotto o servizio, tu sia il primo risultato che veda.
   icon: assets/img/services/analytics.png
-  color: "#1aa7fa"
+  color: "rgba(26, 167, 250, 0.5)"
 
 - title: Content Marketing
-  text: Progettazione e di sviluppo del tuo sito web
+  text: Creiamo contenuto di qualità per la tua azienda e utilizziamo strategie avanzate per far in modo che siano i tuoi clienti a venirti a cercare.
   icon: assets/img/services/world.png
-  color: "#f56e13"
+  color: "rgba(245, 110, 19, 0.5)"
 
 - title: Local Search Strategy
   text: Creazione business card, brochure, e tutti gli strumenti di marketing grafici necessari ad un’azienda
   icon: assets/img/services/work.png
-  color: "#1aa7fa"
+  color: "rgba(26, 167, 250, 0.5)"
 
 - title: Pubblicità
-  text: Applichiamo strategie per il mantenimento della clientela già esistente ed aumentare il grado di soddisfazione del cliente
+  text: Raggiungiamo i tuoi clienti ideali tramite pubblicità mirata online e offline.
   icon: assets/img/services/brand.png
-  color: "#f56e13"
+  color: "rgba(245, 110, 19, 0.5)"
