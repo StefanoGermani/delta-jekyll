@@ -16,6 +16,7 @@
     @include translateY(-100%);
     text-align: center;
     position: relative;
+    top: 100%;
     &:after {
         content: '';
         display: block;
