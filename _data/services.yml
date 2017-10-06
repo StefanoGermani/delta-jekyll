@@ -1,23 +1,29 @@
 - title: Branding
   text: Ti aiutiamo a sviluppare un identità per il tuo business
   icon: assets/img/services/brand.png
+  color: "#58bef8"
 
 - title: Social media marketing
   text: Creazione strategia per la comunicazione sui social media, campagne su social network
   icon: assets/img/services/sharing.png
+  color: "#f56e13"
 
 - title: Search Engine Optimization
   text: Tecniche di ottimizzazione web per una adeguata indicizzazione del sito sui mototri di ricerca
   icon: assets/img/services/analytics.png
+  color: "#1185c7"
 
 - title: Web design
   text: Progettazione e di sviluppo del tuo sito web
   icon: assets/img/services/world.png
+  color: "#eb6308"
 
 - title: Grafica Business
   text: Creazione business card, brochure, e tutti gli strumenti di marketing grafici necessari ad un’azienda
   icon: assets/img/services/work.png
+  color: "#1aa7fa"
 
 - title: Fidelizzazione
   text: Applichiamo strategie per il mantenimento della clientela già esistente ed aumentare il grado di soddisfazione del cliente
   icon: assets/img/services/brand.png
+  color: "#f09354"

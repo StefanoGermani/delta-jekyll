@@ -1,36 +1,20 @@
-@mixin translateY($value) {
-    -ms-transform: translateY($value);
-    -moz-transform: translateY($value);
-    -webkit-transform: translateY($value);
-    transform: translateY($value);
+.feature-layout {
+    position: relative;
+    height: 20rem;
 }
 
-@mixin transition($value) {
-    -moz-transition: $value;
-    -webkit-transition: $value;
-    transition: $value;
-}
-
-.features {
-    color: $text-light;
+.feature-box {
+    position: absolute;
+    top: 0.5rem;
+    bottom: 0.5rem;
+    left: 0.5rem;
+    right: 0.5rem;
+    padding: 0.5rem;
 }
 
 .feature-title {
-    @include font-title;
-    @include translateY(-100%);
-    text-align: center;
-    font-weight: 500;
-    position: relative;
-    top: 100%;
-
-    &:after {
-        content: '';
-        display: block;
-        width: 220px;
-        height: 2px;
-        background: $dark-secondary;
-        margin: 6px auto;
-    }
+    color: $text-light;
+    font-size: 1.25rem;
 }
 
 .feature-description {
@@ -38,56 +22,16 @@
 }
 
 .feature-title-wrapper {
-    @include transition(.6s);
     height: 63px;
     margin-bottom: 1em;
 }
 
-.feature-box {
-    height: 300px;
-    overflow: hidden;
-    position: relative;
-}
-
-@media (min-width: $md) {
-    .feature-box {
-        border-right-width: 0;
-        margin: 0;
-    }
-}
-
 .feature-info {
-    @include translateY(100%);
-    @include transition(.6s);
-    position: absolute;
-    bottom: 80px;
-    cursor: default;
-    right: 2rem;
-    left: 2rem;
-}
-
-.feature-box:hover .feature-info {
-    @include translateY(0);
-    top: 2em;
-}
-
-.feature-box:hover .feature-info .feature-title-wrapper {
-    border-bottom-color: #fff;
-    margin-bottom: .75em;
-    padding-bottom: .3em;
-}
-
-.feature-box:hover .feature-icon {
-    opacity: 0.2;
+    color: $text-light;
 }
 
 .feature-icon {
     display: block;
-    position: absolute;
-    top: 0;
-    bottom: 0.5rem;
-    left: 0;
-    right: 0;
     width: 120px;
     height: 120px;
     margin: auto;

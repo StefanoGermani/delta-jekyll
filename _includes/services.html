@@ -6,15 +6,17 @@
     </div>
     <div class="row">
         {% for service in site.data.services %}
-        <div class="col-sd-{{ 36 | divided_by:site.data.services.size }} col-md-{{ 24 | divided_by:site.data.services.size }} feature-box">
-            <div class="feature-icon">
-                <img src="{{ service.icon }}" alt="icona servizio" class="img-status">
-            </div>
-            <div class="feature-info">
-                <div class="feature-title-wrapper">
-                    <h4 class="feature-title">{{ service.title }}</h4>
+        <div class="col-sm-3 col-md-4 feature-layout">
+            <div class="feature-box" style="background-color: {{ service.color }}">
+                <div class="feature-icon">
+                    <img src="{{ service.icon }}" alt="icona servizio" class="img-status">
                 </div>
-                <p class="feature-description">{{ service.text }}</p>
+                <div class="feature-info">
+                    <div class="feature-title-wrapper">
+                        <h4 class="feature-title">{{ service.title }}</h4>
+                    </div>
+                    <p class="feature-description">{{ service.text }}</p>
+                </div>
             </div>
         </div>
         {% endfor %}
