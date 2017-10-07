@@ -1,13 +1,13 @@
 - title: Branding
-  text: Il brand è l'identità del tuo business. Un brand forte non solo ti permette di essere scelto tra i tuoi competitor, ma anche essere percepito dai clienti come l'unico che possa rispondere alle loro esigenze.
-  icon: assets/img/services/brand.png
+  text: Il branding è il processo di creazione di un brand. Esso non solo ti permette di essere scelto tra i tuoi competitor, ma anche essere percepito dai clienti come l'unico che possa rispondere alle loro esigenze.
+  icon: assets/img/services/idea.png
 
 - title: Social Media Marketing
   text: Creazione strategia per la comunicazione sui social media, campagne su social network
   icon: assets/img/services/sharing.png
 
 - title: Search Engine Optimization (SEO)
-  text: Ottimizziamo la tua presenza sul web in modo che se un potenziale cliente sta cercando il tuo prodotto o servizio, tu sia il primo risultato che veda.
+  text: Ottimizziamo la tua presenza sul web in modo che se un potenziale cliente sta cercando il tuo prodotto o servizio, tu sia il primo risultato sui motori di ricerca che veda.
   icon: assets/img/services/analytics.png
 
 - title: Content Marketing
@@ -15,7 +15,7 @@
   icon: assets/img/services/world.png
 
 - title: Local Search Strategy
-  text: I tuoi potenziali clienti devono innanzitutto riuscire a trovarti. Registriamo il tuo business su Google Maps
+  text: I tuoi potenziali clienti devono innanzitutto riuscire a trovarti. Registriamo il tuo business e gestiamo i tuoi account su Google Maps, Yelp, Bing e dovunque sia più adatto.
   icon: assets/img/services/work.png
 
 - title: Pubblicità
