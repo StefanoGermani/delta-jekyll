@@ -9,9 +9,9 @@ image_sharing: posts/branding-small.png
 comments: true
 ---
 
-### Che cosa è il branding?
+### Che cosa è un brand?
 
-Molti anni fa il branding era definito come nome, slogan, sigla, simbolo o design, o una combinazione di questi elementi, che identificava il prodotto o i servizi di una società. Il brand era l'insieme degli elementi che differenziavano i tuoi prodotti e/o servizi dai tuoi competitor.
+Molti anni fa il brand era definito come nome, slogan, sigla, simbolo o design, o una combinazione di questi elementi, che identificava il prodotto o i servizi di una società. Era l'insieme degli elementi che differenziavano i tuoi prodotti e/o servizi dai tuoi competitor.
 
 Oggi il brand è un po’ più complesso, ma più importante nel mondo del marketing attuale.
 
@@ -31,7 +31,7 @@ Gli obiettivi che un buon brand riesce a raggiungere sono:
 
 ### Branding: capire i tuoi clienti
 
-Per aver successo nel branding, devi capire i bisogni e le necessità dei tuoi clienti e integrare la tua strategia di brand in ogni parte della tua società. Il branding deve diventare l'espressione di chi sei e di che cosa offri.
+Per aver successo nel branding, devi capire i bisogni e le necessità dei tuoi clienti e integrare la tua strategia di brand in ogni parte della tua società. Il tuo brand deve diventare l'espressione di chi sei e di che cosa offri.
 
 I consumatori devono identificarsi con il tuo brand, in questo modo diverrà parte di loro. Esso è l'insieme delle esperienze che avranno con il tuo business, alcune delle quali puoi influenzare, altre no.
 
