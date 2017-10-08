@@ -1,23 +1,23 @@
 - title: Branding
-  text: Ti aiutiamo a sviluppare un identità per il tuo business
-  icon: assets/img/services/brand.png
+  text: Il branding è il processo di creazione di un brand. Esso non solo ti permette di essere scelto tra i tuoi competitor, ma anche essere percepito dai clienti come l'unico che possa rispondere alle loro esigenze.
+  icon: assets/img/services/idea.png
 
-- title: Social media marketing
+- title: Social Media Marketing
   text: Creazione strategia per la comunicazione sui social media, campagne su social network
   icon: assets/img/services/sharing.png
 
-- title: Search Engine Optimization
-  text: Tecniche di ottimizzazione web per una adeguata indicizzazione del sito sui mototri di ricerca
+- title: Search Engine Optimization (SEO)
+  text: Ottimizziamo la tua presenza sul web in modo che se un potenziale cliente sta cercando il tuo prodotto o servizio, tu sia il primo risultato sui motori di ricerca che veda.
   icon: assets/img/services/analytics.png
 
-- title: Web design
-  text: Progettazione e di sviluppo del tuo sito web
+- title: Content Marketing
+  text: Creiamo contenuto di qualità per la tua azienda e utilizziamo strategie avanzate per far in modo che siano i tuoi clienti a venirti a cercare.
   icon: assets/img/services/world.png
 
-- title: Grafica Business
-  text: Creazione business card, brochure, e tutti gli strumenti di marketing grafici necessari ad un’azienda
+- title: Local Search Strategy
+  text: I tuoi potenziali clienti devono innanzitutto riuscire a trovarti. Registriamo il tuo business e gestiamo i tuoi account su Google Maps, Yelp, Bing e dovunque sia più adatto.
   icon: assets/img/services/work.png
 
-- title: Fidelizzazione
-  text: Applichiamo strategie per il mantenimento della clientela già esistente ed aumentare il grado di soddisfazione del cliente
+- title: Pubblicità
+  text: Raggiungiamo i tuoi clienti ideali tramite pubblicità mirata online e offline.
   icon: assets/img/services/brand.png
