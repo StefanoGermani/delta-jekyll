@@ -12,6 +12,7 @@
 permalink: /blog/:title
 url: https://deltalocalmarketing.it
 baseurl:
+title: Delta Local Marketing
 
 # Build settings
 markdown: kramdown
