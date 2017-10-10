@@ -42,3 +42,18 @@
     flex-direction: column;
 }
 
+.blog-paginator {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.blog-paginator-link {
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
+
+.blog-paginator-disabled {
+    color: #868e96!important;
+    pointer-events: none;
+}

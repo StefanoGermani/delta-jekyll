@@ -31,6 +31,13 @@
             </div>
         </div>
     </div>
-
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml " | relative_url }}">via RSS</a></p> -->
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="blog-paginator">
+                <a class="delta-link blog-paginator-link{% unless paginator.previous_page %} blog-paginator-disabled{% endunless %}" href="{{ paginator.previous_page_path }}">&lt;&lt; &nbsp;Indietro</a>
+                <a class="delta-link blog-paginator-link" href="{{site.baseurl}}/blog/archivio">Archivio</a>
+                <a class="delta-link blog-paginator-link{% unless paginator.next_page %} blog-paginator-disabled{% endunless %}" href="{{ paginator.next_page_path }}">Avanti&nbsp; &gt;&gt;</a>
+            </div>
+        </div>
+    </div>
 </section>

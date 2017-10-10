@@ -81,6 +81,15 @@ body {
     }
 }
 
+.delta-link {
+    text-decoration: none;
+    color: $primary;
+    &:hover {
+        color: $dark-primary;
+        text-decoration: none;
+    }
+}
+
 .btn {
     border-radius: 0;
 }
