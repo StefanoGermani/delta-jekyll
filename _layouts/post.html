@@ -8,7 +8,7 @@ layout: default
         <div class="col-12">
             <img src="{{site.baseurl}}/assets/img/{{page.image}}" class="d-none d-md-block img-fluid post-image" />
             <img src="{{site.baseurl}}/assets/img/{{page.image_sharing}}" class="d-md-none img-fluid post-image" />
-            <div class="post-title-override">
+            <div {% unless page.old_post %}class="post-title-override"{% endunless %}>
                 <div class="post-title-layout">
                     <div class="post-category-layout">
                         <span class="post-category">{{ page.category }}</span>

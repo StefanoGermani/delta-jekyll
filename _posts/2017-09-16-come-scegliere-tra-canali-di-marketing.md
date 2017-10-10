@@ -7,6 +7,7 @@ image: posts/paid-channels.png
 image_sharing: posts/paid-channels-small.png
 category: pubblicità
 comments: true
+old_post: true
 ---
 
 Di solito, quando si vuole pubblicizzare la propria attività online, se si hanno soldi si compra della pubblicità, altrimenti si scelgono i canali gratuiti. Questo atteggiamento è logico, ma non è la migliore strategia di marketing che si possa scegliere e, soprattutto, non aiuta veramente a spingere il proprio business.

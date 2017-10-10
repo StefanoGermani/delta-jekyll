@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Che cosa è la personalizzazione nel Marketing?
+title: Che cos'è la personalizzazione nel Marketing?
 description: Come un tocco personale può fare la differenza!
-date:   2017-08-01 11:10:19 +0200
-categories: personalizzazione marketing
+date: 2017-10-02 11:00:00 +0200
+category: personalizzazione
+image: posts/personalization.jpg
+image_sharing: posts/personalization-small.jpg
 comments: true
 ---
 
