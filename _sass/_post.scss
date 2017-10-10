@@ -60,9 +60,6 @@
 
 .post-content {
     text-align: justify;
-}
-
-.post-content {
     h1,
     h2,
     h3,
@@ -71,11 +68,9 @@
     h6 {
         @include font-title;
     }
-
     h3 {
         margin-bottom: 0.6rem;
     }
-
     blockquote {
         padding-left: 1rem;
         font-style: italic;
