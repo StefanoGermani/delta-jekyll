@@ -69,10 +69,15 @@
         @include font-title;
     }
     h3 {
+        padding-top: 0.6rem;
         margin-bottom: 0.6rem;
     }
     h2 {
+        padding-top: 1rem;
         margin-bottom: 1rem;
+    }
+    h4 {
+        padding-top: 0.5rem;
     }
     blockquote {
         padding-left: 1rem;
