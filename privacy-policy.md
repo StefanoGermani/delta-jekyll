@@ -5,8 +5,11 @@ layout: page
 ## Titolare del Trattamento dei Dati
 
 > Stefano Germani
+
 > Via della loggia, 27
+
 > 05020 Lugnano in teverina (TR)
+
 > Italia
 
 
