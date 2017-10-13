@@ -1,12 +1,25 @@
 .thankyou-layout {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom: 0;
-    top: 0;
+    bottom: 6rem;
+    top: 6rem;
     left: 0;
     right: 0;
-    padding-bottom: 6rem;
     text-align: center;
+
+    @media screen and (min-width: $md) {
+        bottom: 12rem;
+    }
+}
+
+.thankyou-title {
+    color: $secondary;
+    margin-bottom: 1.5rem;
+}
+
+.thankyou-subtitle {
+    color: $primary;
 }
