@@ -72,15 +72,14 @@
 }
 
 .feature-icon {
-    display: block;
+    display: flex;
     position: absolute;
     top: 0;
     bottom: 0.5rem;
     left: 0;
     right: 0;
-    width: 220px;
-    height: 220px;
-    margin: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 .img-status {

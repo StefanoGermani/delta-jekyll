@@ -4,19 +4,19 @@
 
 - title: Social Media Marketing
   text: Creazione strategia per la comunicazione sui social media, campagne su social network
-  icon: assets/img/services/sharing.png
+  icon: assets/img/services/social-media-marketing.png
 
 - title: Search Engine Optimization (SEO)
   text: Ottimizziamo la tua presenza sul web in modo che se un potenziale cliente sta cercando il tuo prodotto o servizio, tu sia il primo risultato sui motori di ricerca che veda.
-  icon: assets/img/services/analytics.png
+  icon: assets/img/services/seo.png
 
 - title: Content Marketing
   text: Creiamo contenuto di qualità per la tua azienda e utilizziamo strategie avanzate per far in modo che siano i tuoi clienti a venirti a cercare.
-  icon: assets/img/services/world.png
+  icon: assets/img/services/content-marketing.png
 
 - title: Local Search Strategy
   text: I tuoi potenziali clienti devono innanzitutto riuscire a trovarti. Registriamo la tua società su Google Maps, Yelp, Bing e ovunque sia più adatto. Inoltre miglioriamo la tua reputazione tramite una gestione attenta delle recensioni dei clienti.
-  icon: assets/img/services/work.png
+  icon: assets/img/services/local-search-strategy.png
 
 - title: Pubblicità
   text: Raggiungiamo i tuoi clienti ideali tramite pubblicità mirata online e offline.
