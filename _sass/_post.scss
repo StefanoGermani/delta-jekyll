@@ -83,4 +83,7 @@
         padding-left: 1rem;
         font-style: italic;
     }
+    a {
+        @extend .delta-link;
+    }
 }

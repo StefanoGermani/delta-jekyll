@@ -7,7 +7,6 @@ image: posts/restaurant-tips.png
 image_sharing: posts/restaurant-tips-small2.png
 category: ristorante
 comments: true
-old_post: true
 ---
 
 

@@ -7,7 +7,6 @@ category: branding
 image: posts/branding.png
 image_sharing: posts/branding-small.png
 comments: true
-old_post: true
 ---
 
 ### Che cosa è un brand?

@@ -7,7 +7,6 @@ image: posts/facebook-tips.png
 image_sharing: posts/facebook-tips-small.png
 category: social media
 comments: true
-old_post: true
 ---
 
 Per sviluppare una presenza online significativa, la gestione corretta dei tuoi profili sui social media è essenziale. Ogni strategia di marketing di successo ne ha bisogno! Ci sono delle ovvie, e importanti, azioni da fare: avere eleganti foto di profilo e copertina, pubblicare contenuto interessante e coinvolgere i potenziali clienti. Inoltre, qui troverai dei suggerimenti per ottimizzare la tua pagina Facebook e assicurarti ti stia veramente aiutando a raggiungere la tua utenza.

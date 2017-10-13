@@ -7,7 +7,6 @@ category: fidelizzazione
 image: posts/fidelization.png
 image_sharing: posts/fidelization-small.png
 comments: true
-old_post: true
 ---
 
 **I migliori venditori usano queste sei semplici regole per far sì che i loro clienti continuino a comprare da loro vincendo sulla concorrenza.**

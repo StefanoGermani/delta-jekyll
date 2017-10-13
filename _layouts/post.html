@@ -8,13 +8,11 @@ layout: default
         <div class="col-12">
             <img src="{{site.baseurl}}/assets/img/{{page.image}}" class="d-none d-md-block img-fluid post-image" />
             <img src="{{site.baseurl}}/assets/img/{{page.image_sharing}}" class="d-md-none img-fluid post-image" />
-            <div {% unless page.old_post %}class="post-title-override"{% endunless %}>
-                <div class="post-title-layout">
-                    <div class="post-category-layout">
-                        <span class="post-category">{{ page.category }}</span>
-                    </div>
-                    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+            <div class="post-title-layout">
+                <div class="post-category-layout">
+                    <span class="post-category">{{ page.category }}</span>
                 </div>
+                <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
             </div>
         </div>
     </header>
