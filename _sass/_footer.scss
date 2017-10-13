@@ -6,12 +6,19 @@
 
 footer {
     position: relative;
-    margin-top: -2rem;
-    /* negative value of footer height */
-    height: 2rem;
+    margin-top: -3rem;
+    height: 3rem;
     clear: both;
     background-color: $light-primary;
     color: $text-light;
     font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @media screen and (min-width: $sm) {
+        margin-top: -2rem;
+        height: 2rem;
+    }
 }
 
