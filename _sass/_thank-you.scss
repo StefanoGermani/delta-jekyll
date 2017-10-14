@@ -23,3 +23,11 @@
 .thankyou-subtitle {
     color: $primary;
 }
+
+.thankyou-link {
+    color: $secondary;
+    &:hover {
+        color: $dark-primary;
+        text-decoration: none;
+    }
+}
