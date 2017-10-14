@@ -1,0 +1,33 @@
+.thankyou-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 6rem;
+    top: 6rem;
+    left: 0;
+    right: 0;
+    text-align: center;
+
+    @media screen and (min-width: $md) {
+        bottom: 12rem;
+    }
+}
+
+.thankyou-title {
+    color: $secondary;
+    margin-bottom: 1.5rem;
+}
+
+.thankyou-subtitle {
+    color: $primary;
+}
+
+.thankyou-link {
+    color: $secondary;
+    &:hover {
+        color: $dark-primary;
+        text-decoration: none;
+    }
+}

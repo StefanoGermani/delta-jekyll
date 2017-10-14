@@ -8,7 +8,11 @@
 
     <meta charset="utf-8">
     <meta name="description" content="{{ page.description }}">
-    <meta name="robots" content="index, follow">
+    {% if page.noindex %}
+        <meta name="robots" content="noindex">
+    {% else %}
+        <meta name="robots" content="index, follow">
+    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Delta Local Marketing{% if page.title %} - {% endif %}{{ page.title }}</title>
 
