@@ -55,4 +55,4 @@ Alla fine della degustazione fornisci una brochure esplicativa in cui siano pres
 
 #### Conclusione
 
-Organizzare una degustazione non è cosi' semplice come può sembrare, infatti bisogna tenere in considerazione molti fattori per riuscire nel migliore dei modi. Tu come organizzi la degustazione? Hai altri consigli da condividere?
+Organizzare una degustazione non è così semplice come può sembrare, infatti bisogna tenere in considerazione molti fattori per riuscire nel migliore dei modi. Tu come organizzi la degustazione? Hai altri consigli da condividere?
