@@ -4,3 +4,18 @@ description: Sviluppiamo strategie di marketing personalizzate per aiutare il tu
 ---
 
 {% include landing.html %}
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Delta Local Marketing",
+        "url": "{{ site.url }}"
+        "logo": {
+            "@type": "ImageObject",
+            "contentUrl": "{{site.url}}{{site.baseurl}}/assets/img/delta-logo.svg",
+            "url": "{{site.url}}"
+        },
+        "sameAs" : [ "https://www.facebook.com/deltalocalmarketing" ]
+    }
+</script>
