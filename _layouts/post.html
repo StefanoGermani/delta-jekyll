@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="container post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="container post" >
 
     <header class="row post-header">
         <div class="col-12">
@@ -12,14 +12,16 @@ layout: default
                 <div class="post-category-layout">
                     <span class="post-category">{{ page.category }}</span>
                 </div>
-                <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+                <h1 class="post-title">{{ page.title | escape }}</h1>
             </div>
         </div>
     </header>
 
-    <div class="row post-content" itemprop="articleBody">
+    <div class="row post-content">
         <div class="col-md-8 col-lg-9">
-            {{ content }}
+            <div>
+                {{ content }}
+            </div>
 
             {% if page.comments %}
                 {% include disqus_comments.html %}
@@ -35,3 +37,24 @@ layout: default
         </div>
     </div>
 </article>
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "name": "{{ page.title | escape }}",
+        "headline": "{{ page.title | escape }}",
+        "author": {
+            "@type": "Person",
+            "name": "{{ page.author }}"
+        },
+        "image": "{{site.url}}{{site.baseurl}}/assets/img/{{ page.image_sharing }}",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Delta Local Marketing",
+            "logo": "{{site.url}}{{site.baseurl}}/assets/img/delta-logo.svg"
+        },
+        "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
+        "dateModified": "{{ page.date | date: "%Y-%m-%d" }}"
+    }
+</script>
