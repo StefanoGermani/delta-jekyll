@@ -52,9 +52,18 @@ layout: default
         "publisher": {
             "@type": "Organization",
             "name": "Delta Local Marketing",
-            "logo": "{{site.url}}{{site.baseurl}}/assets/img/delta-logo.svg"
+            "logo": {
+                "@type": "ImageObject",
+                "contentUrl": "{{site.url}}{{site.baseurl}}/assets/img/delta-logo.svg",
+                "url": "{{site.url}}"
+            }
         },
         "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
-        "dateModified": "{{ page.date | date: "%Y-%m-%d" }}"
+        "dateModified": "{{ page.date | date: "%Y-%m-%d" }}",
+        "articleBody": "{{ content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}",
+        "mainEntityOfPage": {
+            "@type":"WebPage",
+            "@id":"{{site.url}}{{ page.url }}"
+         }
     }
 </script>
