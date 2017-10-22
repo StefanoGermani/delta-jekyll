@@ -3,6 +3,7 @@ layout: post
 title:  6 regole per fidelizzare i tuoi clienti
 description: Scopri cosa usano i migliori venditori per tenersi i propri clienti
 date:   2017-09-19 11:00:00 +0200
+author: Stefano Germani
 category: fidelizzazione
 image: posts/fidelization.png
 image_sharing: posts/fidelization-small.png

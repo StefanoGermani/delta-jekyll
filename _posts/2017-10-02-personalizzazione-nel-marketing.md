@@ -3,6 +3,7 @@ layout: post
 title: Che cos'è la personalizzazione nel Marketing?
 description: Come un tocco personale può fare la differenza!
 date: 2017-10-02 11:00:00 +0200
+author: Stefano Germani
 category: personalizzazione
 image: posts/personalization.jpg
 image_sharing: posts/personalization-small.jpg

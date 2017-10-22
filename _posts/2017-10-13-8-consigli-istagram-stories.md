@@ -2,6 +2,7 @@
 layout: post
 title:  8 consigli per usare Instagram Stories per far crescere il tuo brand
 description: Scopri come usare le Instagram Stories per aumentare il coinvolgimento dei tuoi clienti e aumentare le tue vendite.
+author: Stefano Germani
 date:   2017-10-13 00:00:00 +0200
 image: posts/instagram-stories-small.jpg
 image_sharing: posts/instagram-stories.jpg
