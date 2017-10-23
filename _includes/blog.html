@@ -2,16 +2,16 @@
 
 <section class="container home">
     <div class="row">
-        <div class="col-md-8 col-lg-9 p-1">
+        <div class="col-sm-7 col-md-8 col-lg-9 p-1">
             <div class="container-fluid">
                 {% for post in paginator.posts %}
                     <div class="row blog-article">
-                        <div class="col-md-4 p-0">
+                        <div class="col-md-4 px-0">
                             <a href="{{ post.url }}">
                                 <img class="img-fluid blog-article-image" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
                             </a>
                         </div>
-                        <div class="col-md-8">
+                        <div class="col-md-8 p-0 pl-md-3">
                             <span class="blog-post-categories">{{ post.categories }}</span>
                             <a class="no-decoration" href="{{ post.url }}">
                                 <h5 class="blog-post-title">{{ post.title }}</h4>
@@ -22,12 +22,12 @@
                 {% endfor %}
             </div>
         </div>
-        <div class="d-none d-md-flex col-md-4 col-lg-3 blog-side-layout">
+        <div class="d-none d-sm-flex col-sm-5 col-md-4 col-lg-3 blog-side-layout">
             <div class="mb-5">
-                    {% include subscription.html %}
+                {% include subscription.html %}
             </div>
             <div>
-                    {% include popular_posts.html %}
+                {% include popular_posts.html %}
             </div>
         </div>
     </div>
