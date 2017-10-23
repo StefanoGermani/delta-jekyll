@@ -75,10 +75,10 @@ body {
     background-color: $secondary;
     border-color: $secondary;
     cursor: pointer;
-
     &:hover {
         background-color: $dark-secondary;
         border-color: $dark-secondary;
+        color: $text-light;
     }
 }
 
