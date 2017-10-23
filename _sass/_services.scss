@@ -11,6 +11,27 @@
     transition: $value;
 }
 
+.services-title {
+    text-transform: uppercase;
+}
+
+.services-description-layout
+{
+    background-color: $primary;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.services-description {
+    color: $text-light;
+    text-align: center;
+}
+
+.services-cta-layout{
+    text-align: center;
+    padding-top: 1rem;
+}
+
 .feature-title {
     @include font-title;
     @include translateY(-100%);
@@ -85,4 +106,3 @@
 .img-status {
     width: 220px;
 }
-
