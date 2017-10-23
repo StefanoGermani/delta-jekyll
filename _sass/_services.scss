@@ -15,11 +15,28 @@
     text-transform: uppercase;
 }
 
-.services-description-layout
+.services-description-container
 {
     background-color: $primary;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.services-description-layout {
+    @media screen and (min-width: $sm) {
+        width: 450px;
+    }
+    @media screen and (min-width: $md) {
+        width: 650px;
+    }
+    @media screen and (min-width: $lg) {
+        width: 750px;
+    }
+    @media screen and (min-width: $xl) {
+        width: 900px;
+    }
 }
 
 .services-description {
