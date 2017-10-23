@@ -17,9 +17,11 @@ Qui ti proponiamo quattro social media trend su cui devi iniziare a concentrarti
 
 #### 1. I chatbot sono arrivati. Devi imparare ad usarli.
 
-Questa tecnologia, che simula una conversazione, è estremamente utile per il tuo business. Infatti il servizio clienti si è evoluto dalle chiamate al telefono, alle email, fino ai social network. Le persone vogliono risposte immediate alle loro domande e per riceverne utilizzano i social network.
+Questa tecnologia, che simula una conversazione, è estremamente utile per il tuo business.
 
-Prima rispondi, più il cliente si sente gratificato. I chatbot ti consentono di rispondere all'istante ed impostarli è davvero semplice.
+Oggi le persone vogliono risposte immediate alle loro domande e per riceverne utilizzano i social network. Prima rispondi, più il cliente si sente gratificato.
+
+I chatbot ti consentono di rispondere all'istante ed impostarli è davvero semplice.
 
 I social media sono il fulcro dell'interazione con gli utenti del proprio brand ed è bene tenerlo sempre a mente, i chatbot permettono di fornire risposte istantanee che danno l'impressione di essere personalizzate a chiunque.
 

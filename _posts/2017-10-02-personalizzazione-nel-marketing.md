@@ -33,7 +33,7 @@ Uno studio dell’Università del Texas ha concluso che la personalizzazione nel
 2. **Il desiderio di controllo**: Il marketing personalizzato funziona da filtro per i clienti, rimuovendo le informazioni non necessarie e ridando il controllo al consumatore.
 
 
-## Quali sono i benefici del Marketing Personalizzato?
+### Quali sono i benefici del Marketing Personalizzato?
 
 I benefici del marketing personalizzato includono:
 
