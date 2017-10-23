@@ -12,7 +12,26 @@
 }
 
 .services-title {
+    @include font-title;
     text-transform: uppercase;
+    text-align: center;
+    color: $secondary;
+    padding: 1rem;
+    &:after {
+        content: '';
+        display: block;
+        width: 210px;
+        height: 2px;
+        background: $primary;
+        margin: 6px auto;
+
+        @media screen and (min-width: $md) {
+            width: 240px;
+        }
+        @media screen and (min-width: $xl) {
+            width: 270px;
+        }
+    }
 }
 
 .services-description-container
