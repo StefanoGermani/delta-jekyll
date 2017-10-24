@@ -1,4 +1,10 @@
-<div class="mb-5">
+---
+layout: default
+title: Servizi
+description: Sviluppiamo strategie di marketing personalizzate per aiutare il tuo business ad avere il successo che merita.
+---
+
+<div class="mb-4">
     <h2 class="services-title">I nostri servizi</h2>
 </div>
 <div class="services-description-container">
@@ -33,10 +39,11 @@
                 </div>
                 <p class="feature-description">{{ service.text }}</p>
                 <div class="feature-find-more-layout">
-                    <a class="btn btn-delta" href="{{site.baseurl}}/consulenza-gratuita">Scopri di più</a>
+                    <a class="btn btn-delta" href="{{site.baseurl}}{{service.link}}">Scopri di più</a>
                 </div>
             </div>
         </div>
         {% endfor %}
     </div>
 </section>
+
