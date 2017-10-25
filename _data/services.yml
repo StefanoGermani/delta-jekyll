@@ -1,23 +1,29 @@
 - title: Branding
-  text: Il branding è il processo di creazione di un brand. Il brand non solo ti permette di essere scelto tra i tuoi competitor, ma anche essere percepito dai clienti come l'unico che possa rispondere alle loro esigenze.
-  icon: assets/img/services/idea.png
+  text: Un brand ti permettere essere percepito dai tuoi clienti come l'unico che possa rispondere alle loro esigenze.
+  icon: /assets/img/services/branding.png
+  link: /servizi/branding
 
 - title: Social Media Marketing
-  text: Creazione strategia per la comunicazione sui social media, campagne su social network
-  icon: assets/img/services/sharing.png
+  text: Aumenta la tua visibilità e coinvolgi i tuoi clienti tramite campagne sui social network (Facebook, Instagram, Twitter...).
+  icon: /assets/img/services/social-media-marketing.png
+  link: /servizi/social-media-marketing
 
 - title: Search Engine Optimization (SEO)
   text: Ottimizziamo la tua presenza sul web in modo che se un potenziale cliente sta cercando il tuo prodotto o servizio, tu sia il primo risultato sui motori di ricerca che veda.
-  icon: assets/img/services/analytics.png
+  icon: /assets/img/services/seo.png
+  link: /servizi/search-engine-optimization
 
 - title: Content Marketing
   text: Creiamo contenuto di qualità per la tua azienda e utilizziamo strategie avanzate per far in modo che siano i tuoi clienti a venirti a cercare.
-  icon: assets/img/services/world.png
+  icon: /assets/img/services/content-marketing.png
+  link: /servizi/content-marketing
 
-- title: Local Search Strategy
-  text: I tuoi potenziali clienti devono innanzitutto riuscire a trovarti. Registriamo la tua società su Google Maps, Yelp, Bing e ovunque sia più adatto. Inoltre miglioriamo la tua reputazione tramite una gestione attenta delle recensioni dei clienti.
-  icon: assets/img/services/work.png
+- title: Local Marketing
+  text: Strategie di posizionamento a livello locale per far si che i tuoi potenziali clienti riescano a trovarti e scelgano il tuo business.
+  icon: /assets/img/services/local-search-strategy.png
+  link: /servizi/local-marketing
 
 - title: Pubblicità
   text: Raggiungiamo i tuoi clienti ideali tramite pubblicità mirata online e offline.
-  icon: assets/img/services/brand.png
+  icon: /assets/img/services/advertising.png
+  link: /servizi/pubblicita

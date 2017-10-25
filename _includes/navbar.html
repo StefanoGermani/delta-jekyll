@@ -13,7 +13,7 @@
                 <a class="nav-item nav-link{% if current == empty %} active{% endif %}" href="{{site.baseurl}}/">Home</a>
                 <a class="nav-item nav-link{% if current.last == 'chi-siamo' %} active{% endif %}"
                     href="{{site.baseurl}}/chi-siamo">Chi Siamo</a>
-                <a class="nav-item nav-link{% if current.last == 'servizi' %} active{% endif %}" href="{{site.baseurl}}/servizi">Servizi</a>
+                <a class="nav-item nav-link{% if current contains 'servizi' %} active{% endif %}" href="{{site.baseurl}}/servizi">Servizi</a>
                 <a class="nav-item nav-link{% if current contains 'blog' %} active{% endif %}" href="{{site.baseurl}}/blog">Blog</a>
                 <a class="nav-item nav-link{% if current.last == 'consulenza-gratuita' %} active{% endif %}" href="{{site.baseurl}}/consulenza-gratuita">Consulenza</a>
             </div>

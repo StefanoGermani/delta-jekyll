@@ -36,6 +36,7 @@ $xl: 1200px; // Large devices (large desktops)
 @import './popular-posts';
 @import './post';
 @import './subscription';
+@import './thank-you';
 
 html {
     font-size: 14px;
@@ -74,10 +75,22 @@ body {
     background-color: $secondary;
     border-color: $secondary;
     cursor: pointer;
-
     &:hover {
         background-color: $dark-secondary;
         border-color: $dark-secondary;
+        color: $text-light;
+    }
+}
+
+.btn-delta {
+    color: $text-light;
+    background-color: $primary;
+    border-color: $primary;
+    cursor: pointer;
+    &:hover {
+        background-color: $dark-primary;
+        border-color: $dark-primary;
+        color: $text-light;
     }
 }
 
