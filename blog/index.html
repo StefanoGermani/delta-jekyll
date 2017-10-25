@@ -4,4 +4,65 @@ title: Blog
 description: Blog di marketing. Scopri i nostri consigli su come migliorare il tuo business.
 ---
 
-{% include blog.html %}
+{% assign first_post = site.posts.first %}
+
+<section class="container home">
+    <div class="row">
+        <div class="col-sm-7 col-md-8 col-lg-9 p-1">
+            <div class="container-fluid">
+                {% for post in paginator.posts %}
+                    <div class="row blog-article">
+                        <div class="col-md-4 px-0">
+                            <a href="{{ post.url }}">
+                                <img class="img-fluid blog-article-image" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
+                            </a>
+                        </div>
+                        <div class="col-md-8 p-0 pl-md-3">
+                            <span class="blog-post-categories">{{ post.categories }}</span>
+                            <a class="no-decoration" href="{{ post.url }}">
+                                <h5 class="blog-post-title">{{ post.title }}</h4>
+                            </a>
+                            <h6 class="mb-2 text-muted">{{ post.description }}</h6>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="d-none d-sm-flex col-sm-5 col-md-4 col-lg-3 blog-side-layout">
+            <div class="mb-5">
+                {% include subscription.html %}
+            </div>
+            <div>
+                {% include popular_posts.html %}
+            </div>
+        </div>
+    </div>
+    <div class="d-sm-none row mt-4">
+        <div class="col-12">
+            {% include subscription.html %}
+        </div>
+    </div>
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="blog-paginator">
+                <a class="delta-link blog-paginator-link{% unless paginator.previous_page %} blog-paginator-disabled{% endunless %}" href="{{ paginator.previous_page_path }}">&lt;&lt; &nbsp;Indietro</a>
+                <a class="delta-link blog-paginator-link" href="{{site.baseurl}}/blog/archivio">Archivio</a>
+                <a class="delta-link blog-paginator-link{% unless paginator.next_page %} blog-paginator-disabled{% endunless %}" href="{{ paginator.next_page_path }}">Avanti&nbsp; &gt;&gt;</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Blog",
+        "keywords": "local marketing branding email content social media advert pubblicità",
+        "url": "{{ site.url }}/blog/",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ site.url }}/blog/"
+        }
+    }
+</script>
+
