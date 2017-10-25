@@ -15,8 +15,9 @@
     @include font-title;
     text-transform: uppercase;
     text-align: center;
-    color: $secondary;
+    color: $text-light;
     padding: 1rem;
+    margin-bottom: 1rem;
 }
 
 .services-description-container
