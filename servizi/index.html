@@ -1,0 +1,47 @@
+---
+layout: default
+title: Servizi
+description: Sviluppiamo strategie di marketing personalizzate per aiutare il tuo business ad avere il successo che merita.
+---
+
+<div class="services-description-container">
+    <div class="services-description-layout">
+        <h2 class="services-title">I nostri servizi</h2>
+        <p class="services-description">
+            <strong>Delta Local Marketing</strong> offre una larga varietà di servizi adatti alle esigenze di
+            qualsiasi business.
+        </p>
+        <p class="services-description">
+            Richiedi una nostra
+            <strong>consulenza gratuita</strong> per capire insieme di cosa la tua impresa ha bisogno e creare
+            un piano per riuscire a
+            <strong>raggiungere i tuoi obiettivi</strong>.
+        </p>
+        <div class="services-cta-layout">
+            <a class="btn btn-lg btn-call-to-action" href="{{site.baseurl}}/consulenza-gratuita">RICHIEDI UNA CONSULENZA!</a>
+        </div>
+    </div>
+</div>
+
+
+<section class="container services" id="services">
+    <div class="row">
+        {% for service in site.data.services %}
+        <div class="col-sm-6 col-lg-4 feature-box">
+            <div class="feature-icon">
+                <img src="{{ service.icon }}" alt="icona servizio" class="img-status">
+            </div>
+            <div class="feature-info">
+                <div class="feature-title-wrapper">
+                    <h4 class="feature-title">{{ service.title }}</h4>
+                </div>
+                <p class="feature-description">{{ service.text }}</p>
+                <!-- <div class="feature-find-more-layout">
+                    <a class="btn btn-delta" href="{{site.baseurl}}{{service.link}}">Scopri di più</a>
+                </div> -->
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+

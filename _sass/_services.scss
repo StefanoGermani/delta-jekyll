@@ -11,30 +11,47 @@
     transition: $value;
 }
 
-.feature-title {
+.services-title {
     @include font-title;
-    @include translateY(-100%);
+    text-transform: uppercase;
     text-align: center;
-    position: relative;
-    top: 100%;
-    &:after {
-        content: '';
-        display: block;
-        width: 220px;
-        height: 2px;
-        background: $dark-secondary;
-        margin: 6px auto;
+    color: $text-light;
+    font-weight: 600;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.services-description-container {
+    background-color: $primary;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.services-description-layout {
+    @media screen and (min-width: $sm) {
+        width: 450px;
+    }
+    @media screen and (min-width: $md) {
+        width: 650px;
+    }
+    @media screen and (min-width: $lg) {
+        width: 750px;
+    }
+    @media screen and (min-width: $xl) {
+        width: 900px;
     }
 }
 
-.feature-description {
-    text-align: justify;
+.services-description {
+    color: $text-light;
+    text-align: center;
 }
 
-.feature-title-wrapper {
-    @include transition(.6s);
-    height: 63px;
-    margin-bottom: 1em;
+.services-cta-layout {
+    text-align: center;
+    padding-top: 1rem;
 }
 
 .feature-box {
@@ -62,13 +79,19 @@
 }
 
 .feature-info {
-    @include translateY(100%);
     @include transition(.6s);
     position: absolute;
-    bottom: 80px;
+    top: 220px;
     cursor: default;
-    right: 2rem;
-    left: 2rem;
+    right: 1rem;
+    left: 1rem;
+    min-height: 230px;
+    display: flex;
+    flex-direction: column;
+}
+
+.feature-find-more-layout {
+    text-align: center;
 }
 
 .feature-icon {
@@ -82,7 +105,47 @@
     align-items: center;
 }
 
+.feature-title {
+    @include font-title;
+    @include translateY(-100%);
+    text-align: center;
+    position: relative;
+    top: 100%;
+    &:after {
+        content: '';
+        display: block;
+        width: 220px;
+        height: 2px;
+        background: $dark-secondary;
+        margin: 6px auto;
+    }
+}
+
+.feature-description {
+    text-align: justify;
+    flex-grow: 1;
+}
+
+.feature-title-wrapper {
+    @include transition(.6s);
+    height: 63px;
+    margin-bottom: 1em;
+}
+
 .img-status {
     width: 220px;
 }
 
+.svc-image-layout {
+    align-items: center;
+    justify-content: center;
+}
+
+.svc-image {
+    width: 100%;
+    height: auto;
+}
+
+.svc-description {
+    text-align: justify;
+}
