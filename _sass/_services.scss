@@ -144,6 +144,10 @@
 .svc-image {
     width: 100%;
     height: auto;
+
+    @media (min-width: $lg) {
+        width: 80%;
+    }
 }
 
 .svc-description {
