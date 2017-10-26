@@ -74,6 +74,7 @@ body {
     color: $text-light;
     background-color: $secondary;
     border-color: $secondary;
+    white-space: normal;
     cursor: pointer;
     &:hover {
         background-color: $dark-secondary;
@@ -86,6 +87,7 @@ body {
     color: $text-light;
     background-color: $primary;
     border-color: $primary;
+    white-space: normal;    
     cursor: pointer;
     &:hover {
         background-color: $dark-primary;
