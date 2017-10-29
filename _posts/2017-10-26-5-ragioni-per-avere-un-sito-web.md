@@ -3,6 +3,7 @@ layout: post
 title:  5 buone ragioni per cui hai bisogno di un sito web
 description: Scopri come e perché un sito web può far crescere il tuo business.
 date:   2017-10-26 00:00:00 +0200
+author: Stefano Germani
 image: posts/website-small.jpg
 image_sharing: posts/website.jpg
 category: web design
