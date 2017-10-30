@@ -10,7 +10,7 @@
     right: 0;
     text-align: center;
 
-    @media screen and (min-width: $md) {
+    @media  (min-width: $md) {
         bottom: 12rem;
     }
 }

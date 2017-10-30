@@ -16,7 +16,7 @@ footer {
     align-items: center;
     justify-content: center;
 
-    @media screen and (min-width: $sm) {
+    @media (min-width: $sm) {
         margin-top: -2rem;
         height: 2rem;
     }

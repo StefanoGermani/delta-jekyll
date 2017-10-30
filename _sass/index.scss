@@ -74,6 +74,8 @@ body {
     color: $text-light;
     background-color: $secondary;
     border-color: $secondary;
+    white-space: normal;
+    text-transform: uppercase;
     cursor: pointer;
     &:hover {
         background-color: $dark-secondary;
@@ -86,6 +88,7 @@ body {
     color: $text-light;
     background-color: $primary;
     border-color: $primary;
+    white-space: normal;    
     cursor: pointer;
     &:hover {
         background-color: $dark-primary;
@@ -109,4 +112,8 @@ body {
 
 .form-control {
     border-radius: 0;
+}
+
+ul {
+    padding-left: 2.5rem;
 }
