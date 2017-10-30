@@ -19,17 +19,26 @@
     <meta property="fb:app_id" content="525003201170203" />
     {% if page.id and page.image_sharing %}
         <meta property="og:title" content="{{ page.title }}" />
-        <meta property="og:url" content="{{site.url}}{{ page.url }}" />
+        <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{ page.url }}" />
         <meta property="og:description" content="{{ page.description }}" />
         <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/img/{{ page.image_sharing }}" />
         <meta property="og:type" content="article" />
         <meta property="og:locale" content="it_IT" />
     {% else %}
         <meta property="og:title" content="{{ page.title }}{% if page.title %} - {% endif %}Delta Local Marketing" />
-        <meta property="og:url" content="{{site.url}}{{ page.url }}" />
+        <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{ page.url }}" />
         <meta property="og:description" content="{{ page.description }}" />
         <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/img/delta-link.jpg" />
         <meta property="og:type" content="website" />
+    {% endif %}
+
+    {% if paginator %}
+        {% if paginator.previous_page %}
+            <link rel="prev" href="{{site.url}}{{site.baseurl}}{{ paginator.previous_page_path }}" />
+        {% endif %}
+        {% if paginator.next_page %}
+            <link rel="next" href="{{site.url}}{{site.baseurl}}{{ paginator.next_page_path }}" />
+        {% endif %}
     {% endif %}
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
