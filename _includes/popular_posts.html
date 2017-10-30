@@ -1,7 +1,7 @@
 <h5 class="popular-title">I post più popolari</h5>
 {% for id in site.data.popular_posts %}
     {% assign post = site.posts | where:"id", id | first %}
-    <a href="{{ post.url }}" class="no-decoration">
+    <a href="{{site.url}}{{site.baseurl}}{{ post.url }}" class="no-decoration">
         <div class="popular-post">
             <div class="popular-post-layout">
                 <div class="popular-post-text">

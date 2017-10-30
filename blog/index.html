@@ -13,13 +13,13 @@ description: Blog di marketing. Scopri i nostri consigli su come migliorare il t
                 {% for post in paginator.posts %}
                     <div class="row blog-article">
                         <div class="col-md-4 px-0">
-                            <a href="{{ post.url }}">
-                                <img class="img-fluid blog-article-image" src="{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
+                            <a href="{{site.url}}{{site.baseurl}}{{ post.url }}">
+                                <img class="img-fluid blog-article-image" src="{{site.url}}/{{site.baseurl}}/assets/img/{{ post.image_sharing }}"  alt="post image">
                             </a>
                         </div>
                         <div class="col-md-8 p-0 pl-md-3">
                             <span class="blog-post-categories">{{ post.categories }}</span>
-                            <a class="no-decoration" href="{{ post.url }}">
+                            <a class="no-decoration" href="{{site.url}}{{site.baseurl}}{{ post.url }}">
                                 <h5 class="blog-post-title">{{ post.title }}</h4>
                             </a>
                             <h6 class="mb-2 text-muted">{{ post.description }}</h6>
@@ -46,7 +46,7 @@ description: Blog di marketing. Scopri i nostri consigli su come migliorare il t
         <div class="col-12">
             <div class="blog-paginator">
                 <a class="delta-link blog-paginator-link{% unless paginator.previous_page %} blog-paginator-disabled{% endunless %}" href="{{ paginator.previous_page_path }}">&lt;&lt; &nbsp;Indietro</a>
-                <a class="delta-link blog-paginator-link" href="{{site.baseurl}}/blog/archivio">Archivio</a>
+                <a class="delta-link blog-paginator-link" href="{{site.url}}{{site.baseurl}}/blog/archivio">Archivio</a>
                 <a class="delta-link blog-paginator-link{% unless paginator.next_page %} blog-paginator-disabled{% endunless %}" href="{{ paginator.next_page_path }}">Avanti&nbsp; &gt;&gt;</a>
             </div>
         </div>

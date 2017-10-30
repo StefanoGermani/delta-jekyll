@@ -16,7 +16,7 @@ description: Blog di marketing. Scopri i nostri consigli su come migliorare il t
             <h6 class="pl-3">{{ site.data.it.months[m] }}</h6>
             <ul class="pl-5">
             {% for post in month.items %}
-                <li><a class="delta-link" href="{{ post.url }}">{{ post.title }}</a></li>
+                <li><a class="delta-link" href="{{site.url}}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
             </ul>
         {% endfor %}
