@@ -30,16 +30,16 @@
 }
 
 .services-description-layout {
-    @media screen and (min-width: $sm) {
+    @media (min-width: $sm) {
         width: 450px;
     }
-    @media screen and (min-width: $md) {
+    @media  (min-width: $md) {
         width: 650px;
     }
-    @media screen and (min-width: $lg) {
+    @media  (min-width: $lg) {
         width: 750px;
     }
-    @media screen and (min-width: $xl) {
+    @media  (min-width: $xl) {
         width: 900px;
     }
 }
@@ -144,6 +144,10 @@
 .svc-image {
     width: 100%;
     height: auto;
+
+    @media (min-width: $lg) {
+        width: 80%;
+    }
 }
 
 .svc-description {

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Servizi
-description: Sviluppiamo strategie di marketing personalizzate per aiutare il tuo business ad avere il successo che merita.
+description: Delta Local Marketing offre una larga varietà di servizi adatti alle esigenze di qualsiasi business.
 ---
 
 <div class="services-description-container">
@@ -18,7 +18,7 @@ description: Sviluppiamo strategie di marketing personalizzate per aiutare il tu
             <strong>raggiungere i tuoi obiettivi</strong>.
         </p>
         <div class="services-cta-layout">
-            <a class="btn btn-lg btn-call-to-action" href="{{site.baseurl}}/consulenza-gratuita">RICHIEDI UNA CONSULENZA!</a>
+            <a class="btn btn-lg btn-call-to-action" href="{{site.url}}{{site.baseurl}}/consulenza-gratuita">Richiedi una consulenza gratuita</a>
         </div>
     </div>
 </div>
@@ -36,9 +36,9 @@ description: Sviluppiamo strategie di marketing personalizzate per aiutare il tu
                     <h4 class="feature-title">{{ service.title }}</h4>
                 </div>
                 <p class="feature-description">{{ service.text }}</p>
-                <!-- <div class="feature-find-more-layout">
-                    <a class="btn btn-delta" href="{{site.baseurl}}{{service.link}}">Scopri di più</a>
-                </div> -->
+                <div class="feature-find-more-layout">
+                    <a class="btn btn-delta" href="{{site.url}}{{site.baseurl}}{{service.link}}">Scopri di più</a>
+                </div>
             </div>
         </div>
         {% endfor %}

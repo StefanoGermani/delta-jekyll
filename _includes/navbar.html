@@ -5,33 +5,33 @@
         <button class="navbar-toggler navbar-toggler-right" type="button" id="navbarSideButton">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <a class="navbar-brand mx-auto" href="{{site.baseurl}}/">
-            <img alt="brand" src="{{site.baseurl}}/assets/img/delta-logo.svg?v=2" height="50px">
+        <a class="navbar-brand mx-auto" href="{{site.url}}{{site.baseurl}}">
+            <img alt="home" src="{{site.url}}{{site.baseurl}}/assets/img/delta-logo.svg?v=2" height="50px">
         </a>
         <div class="collapse navbar-collapse flex-row-reverse" id="desktopNavigation">
             <div class="navbar-nav">
-                <a class="nav-item nav-link{% if current == empty %} active{% endif %}" href="{{site.baseurl}}/">Home</a>
+                <a class="nav-item nav-link{% if current == empty %} active{% endif %}" href="{{site.url}}{{site.baseurl}}">Home</a>
                 <a class="nav-item nav-link{% if current.last == 'chi-siamo' %} active{% endif %}"
                     href="{{site.baseurl}}/chi-siamo">Chi Siamo</a>
-                <a class="nav-item nav-link{% if current contains 'servizi' %} active{% endif %}" href="{{site.baseurl}}/servizi">Servizi</a>
-                <a class="nav-item nav-link{% if current contains 'blog' %} active{% endif %}" href="{{site.baseurl}}/blog">Blog</a>
-                <a class="nav-item nav-link{% if current.last == 'consulenza-gratuita' %} active{% endif %}" href="{{site.baseurl}}/consulenza-gratuita">Consulenza</a>
+                <a class="nav-item nav-link{% if current contains 'servizi' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/servizi">Servizi</a>
+                <a class="nav-item nav-link{% if current contains 'blog' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/blog">Blog</a>
+                <a class="nav-item nav-link{% if current.last == 'consulenza-gratuita' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/consulenza-gratuita">Consulenza</a>
             </div>
         </div>
         <div class="navbar-side d-md-none" id="navbarSide" style="background-image: url('{{site.baseurl}}/assets/img/bg_pattern.png')">
-            <a class="navbar-side-brand" href="{{site.baseurl}}/">
-                <img alt="brand" src="{{site.baseurl}}/assets/img/delta-logo.svg?v=2" height="50px">
+            <a class="navbar-side-brand" href="{{site.url}}{{site.baseurl}}">
+                <img alt="home" src="{{site.url}}{{site.baseurl}}/assets/img/delta-logo.svg?v=2" height="50px">
             </a>
             <div class="navbar-side-list mt-5">
-                <a href="{{site.baseurl}}/" class="side-link">Home</a>
+                <a href="{{site.url}}{{site.baseurl}}" class="side-link">Home</a>
                 <div class="horizontalLine"></div>
                 <a href="{{site.baseurl}}/chi-siamo" class="side-link">Chi Siamo</a>
                 <div class="horizontalLine"></div>
-                <a href="{{site.baseurl}}/servizi" class="side-link">Servizi</a>
+                <a href="{{site.url}}{{site.baseurl}}/servizi" class="side-link">Servizi</a>
                 <div class="horizontalLine"></div>
-                <a href="{{site.baseurl}}/blog" class="side-link">Blog</a>
+                <a href="{{site.url}}{{site.baseurl}}/blog" class="side-link">Blog</a>
                 <div class="horizontalLine"></div>
-                <a href="{{site.baseurl}}/consulenza-gratuita" class="side-link">Consulenza</a>
+                <a href="{{site.url}}{{site.baseurl}}/consulenza-gratuita" class="side-link">Consulenza</a>
             </div>
         </div>
         <div class="overlay d-md-none"></div>

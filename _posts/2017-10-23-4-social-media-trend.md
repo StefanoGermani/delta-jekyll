@@ -3,6 +3,7 @@ layout: post
 title:  4 social media trend che devi conoscere per il prossimo anno
 description: Il 2018 e' dietro l'angolo. Tu sei pronto?
 date:   2017-10-23 00:00:00 +0200
+author: Stefano Germani
 image: posts/social-media-trend-small.jpg
 image_sharing: posts/social-media-trend.jpg
 category: social media

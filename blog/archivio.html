@@ -4,4 +4,21 @@ title: Blog - Archivio
 description: Blog di marketing. Scopri i nostri consigli su come migliorare il tuo business.
 ---
 
-{% include archive.html %}
+<section class="container">
+    <h2 class="pb-3">Archivio</h2>
+
+    {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+    {% for year in postsByYear %}
+        <h4 class="pl-2">{{ year.name }}</h3>
+        {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'"  %}
+        {% for month in postsByMonth %}
+            {% assign m = month.name | minus: 1 %}
+            <h6 class="pl-3">{{ site.data.it.months[m] }}</h6>
+            <ul class="pl-5">
+            {% for post in month.items %}
+                <li><a class="delta-link" href="{{site.url}}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
+        {% endfor %}
+    {% endfor %}
+</section>
