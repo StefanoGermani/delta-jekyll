@@ -8,8 +8,13 @@ description: Richiedi una consulenza gratuita! I nostri consulenti ti daranno co
     <div class="services-description-layout">
         <h2 class="services-title">Richiedi una consulenza gratuita</h2>
         <p class="services-description">
-            I nostri consulenti ti daranno consigli su come migliorare il tuo business
-            e ti offriranno il nostro aiuto per realizzare i tuoi obiettivi.
+            Gestire e far funzionare un'impresa è un lavoro duro. <strong>Da oggi siamo qui noi ad 
+            aiutarti!</strong>
+        </p>
+        <p class="services-description">
+            I nostri consulenti ti daranno consigli su come <strong>migliorare il tuo business</strong>, come creare
+            una <strong>strategia di marketing vincente</strong> e ti offriranno il nostro aiuto per 
+            <strong>realizzare i tuoi obiettivi</strong>.
         </p>
     </div>
 </div>
@@ -17,30 +22,32 @@ description: Richiedi una consulenza gratuita! I nostri consulenti ti daranno co
 
 <section id="contacts" class="container contacts">
     <div class="row">
-        <div class="col-12 col-md-6">
-            <form class="consultant-form" method="POST" action="https://formspree.io/info@deltalocalmarketing.it">
-                <div class="form-group form-name">
-                    <label for="company-name">Nome azienda</label>
-                    <input type="text" class="form-control" name="company-name" placeholder="La tua società Srl" required>
-                </div>
-                <div class="form-group form-name">
-                    <label for="name">Nome contatto</label>
-                    <input type="text" class="form-control" name="name" placeholder="Mario Rossi" required>
-                </div>
-                <div class="form-group form-phone">
-                    <label for="phone">Telefono</label>
-                    <input type="tel" class="form-control" name="phone" placeholder="+39 320 1212123" required>
-                </div>
-                <div class="form-group form-text">
-                    <label for="comments">Note</label>
-                    <textarea class="form-control sett" rows="5" name="comments" placeholder="es. Contattare dopo le 18."></textarea>
-                </div>
-                <input type="hidden" name="_language" value="it" />
-                <input type="hidden" name="_next" value="https://deltalocalmarketing.it/grazie-consulenza" />
-                <div class="text-center">
-                    <button type="submit" class="btn btn-call-to-action btn-invia">Invia</button>
-                </div>
-            </form>
+        <div class="col">
+            <div class="consultant-layout">
+                <form class="consultant-form" method="POST" action="https://formspree.io/info@deltalocalmarketing.it">
+                    <div class="form-group form-name">
+                        <label for="company-name">Nome Impresa</label>
+                        <input type="text" class="form-control" name="company-name" placeholder="La tua società Srl" required>
+                    </div>
+                    <div class="form-group form-name">
+                        <label for="name">Nome contatto</label>
+                        <input type="text" class="form-control" name="name" placeholder="Mario Rossi" required>
+                    </div>
+                    <div class="form-group form-phone">
+                        <label for="phone">Telefono</label>
+                        <input type="tel" class="form-control" name="phone" placeholder="+39 320 1212123" required>
+                    </div>
+                    <div class="form-group form-text">
+                        <label for="comments">Note</label>
+                        <textarea class="form-control sett" rows="5" name="comments" placeholder="es. Contattare dopo le 18."></textarea>
+                    </div>
+                    <input type="hidden" name="_language" value="it" />
+                    <input type="hidden" name="_next" value="https://deltalocalmarketing.it/grazie-consulenza" />
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-call-to-action btn-invia">Invia</button>
+                    </div>
+                </form>
+            </div>
         </div>
     </div>
 </section>
