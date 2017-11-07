@@ -10,9 +10,9 @@ category: social media
 comments: true
 ---
 
-Creare un evento Facebook è veramente facile ed è uno dei modi migliori per pubblicizzare i tuoi eventi. 
+Creare un evento Facebook è veramente facile ed è uno dei modi migliori per pubblicizzare un tuo evento. 
 
-Ma realizzare un evento Facebook di successo non è questione di fortuna. Qui sono i nostri consigli per riuscirci al meglio.
+Realizzare un evento Facebook di successo non è questione di fortuna. Qui sono i nostri consigli per riuscirci al meglio.
 
 
 #### 1.&nbsp; Usa un’immagine di copertina che rispetti il formato di facebook
