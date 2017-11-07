@@ -24,40 +24,42 @@ Usa invece un’immagine personalizzata. Le dimensioni consigliate da Facebook s
 
 #### 2.&nbsp; Usa la tua pagina Facebook per organizzare l’evento
 
-In questo modo i tuoi invitati hanno un posto per vedere tutti i tuoi eventi passati e futuri già organizzati e un link per mettere mi piace alla tua pagina. 
+In questo modo i tuoi invitati potranno vedere tutti i tuoi eventi passati e futuri già organizzati e mettere "Mi piace" alla tua pagina. 
 
-Aggiungi il tuo profilo personale come organizzatore dell’evento per raggiungere più persone.
+Puoi aggiungere il tuo profilo personale come organizzatore dell’evento per raggiungere più persone.
 
 
 #### 3.&nbsp; Scrivi tutte le informazioni dell’evento nei dettagli
 
-Scrivi tutti i dettagli in maniera chiara e usando i paragrafi correttamente. 
+Spesso vedo eventi dove non ci sono abbastanza informazioni o le informazioni sono confuse. Scrivi tutti i dettagli in maniera chiara e usando i paragrafi correttamente per separare i vari concetti. 
 
 Metti le informazioni più importanti per primo cosi da non venire ignorate.
 
 
 #### 4.&nbsp; Abbi solo un evento Facebook ufficiale
 
-Multipli eventi facebook disperderanno i tuoi invitati, e non ti permettono di comunicare correttamente con tutti le persone che vengono al tuo evento.
+Eventi facebook multipli disperderanno i tuoi invitati, e non ti permettono di comunicare correttamente con tutti le persone che vengono al tuo evento.
 
+Cerca di avere un solo evento ufficiale e fai condividere quello a chi è interessato a promuoverti.
 
 #### 5.&nbsp; Usa una location registrata su Facebook
 
-Se non hai la mappa sul tuo evento, Facebook non raccomanderà l’evento agli amici dei tuoi invitati o alle persone nell’area.
-
+Se la location del tuo evento non è riconosciuta, Facebook non raccomanderà l’evento agli amici dei tuoi invitati o alle persone nell’area. 
 
 #### 6.&nbsp; Promuovi il tuo evento 
 
-Condividi il tuo evento il più possibile e, se necessario, promuovi il tuo evento attraverso il servizio a pagamento di Facebook. Questo ti permetterà di raggiungere ancora più persone.
+Condividi il tuo evento il più possibile e, se necessario, promuovilo attraverso il servizio a pagamento di Facebook. Questo ti permetterà di raggiungere ancora più persone.
 
 
 #### 7.&nbsp; Mantieni alta l'attenzione sull’evento
 
-Anche se le persone sono interessate o hanno detto che parteciperanno al tuo evento, non è detto che si ricordino di venire. 
+Anche se le persone sono interessate al tuo evento o hanno cliccato su "Parteciperò", non è detto che si ricordino di venire. 
 
-Cerca di mantenere alta l’attenzione sull’evento pubblicando aggiornamenti e foto sulla pagina dell’evento. Tutte le persone invitate riceveranno una notifica su Facebook.
+Cerca di mantenere alta l’attenzione sull’evento pubblicando aggiornamenti e foto sulla pagina dell’evento cosicché tutte le persone invitate riceveranno una notifica su Facebook.
 
 
 #### Conclusioni
 
-Spero che questi semplici consigli riescano ad aiutarti. 
+Spero che questi semplici consigli riescano ad aiutarti a promuovere i tuoi eventi e a migliorare il tuo business. 
+
+Hai altri consigli da darci su come creare un evento Facebook nel migliore dei modi?
