@@ -25,8 +25,45 @@ description: Unisciti al nostro network per ricevere vantaggi esclusivi.
                 <li>Contatto con aziende del luogo</li>
                 <li>Accesso a corsi di formazione online/offline</li>
                 <li>Pubblicità gratuita sui nostri media</li>
-                <li>Informazioni su eventi di interesse per la tua impresa</li>                
+                <li>Informazioni su eventi di interesse per la tua impresa</li>   
+                <li>E molto altro!</li>             
             </ul>
+            <p>
+                Riempi i dati qui sotto e verrai contattato da uno dei nostri consultenti per scoprire
+                tutti i benefici ed entrare a far parte del nostro network!
+            </p>
         </div>
     </div>
 </section>
+
+<section id="contacts" class="container contacts">
+        <div class="row">
+            <div class="col">
+                <div class="consultant-layout">
+                    <form class="consultant-form" method="POST" action="https://formspree.io/network@deltalocalmarketing.it">
+                        <div class="form-group form-name">
+                            <label for="company-name">Nome Impresa</label>
+                            <input type="text" class="form-control" name="company-name" placeholder="La tua società Srl" required>
+                        </div>
+                        <div class="form-group form-name">
+                            <label for="name">Nome contatto</label>
+                            <input type="text" class="form-control" name="name" placeholder="Mario Rossi" required>
+                        </div>
+                        <div class="form-group form-phone">
+                            <label for="phone">Telefono</label>
+                            <input type="tel" class="form-control" name="phone" placeholder="+39 320 1212123" required>
+                        </div>
+                        <div class="form-group form-text">
+                            <label for="comments">Note</label>
+                            <textarea class="form-control sett" rows="5" name="comments" placeholder="es. Contattare dopo le 18."></textarea>
+                        </div>
+                        <input type="hidden" name="_language" value="it" />
+                        <input type="hidden" name="_next" value="https://deltalocalmarketing.it/grazie-consulenza" />
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-call-to-action btn-invia">Invia</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
