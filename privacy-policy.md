@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Privacy
+noindex: true
 ---
 
 ## Titolare del Trattamento dei Dati
