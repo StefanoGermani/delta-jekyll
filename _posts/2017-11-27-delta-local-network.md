@@ -4,8 +4,8 @@ title: "Vi presentiamo Delta Local Network!"
 description: Il nostro network aziendale rivoluzionario dai vantaggi esclusivi per rilanciare il territorio!
 date: 2017-11-27 00:00:00 +0200
 author: Stefano Germani
-image: posts/network-small.jpg
-image_sharing: posts/network.jpg
+image: posts/network-small2.png
+image_sharing: posts/network2.jpg
 category: network
 comments: true
 ---
@@ -15,10 +15,6 @@ Nel sistema italiano, caratterizzato da innumerevoli piccole e medie imprese, la
 Attraverso la condivisione di obiettivi comuni e l’unione delle varie competenze, una rete di imprese può raggiungere risultati che per una singola azienda non erano nemmeno immaginabili. 
 
 Per questi motivi noi della *Delta Local Marketing* abbiamo creato **Delta Local Network**! 
-
-<div class="post-image-layout d-flex">
-    <img class="post-image" src="{{site.url}}{{site.baseurl}}/assets/img/delta-network.svg">
-</div>
 
 Ecco alcuni dei vantaggi che otterrai entrando a far parte del nostro network:
 
