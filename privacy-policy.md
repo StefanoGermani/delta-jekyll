@@ -2,6 +2,7 @@
 layout: page
 title: Privacy
 noindex: true
+sitemap: false
 ---
 
 ### Titolare del Trattamento dei Dati
