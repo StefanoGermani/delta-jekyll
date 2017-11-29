@@ -20,7 +20,7 @@ Ecco alcuni dei vantaggi che otterrai entrando a far parte del nostro network:
 
 #### 1.&nbsp; Contatto con le altre imprese nel network
 
-Primo, e più ovvio, dei benefici e’ quello di essere messo in contatto con le aziende che fanno parte del nostro network per conoscersi e trovare obiettivi comuni da portare avanti.
+Primo, e più ovvio, dei benefici è quello di essere messo in contatto con le aziende che fanno parte del nostro network per conoscersi e trovare obiettivi comuni da portare avanti.
 
 #### 2.&nbsp; Accesso a corsi di formazione online e in loco
 
