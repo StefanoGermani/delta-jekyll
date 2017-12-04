@@ -24,10 +24,16 @@ title: Chi Siamo
 </div>
 
 
-<section class="container about">
+<section class="container about-employees">
     <div class="row">
         {% for employee in site.data.employees %}
-
+            <div class="col">
+                <div class="about-employee-image-layout">
+                    <img class="about-employee-image" src="{{ employee.image }}">
+                </div>
+                <div class="about-employee-name">{{ employee.name }}</div>
+                <div class="about-employee-job">{{ employee.job }}</div>
+            </div>
         {% endfor %}
     </div>
 </section>
