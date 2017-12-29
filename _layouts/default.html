@@ -93,6 +93,9 @@
         crossorigin="anonymous"></script>
     <script src="{{site.baseurl}}/assets/js/jquery.mobile.custom.min.js?{{site.time | date: '%s'}}"></script>
     <script src="{{site.baseurl}}/assets/js/sidemenu.js?{{site.time | date: '%s'}}"></script>
+    {% if jekyll.environment != "development" %}
+        {% include hubspot.html %}
+    {% endif %}
 </body>
 
 </html>
