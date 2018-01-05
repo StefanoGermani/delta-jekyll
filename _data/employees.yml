@@ -1,12 +1,15 @@
-- name: Stefano Germani
-  job: Digital Marketing Consultant
+- name: Andrea Perotti
+  job: Graphic Designer
   image: /assets/img/4.1.jpg
 
 - name: Francesco Litomarga
   job: Marketing Consultant
   image: /assets/img/4.1.jpg
 
-- name: Andrea Perotti
-  job: Graphic Designer
+- name: Georgia Lepore
+  job: Social Media Manager
   image: /assets/img/4.1.jpg
 
+- name: Stefano Germani
+  job: Digital Marketing Consultant
+  image: /assets/img/4.1.jpg
