@@ -30,21 +30,17 @@ La *Delta Local Marketing* organizza corsi di formazione di marketing per impres
 
 Entrare a far parte del nostro network ti garantirà pubblicità gratuita sui nostri media e nelle iniziative che organizzeremo. La pubblicità gratuita è sempre un buon affare! 
 
-#### 4.&nbsp; Informazioni su eventi di interesse per la tua impresa
-
-Ogni mese vengono organizzati eventi specifici per ogni settore. Iscrivendovi al nostro network ti terremo informato su questi eventi e, se vorrai partecipare, ti aiuteremo ad organizzarti per partecipare e raggiungere i tuoi obiettivi.
-
-#### 5.&nbsp; Sviluppo di progetti per il territorio
+#### 4.&nbsp; Sviluppo di progetti per il territorio
 
 La *Delta Local Marketing* è impegnata nello sviluppo del territorio. Portiamo avanti progetti per favorire il turismo e lo sviluppo di infrastrutture necessarie alla creazione di una rete di aziende virtuosa. 
 
 Attraverso il nostro network potrai entrare a far parte attivamente di questi progetti e decidere insieme noi su quali settore strategici puntare!
 
-#### 6.&nbsp; Partecipazione ad eventi promozionali
+#### 5.&nbsp; Partecipazione ad eventi promozionali
 
 Per il prossimo anno la *Delta Local Marketing* organizzerà diversi eventi promozionali. Grazie alla tua adesione al nostro network potrai farti conoscere e promuovere gratuitamente i tuoi prodotti ai nostri eventi.
 
-#### 7.&nbsp; E molto altro!
+#### 6.&nbsp; E molto altro!
 
 Il nostro network è in continua evoluzione e con il tempo ti proporremmo importanti vantaggi esclusivi. Non lasciarti sfuggire questa incredibile occasione!
  
