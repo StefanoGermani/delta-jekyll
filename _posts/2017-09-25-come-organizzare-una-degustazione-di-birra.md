@@ -7,6 +7,7 @@ author: Stefano Germani
 category: eventi
 image: posts/beer-small4.jpg
 image_sharing: posts/beer4.jpg
+image_alt: degusstazione birra artigianale
 comments: true
 ---
 

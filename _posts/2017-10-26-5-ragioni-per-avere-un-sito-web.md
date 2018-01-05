@@ -6,6 +6,7 @@ date:   2017-10-26 00:00:00 +0200
 author: Stefano Germani
 image: posts/website-small.jpg
 image_sharing: posts/website.jpg
+image_alt: hai bisogno di un sito web
 category: web design
 comments: true
 ---

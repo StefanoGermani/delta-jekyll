@@ -6,6 +6,7 @@ date: 2017-11-27 00:00:00 +0200
 author: Stefano Germani
 image: posts/network-small2.png
 image_sharing: posts/network2.jpg
+image_alt: Delta Local Network
 category: network
 comments: true
 ---

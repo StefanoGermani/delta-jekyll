@@ -6,6 +6,7 @@ date: 2017-10-02 11:00:00 +0200
 author: Stefano Germani
 category: personalizzazione
 image: posts/personalization.jpg
+image_alt: personalizzazione
 image_sharing: posts/personalization-small.jpg
 comments: true
 ---

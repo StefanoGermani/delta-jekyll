@@ -6,6 +6,7 @@ date:   2017-10-23 00:00:00 +0200
 author: Stefano Germani
 image: posts/social-media-trend-small.jpg
 image_sharing: posts/social-media-trend.jpg
+image_alt: social media trend
 category: social media
 comments: true
 ---

@@ -6,6 +6,7 @@ author: Stefano Germani
 date:   2017-10-13 00:00:00 +0200
 image: posts/instagram-stories-small.jpg
 image_sharing: posts/instagram-stories.jpg
+image_alt: instagram stories
 category: social media
 comments: true
 ---

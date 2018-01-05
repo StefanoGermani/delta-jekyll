@@ -6,6 +6,7 @@ date:   2017-11-06 00:00:00 +0200
 author: Stefano Germani
 image: posts/facebook-event-small.jpg
 image_sharing: posts/facebook-event.jpg
+image_alt: evento Facebook
 category: social media
 comments: true
 ---
