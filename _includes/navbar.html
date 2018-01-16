@@ -11,8 +11,8 @@
         <div class="collapse navbar-collapse flex-row-reverse" id="desktopNavigation">
             <div class="navbar-nav">
                 <a class="nav-item nav-link{% if current == empty %} active{% endif %}" href="{{site.url}}{{site.baseurl}}">Home</a>
-                <!-- <a class="nav-item nav-link{% if current.last == 'chi-siamo' %} active{% endif %}"
-                    href="{{site.baseurl}}/chi-siamo">Chi Siamo</a> -->
+                <a class="nav-item nav-link{% if current.last == 'chi-siamo' %} active{% endif %}"
+                    href="{{site.baseurl}}/chi-siamo">Chi Siamo</a>
                 <a class="nav-item nav-link{% if current contains 'servizi' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/servizi">Servizi</a>
                 <a class="nav-item nav-link{% if current contains 'blog' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/blog">Blog</a>
                 <a class="nav-item nav-link{% if current.last == 'consulenza-gratuita' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/consulenza-gratuita">Consulenza</a>
@@ -25,7 +25,8 @@
             <div class="navbar-side-list mt-5">
                 <a href="{{site.url}}{{site.baseurl}}" class="side-link">Home</a>
                 <div class="horizontalLine"></div>
-                <!-- <a href="{{site.baseurl}}/chi-siamo" class="side-link">Chi Siamo</a> -->
+                <a href="{{site.baseurl}}/chi-siamo" class="side-link">Chi Siamo</a>
+                <div class="horizontalLine"></div>
                 <a href="{{site.url}}{{site.baseurl}}/servizi" class="side-link">Servizi</a>
                 <div class="horizontalLine"></div>
                 <a href="{{site.url}}{{site.baseurl}}/blog" class="side-link">Blog</a>
