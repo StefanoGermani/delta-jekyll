@@ -27,6 +27,13 @@ sass:
 paginate: 6
 paginate_path: "/blog/:num"
 
+
+# Social
+facebook: https://www.facebook.com/deltalocalmarketing/ 
+instagram: https://www.instagram.com/deltalocalmarketing/
+linkedin: https://www.linkedin.com/company/delta-local-marketing/ 
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
