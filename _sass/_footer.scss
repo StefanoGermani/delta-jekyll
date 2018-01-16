@@ -1,28 +1,27 @@
 .wrap {
     min-height: 100%;
-    padding-bottom: 8rem;
     /* this needs to be bigger than footer height*/
-    @media (min-width: $sm) {
-        padding-bottom: 16rem;
-    }
+    padding-bottom: 8rem;
+    // @media (min-width: $sm) {
+    //     padding-bottom: 16rem;
+    // }
 }
 
 footer {
     position: relative;
     margin-top: -6rem;
     height: 6rem;
-    font-size: 0.8rem;    
+    font-size: 0.8rem;
     clear: both;
     background-color: $light-primary;
     color: $text-light;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
-
-    @media (min-width: $sm) {
-        margin-top: -12rem;
-        height: 12rem;
-    }
+    // @media (min-width: $sm) {
+    //     margin-top: -12.5rem;
+    //     height: 12.5rem;
+    // }
 }
 
 .footer-menu {
@@ -40,4 +39,3 @@ footer {
     height: 2rem;
     margin: 1rem;
 }
-
