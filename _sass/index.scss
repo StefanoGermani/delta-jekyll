@@ -97,12 +97,18 @@ body {
     }
 }
 
-.delta-link {
+.no-decoration {
     text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.delta-link {
+    @extend .no-decoration;
     color: $primary;
     &:hover {
         color: $dark-primary;
-        text-decoration: none;
     }
 }
 

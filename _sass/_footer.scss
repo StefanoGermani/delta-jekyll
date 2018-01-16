@@ -1,24 +1,33 @@
 .wrap {
     min-height: 100%;
-    padding-bottom: 6rem;
     /* this needs to be bigger than footer height*/
+    padding-bottom: 8rem;
 }
 
 footer {
     position: relative;
-    margin-top: -3rem;
-    height: 3rem;
+    margin-top: -6rem;
+    height: 6rem;
+    font-size: 0.8rem;
     clear: both;
     background-color: $light-primary;
     color: $text-light;
-    font-size: 0.8rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.footer-menu {
+    flex-direction: column;
+}
+
+.footer-contacts {
     display: flex;
     align-items: center;
     justify-content: center;
-
-    @media (min-width: $sm) {
-        margin-top: -2rem;
-        height: 2rem;
-    }
 }
 
+.footer-social-icon {
+    height: 2rem;
+    margin: 1rem;
+}
