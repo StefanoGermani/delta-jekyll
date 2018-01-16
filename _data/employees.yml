@@ -2,6 +2,10 @@
   job: Graphic Designer
   image: /assets/img/employees/andrea.jpg
 
+- name: Stefano Germani
+  job: Web Developer - CEO
+  image: /assets/img/employees/stefano.jpg
+
 - name: Francesco Litomarga
   job: Marketing Consultant
   image: /assets/img/employees/francesco.jpg
@@ -9,7 +13,3 @@
 - name: Georgia Lepore
   job: Social Media Manager
   image: /assets/img/employees/georgia.jpg
-
-- name: Stefano Germani
-  job: Digital Marketing Specialist
-  image: /assets/img/employees/stefano.jpg
