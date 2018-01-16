@@ -2,9 +2,6 @@
     min-height: 100%;
     /* this needs to be bigger than footer height*/
     padding-bottom: 8rem;
-    // @media (min-width: $sm) {
-    //     padding-bottom: 16rem;
-    // }
 }
 
 footer {
@@ -18,10 +15,6 @@ footer {
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    // @media (min-width: $sm) {
-    //     margin-top: -12.5rem;
-    //     height: 12.5rem;
-    // }
 }
 
 .footer-menu {
@@ -29,7 +22,6 @@ footer {
 }
 
 .footer-contacts {
-    flex-direction: column;
     display: flex;
     align-items: center;
     justify-content: center;
