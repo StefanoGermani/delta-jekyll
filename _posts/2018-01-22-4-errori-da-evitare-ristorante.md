@@ -40,7 +40,7 @@ I tuo clienti sono fondamentali per il tuo business. Il segreto per aumentare le
 
 Crea un programma fedeltà, delle promozioni esclusive ma soprattutto ascoltali, cerca di capire cosa vogliono e se ci sono problemi. Instaurare un rapporto di fiducia con i tuoi clienti è la miglior forma di soddisfazione e di fidelizzazione. Salutali e falli sentire come se fossero a casa. 
  
-
+#### Conclusioni
 
 E tu quali strategie di marketing stai usando per il tuo ristorante? Quali successi, o fallimenti, hai avuto durante gli anni della tua attività? Non continuare con il solo volantino da lasciare sui tergicristalli, il più delle volte viene gettato nel cestino senza neanche averlo letto. 
 
