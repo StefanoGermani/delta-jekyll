@@ -12,7 +12,7 @@ comments: true
 ---
 
 
-Ti sei mai chiesto come mai alcuni ristoranti sono sempre pieni mentre altri faticano ad avere clienti anche nel weekend? Le regole del marketing nel mondo della ristorazione sono cambiate e se hai un’attività, sai benissimo che non è più sufficiente essere presenti solo sulle Pagine Gialle. 
+Ti sei chiesto come mai alcuni ristoranti sono sempre pieni mentre altri faticano ad avere clienti anche nel weekend? Le regole del marketing nel mondo della ristorazione sono cambiate e se hai un’attività, sai benissimo che non è più sufficiente essere presenti solo sulle Pagine Gialle. 
 
 Vediamo insieme quali sono i 4 errori che possono costare caro al fatturato del tuo ristorante:
 
@@ -20,7 +20,7 @@ Vediamo insieme quali sono i 4 errori che possono costare caro al fatturato del 
 
 Se tu fossi un cliente, perché vorresti venire a mangiare nel tuo ristorante? Una festa di laurea? Un appuntamento romantico? Un anniversario oppure una serata tranquilla tra amici? Cucina tradizionale o vegana? 
 
-Non cercare di accontentare tutti, ma concentrati su cosa rende unico il tuo ristorante e su uno specifico gruppo di clientela. Esistono così tanti ristoranti che senza una forte identità si rischia di disperdersi tra la folla e rimanere praticamente invisibili. 
+Non cercare di accontentare tutti, ma concentrati su cosa rende unico il tuo ristorante e su uno specifico gruppo di clientela. Esistono così tanti ristoranti che, se non crei una forte identità, rischi di disperderti tra la folla e rimanere praticamente invisibile. 
 
 #### 2.&nbsp; Poca o nessuna presenza online
 
@@ -32,13 +32,13 @@ Nel 2018 avere un sito web ed essere attivi sui social media è fondamentale per
 
 Un business vive o muore grazie alla sua reputazione, di fatto i proprietari di ristoranti non possono più scegliere se restare o no su Tripadvisor, Cibando, o QRistoranti. È proprio su questi siti che le persone cercano il ristorante ideale, quello che risponde meglio alle loro esigenze: dal prezzo alla location, dall’ambiente al servizio. 
 
-Tutti possono esprimere il loro giudizio, lasciando una breve recensione e descrivere l’esperienza vissuta. Così facendo, questi siti hanno un potere enorme. Presta attenzione a che cosa le persone stanno dicendo online sul tuo locale, ringrazia i visitatori per le recensioni positive e rispondi con rispetto alle recensioni negative. 
+Tutti possono esprimere il loro giudizio, lasciando una breve recensione e descrivere l’esperienza vissuta. Così facendo, questi siti hanno un potere enorme. Presta attenzione a cosa le persone stanno dicendo online sul tuo locale, ringrazia i visitatori per le recensioni positive e rispondi con rispetto alle recensioni negative. 
 
 #### 4.&nbsp; Dare i propri clienti per scontato
 
 I tuo clienti sono fondamentali per il tuo business. Il segreto per aumentare le prenotazioni, riempire i tavoli ogni sera, invogliare le persone a tornare a trovarti? Renderli felici.
 
-Crea un programma fedeltà, delle promozioni esclusive ma soprattutto ascoltali, cerca di capire cosa vogliono e se ci sono problemi. Instaurare un rapporto di fiducia con i tuoi clienti è la miglior forma di soddisfazione e di fidelizzazione. Salutali e falli sentire come se fossero a casa. 
+Crea un programma fedeltà, delle promozioni esclusive ma soprattutto ascoltali, cerca di capire cosa vogliono e se ci sono problemi. Instaurare un rapporto di fiducia con i tuoi clienti è la miglior forma di soddisfazione e di fidelizzazione. Mettili a loro agio e falli sentire come se fossero a casa. 
 
 #### Conclusioni
 
