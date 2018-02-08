@@ -56,7 +56,7 @@ Sempre sulla base della valorizzazione del prodotto locale (il fico) abbiamo cre
 
 ##### Un’attività che sta in piedi da 2 anni e mezzo, rispetto a prima sono cambiate tante cose, oltre al progetto della pasticceria avete anche altri tipo di progetti?
 
-Grazie al nostro lavoro ed alla qualità dei nostri prodotti la nostra piccola pasticceria e stata conosciuta sul territorio Amerino e non solo. Possiamo dire di avere anche noi dei fans, tra i quali ce n’è uno speciale che è Terence Hill. Ci conoscemmo per caso ed ogni tanto passava a comprare la pastiera, la caprese o le sfogliatelle di cui va ghiotto. Avendo avuto modo di conoscerci meglio dopo circa un anno dall’apertura della pasticceria la famiglia Hill ci propose di aprire insieme a loro la gelateria Girotti.  
+Grazie al nostro lavoro ed alla qualità dei nostri prodotti la nostra piccola pasticceria e stata conosciuta sul territorio Amerino e non solo. Possiamo dire di avere anche noi dei fans, tra i quali ce n’è uno speciale che è _Terence Hill_. Ci conoscemmo per caso ed ogni tanto passava a comprare la pastiera, la caprese o le sfogliatelle di cui va ghiotto. Avendo avuto modo di conoscerci meglio dopo circa un anno dall’apertura della pasticceria la famiglia Hill ci propose di aprire insieme a loro la **Gelateria Girotti**.  
 
 Loro sono molto legati al gelato che faceva lo zio quando Terence era piccolo. Questo dolce ricordo condiviso con il figlio Jess e il nipote Will ha fatto crescere il desiderio di avviare questa splendida nuova avventura.  
 
@@ -69,13 +69,13 @@ Con la Gelateria abbiamo recuperato, grazie ad un appassionato di Amelia, un’a
 
 ##### Oltre a Terence Hill, avete catturato l’attenzione anche di altri personaggi o comunque esperti del settore?
 
-La visita di Sal De Riso è stata un caso. È arrivato l’anno scorso e ci ha fatto questa bellissima sorpresa. Era insieme ad altre persone, probabilmente erano diretti al Sigep. 
+La visita di _Sal De Riso_ è stata un caso. È arrivato l’anno scorso e ci ha fatto questa bellissima sorpresa. Era insieme ad altre persone, probabilmente erano diretti al Sigep. 
 
-Il Maestro è stato entusiasta, non riusciva a credere che dopo un solo anno e mezzo,  due persone non pasticcere, erano riusciti a raggiungere un grado di qualità molto elevato cosa che solitamente si raggiunge in 20 anni di attività. Quel giorno, De Riso, assaggiò di tutto complimentandosi per l’intera produzione e finanche per il nostro panettone artigianale. Volle visitare il nostro laboratorio trovandolo ben organizzato e regalandoci alla fine del nostro incontro alcuni piccoli ma preziosi suggerimenti.
+Il Maestro è stato entusiasta, non riusciva a credere che dopo un solo anno e mezzo, due persone non pasticcere, erano riusciti a raggiungere un grado di qualità molto elevato cosa che solitamente si raggiunge in 20 anni di attività. Quel giorno, De Riso, assaggiò di tutto complimentandosi per l’intera produzione e finanche per il nostro panettone artigianale. Volle visitare il nostro laboratorio trovandolo ben organizzato e regalandoci alla fine del nostro incontro alcuni piccoli ma preziosi suggerimenti.
 
 
 ##### Ultima domanda, la vostra è a tutti gli effetti una eccellenza locale, secondo te quali potrebbero essere le potenzialità di altre attività che non sono così uscite allo scoperto come la vostra?
 
-Ci sono parecchi settori che possono svilupparsi ad Amelia. Uno di questi settori è rappresentato dalla ristorazione, una ristorazione locale. Possiamo dire che molto si sta facendo e si farà prossimamente con l’apertura di nuovi locali nel centro storico che valorizzano la tradizione Amerina. I turisti si troveranno un offerta più ampia che oltre a rendere più piacevole il loro soggiorno in questa splendida città darà un ulteriore spinta allo sviluppo.
+Ci sono parecchi settori che possono svilupparsi ad Amelia. Uno di questi settori è rappresentato dalla ristorazione, una ristorazione locale. Possiamo dire che molto si sta facendo e si farà prossimamente con l’apertura di nuovi locali nel centro storico che valorizzano la tradizione Amerina. **I turisti si troveranno un offerta più ampia che oltre a rendere più piacevole il loro soggiorno in questa splendida città darà un ulteriore spinta allo sviluppo.**
 
 
