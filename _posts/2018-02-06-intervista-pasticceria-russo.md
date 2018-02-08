@@ -49,7 +49,7 @@ Storicamente Amelia era famosa per la produzione di fichi e partendo da questa b
 
 Abbiamo dato vita ai **Medaglioni di Amelia**, biscotti in delicatissima pasta frolla farciti con marmellata biologica di fichi e fichi secchi italiani a pezzi. La scatola, realizzata da un artista, porta nel suo interno uno stampato con una breve storia di Amelia e dell’intreccio storico avvenuto tra un Amerino, il vescovo _Alessandro Gelardini_ e _Cristoforo Colombo_. Alessandro Geraldini primo vescovo delle Americhe si adoperò al cospetto della regina Isabella di Spagna affinché affidasse a Colombo gli strumenti per realizzare il suo viaggio.  
 
-Sempre sulla base della valorizzazione del prodotto locale (il fico) abbiamo creato in collaborazione con un liquirificio artigianale un distillato che abbiamo chiamato il **Liquore di donna Amelia** a base di grappa di vitigni misti aromatizzata **al fico secco**.  
+Sempre sulla base della valorizzazione del prodotto locale (il fico) abbiamo creato in collaborazione con un liquirificio artigianale un distillato che abbiamo chiamato il **Liquore di Donna Amelia** a base di grappa di vitigni misti aromatizzata **al fico secco**.  
 
 <img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-medaglioni.jpg" class=" img-fluid post-image" />
 
