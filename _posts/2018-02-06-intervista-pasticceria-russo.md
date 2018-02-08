@@ -17,57 +17,65 @@ Voglia di sfogliatelle, bignè, pastiere e babà? Da quasi 3 anni, ad Amelia, vi
 In questa intervista Maria Teresa Russo, la proprietaria, ci racconta come una piccola realtà del posto può trasformarsi in una vera e propria eccellenza locale. 
 
 
-##### Cosa ha spinto te e Roberto ad intraprendere un’iniziativa imprenditoriale come la vostra ad Amelia? 
+#### Cosa ha spinto te e Roberto ad intraprendere un’iniziativa imprenditoriale come la vostra ad Amelia? 
 
-Sicuramente ci ha spinto l’idea di creare una seconda attività lavorativa e **abbiamo scelto una cosa che mancava, mancava a noi proprio come clienti**. Infatti, abituati a Napoli, la domenica si và in pasticceria, si prendono le paste, si torna a casa così, tra i parenti e la famiglia numerosa, un momento di festa. Qui, abbiamo visto che sicuramente era una cosa che mancava in zona e poi l’idea di farla come poi l’abbiamo fatta, è stata molto naturale, perchè non vediamo i dolci in altri modi. 
+Sicuramente ci ha spinto l’idea di creare una seconda attività lavorativa ricercando qualcosa **che non entrasse in contrasto con altre esistenti sul territorio e che mancava anche a noi come clienti**. A Napoli, la domenica c’è l’usanza di passare in pasticceria, per prendere i dolci,  per trascorrere tra i parenti e gli amici un momento piacevole e di condivisione. Passare dall’idea della pasticceria alla realizzazione come poi l’abbiamo fatta, è stato molto naturale, perché non vediamo i dolci in altro modo.
 
-Poi, ci piaceva farlo, io sono sempre stata abbastanza bravina in cucina, molto legata alle ricette della tradizione di famiglia e siamo anche dei buongustai da questo punto di vista. Roberto è invece un curioso, e quindi lui da che non sapeva fare assolutamente niente, la sua curiosità è stata talmente forte, che ha cominciato a fare dei babà squisiti e delle zeppole di San Giuseppe incredibili. 
+**La passione ed il piacere per il buongusto insieme alle tradizioni di famiglia sono state alla base** dell’avvio della nostra attività. Il mio saper fare e la curiosità di Roberto, mio marito, ci ha portato a sperimentare e realizzare, da autodidatti, i grandi classici della pasticceria napoletana come i babà e le zeppole di san Giuseppe che facevamo degustare a tutti i nostri amici amerini.  
 
-Dopo abbiamo individuato il posto, perchè sempre come clienti, ci piaceva che una pasticceria stesse nel centro storico e ci siamo pure chiesti come mai nessuno non abbia mai pensato di aprirci un negozio, o un’attività, specialmente artigianale.  
+Nello sviluppo dell’attività artigianale abbiamo individuato come sede il centro storico di Amelia, perchè da sempre riteniamo che sia il motore del turismo di Amelia.  Ci affascinava immaginare la nostra attività nelle strade medioevali e rinascimentali di Amelia.
 
-##### Senti una cosa, su cosa avete puntato per affermarvi come realtà culinaria del posto? 
 
-Abbiamo puntato sulla qualità e la varietà dei dolci che conoscevamo bene. Tutti i dolci che conoscevamo e che eravamo abituati a mangiare di solito a Napoli, stando particolarmente attenti alla qualità e alla scelta dei singoli ingredienti, quasi come una massaia. Perchè io prima di fare questo lavoro, facevo la casalinga.  Quindi, con la stessa attenzione con cui faccio la spesa a casa, cerco di comprare degli ottimi prodotti per la mia pasticceria. 
+#### Senti una cosa, su cosa avete puntato per affermarvi come realtà culinaria del posto? 
+
+Abbiamo puntato su due aspetti. 
+
+Il primo **mantenere una nostra identità ma ricercando e valorizzando i prodotti locali**. 
+
+Il secondo aspetto di maggiore importanza è aver puntato sulla **qualità delle materie prime e dei singoli ingredienti** cercando sul territorio quelle eccellenze già esistenti quali farine locali di grani antichi, allo zafferano prodotto su terreni amerini, alle ricotte di pecora e bufala per arrivare alle uova e al latte umbro. 
 
 <img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-pasticcini.jpg" class=" img-fluid post-image" />
 
 
-##### Quindi puntate sulla vera e propria qualità del prodotto dei singoli ingredienti?
+#### Quindi puntate sulla vera e propria qualità del prodotto dei singoli ingredienti?
 
-Si, soprattutto le materie prime locali. Per esempio, le ricotte sono locali, usiamo ricotta di bufala di un allevamento a Penna in Teverina. Ricotta di pecora di un allevamento ovino a Otricoli, latte fresco umbro e uova intere fresche sempre della zona. Poi, invece per altri prodotti, come possono essere per esempio dei liquori particolari per fare i dolci, scegliamo le migliori aziende che ci sono in Italia.
+Si, perché **crediamo che la qualità sia un punto di forza**. Abbiamo unito le eccellenze locali alla tradizione napoletana creando un connubio ricco di gusto sapori aromi e originalità 
 
+#### Questa è stata la spinta che vi ha portato a sviluppare anche un vostro prodotto vero e proprio? 
 
-##### Questa è stata la spinta che vi ha portato a sviluppare anche un vostro prodotto vero e proprio? 
+I numerosi turisti che passano in pasticceria oltre a degustare le nostre specialità cercano i prodotti dolciari del territorio. 
 
-No, diciamo che l’esigenza è venuta quella di creare prodotti tipici del posto, valorizzando alcuni elementi come i fichi per esempio (qui non capisco l’errore). Essendo il centro storico frequentato da tantissimi turisti, i turisti ci chiedevano il dolce locale, e storicamente si sà che Amelia, è famosa per i Fichi Girotti. (allora specifichiamo così, non è una ripetizione perchè è proprio il nome di un prodotto)
+Storicamente Amelia era famosa per la produzione di fichi e partendo da questa base abbiamo creato nuovi prodotti cercando di valorizzare questo frutto che in passato ha dato lustro a questa cittadina. 
 
-Così, ci siamo inventati i Medaglioni di Amelia, che sono questi biscotti di pasta frolla farciti con la marmellata biologica di fichi secchi a pezzi. Nella scatola dei Medaglioni di Amelia abbiamo abbinato anche una storia, perchè avendo lavorato anche per un breve periodo nel museo Archeologico di Amelia, mi sono un pò interessata anche alla storia del luogo. 
+Abbiamo dato vita ai **Medaglioni di Amelia**, biscotti in delicatissima pasta frolla farciti con marmellata biologica di fichi e fichi secchi italiani a pezzi. La scatola, realizzata da un artista, porta nel suo interno uno stampato con una breve storia di Amelia e dell’intreccio storico avvenuto tra un Amerino, il vescovo _Alessandro Gelardini_ e _Cristoforo Colombo_. Alessandro Geraldini primo vescovo delle Americhe si adoperò al cospetto della regina Isabella di Spagna affinché affidasse a Colombo gli strumenti per realizzare il suo viaggio.  
 
-Una delle storie che appartiene alla città riguarda due personaggi importanti che sono: Cristoforo Colombo e Alessandro Geraldini. Perchè la gente non sà che Cristoforo Colombo ha avuto a che fare con questo personaggio amerino. Questo vescovo Geraldini fu il primo vescovo delle americhe, che poi opererò la causa di Cristoforo Colombo presso i reali ecc. 
-
-Una storia molto curiosa ma poco conosciuta e allora, ne abbiamo fatto un opuscolo e l’abbiamo messo nei biscotti. In modo tale che questa storia, abbinata alla città, possa andare in giro e rendere Amelia, sempre più conosciuta. 
+Sempre sulla base della valorizzazione del prodotto locale (il fico) abbiamo creato in collaborazione con un liquirificio artigianale un distillato che abbiamo chiamato il **Liquore di donna Amelia** a base di grappa di vitigni misti aromatizzata **al fico secco**.  
 
 <img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-medaglioni.jpg" class=" img-fluid post-image" />
 
 
 ##### Un’attività che sta in piedi da 2 anni e mezzo, rispetto a prima sono cambiate tante cose, oltre al progetto della pasticceria avete anche altri tipo di progetti?
 
-La reputazione della nostra pasticceria, ci ha fatto diciamo aumentare i fan, e tra i nostri fan ce n'è uno speciale che è Terence Hill. Lui ci conosceva e ogni tanto veniva a comprare la pastiera e la caprese. Poi, ci siamo un pò conosciuti meglio, siamo stati a cena insieme qualche volta ed abbiamo parlato un pò, dopo penso un annetto che abbiamo aperto la pasticceria la famiglia Hill ci ha fatto questa proposta di aprire la gelateria. 
+Grazie al nostro lavoro ed alla qualità dei nostri prodotti la nostra piccola pasticceria e stata conosciuta sul territorio Amerino e non solo. Possiamo dire di avere anche noi dei fans, tra i quali ce n’è uno speciale che è Terence Hill. Ci conoscemmo per caso ed ogni tanto passava a comprare la pastiera, la caprese o le sfogliatelle di cui va ghiotto. Avendo avuto modo di conoscerci meglio dopo circa un anno dall’apertura della pasticceria la famiglia Hill ci propose di aprire insieme a loro la gelateria Girotti.  
 
-Loro sono molto legati al gelato che faceva lo zio Quirino quando Terence era piccolo. Lui si ricorda questo gelato famoso, che gli piaceva tanto, perchè poi lui è vissuto qui dai 6 ai 12 anni, quindi era tra i suoi desideri realizzare questa cosa, ma noi gli abbiamo detto che non avevamo mai fatto il gelato. 
+Loro sono molto legati al gelato che faceva lo zio quando Terence era piccolo. Questo dolce ricordo condiviso con il figlio Jess e il nipote Will ha fatto crescere il desiderio di avviare questa splendida nuova avventura.  
 
-Lui ci disse che se non avevate mai fatto i dolci e li fate così, anche il gelato vi verrà bene sicuramente. Si è fidato tantissimo, noi siamo siamo orgogliosi e onorati. Ovviamente abbiamo accettato questa avventura insieme a loro e Jess il nostro partner, perchè Terence non sempre è disponibile. Jess ha tante idee sul gelato, tanta fantasia sui gusti. Si diverte tanto e anche noi, anche se è un pò impegnativo come lavoro. 
+Alla loro proposta, molto spaventati ma anche onorati rispondemmo di non sentirci all’altezza ma con molto garbo Terence ci incoraggiò dicendoci che avendo cominciato da zero con i dolci potevamo fare lo stesso con il gelato.  Pieni di entusiasmo e carichi della fiducia di Terence avviammo questo emozionante progetto insieme a Jess e Will. 
+
+Jess ha tante idee sul gelato, tanta fantasia sui gusti. Si diverte tanto e anche noi con lui. 
+
+Con la Gelateria abbiamo recuperato, grazie ad un appassionato di Amelia, un’antica ricetta Amerina : **Il Paneforte Amerino**. Riequilibrando, così l’antica  ricetta e registrando il marchio come Paneforte Amerino Girotti abbiamo dato vita ad un nuovo prodotto della tipicità Amerina.
 
 
 ##### Oltre a Terence Hill, avete catturato l’attenzione anche di altri personaggi o comunque esperti del settore?
 
-La visita di Sal De Riso, ma è stato un caso. E’ arrivato l’anno scorso e ci ha fatto questa bellissima sorpresa. Era insieme ad altre persone, probabilmente andavano al Sigep. 
+La visita di Sal De Riso è stata un caso. È arrivato l’anno scorso e ci ha fatto questa bellissima sorpresa. Era insieme ad altre persone, probabilmente erano diretti al Sigep. 
 
-Lui è stato entusiasta, non riusciva a credere che era un anno e mezzo che due persone che non erano pasticceri, erano riusciti a raggiungere un grado di qualità così alto, nemmeno pasticceri dopo 10 anni raggiungono questi livelli.  Lui è stato molto sincero, poi ci ha dato dei suggerimenti su alcuni dolci, ma veramente delle piccolezze, ha voluto vedere il laboratorio e ha detto che era organizzato molto bene. 
+Il Maestro è stato entusiasta, non riusciva a credere che dopo un solo anno e mezzo,  due persone non pasticcere, erano riusciti a raggiungere un grado di qualità molto elevato cosa che solitamente si raggiunge in 20 anni di attività. Quel giorno, De Riso, assaggiò di tutto complimentandosi per l’intera produzione e finanche per il nostro panettone artigianale. Volle visitare il nostro laboratorio trovandolo ben organizzato e regalandoci alla fine del nostro incontro alcuni piccoli ma preziosi suggerimenti.
 
 
 ##### Ultima domanda, la vostra è a tutti gli effetti una eccellenza locale, secondo te quali potrebbero essere le potenzialità di altre attività che non sono così uscite allo scoperto come la vostra?
 
-Ci sono parecchi settori che possono comunque funzionare ad Amelia. Adesso per esempio abbiamo visto la ristorazione che sta aumentando, una ristorazione diciamo locale, che vede un menù che valorizza i prodotti del territorio e le ricette della tradizione amerina. Questo è piacevole, il turista che viene da fuori gli fa piacere mangiare i prodotti tipici umbri di Amelia.
+Ci sono parecchi settori che possono svilupparsi ad Amelia. Uno di questi settori è rappresentato dalla ristorazione, una ristorazione locale. Possiamo dire che molto si sta facendo e si farà prossimamente con l’apertura di nuovi locali nel centro storico che valorizzano la tradizione Amerina. I turisti si troveranno un offerta più ampia che oltre a rendere più piacevole il loro soggiorno in questa splendida città darà un ulteriore spinta allo sviluppo.
 
 
