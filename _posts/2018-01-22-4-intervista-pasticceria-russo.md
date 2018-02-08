@@ -7,7 +7,7 @@ author: Stefano Germani
 image: posts/interview-russo-small.jpg
 image_sharing: posts/interview-russo.jpg
 image_alt: pasticceria russo
-category: ristorante
+category: eccellenze locali
 comments: true
 ---
 
