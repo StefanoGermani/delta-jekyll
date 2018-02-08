@@ -25,10 +25,11 @@ Poi, ci piaceva farlo, io sono sempre stata abbastanza bravina in cucina, molto 
 
 Dopo abbiamo individuato il posto, perchè sempre come clienti, ci piaceva che una pasticceria stesse nel centro storico e ci siamo pure chiesti come mai nessuno non abbia mai pensato di aprirci un negozio, o un’attività, specialmente artigianale.  
 
-
 ##### Senti una cosa, su cosa avete puntato per affermarvi come realtà culinaria del posto? 
 
 Abbiamo puntato sulla qualità e la varietà dei dolci che conoscevamo bene. Tutti i dolci che conoscevamo e che eravamo abituati a mangiare di solito a Napoli, stando particolarmente attenti alla qualità e alla scelta dei singoli ingredienti, quasi come una massaia. Perchè io prima di fare questo lavoro, facevo la casalinga.  Quindi, con la stessa attenzione con cui faccio la spesa a casa, cerco di comprare degli ottimi prodotti per la mia pasticceria. 
+
+<img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-pasticcini.jpg" class=" img-fluid post-image" />
 
 
 ##### Quindi puntate sulla vera e propria qualità del prodotto dei singoli ingredienti?
@@ -45,6 +46,8 @@ Così, ci siamo inventati i Medaglioni di Amelia, che sono questi biscotti di pa
 Una delle storie che appartiene alla città riguarda due personaggi importanti che sono: Cristoforo Colombo e Alessandro Geraldini. Perchè la gente non sà che Cristoforo Colombo ha avuto a che fare con questo personaggio amerino. Questo vescovo Geraldini fu il primo vescovo delle americhe, che poi opererò la causa di Cristoforo Colombo presso i reali ecc. 
 
 Una storia molto curiosa ma poco conosciuta e allora, ne abbiamo fatto un opuscolo e l’abbiamo messo nei biscotti. In modo tale che questa storia, abbinata alla città, possa andare in giro e rendere Amelia, sempre più conosciuta. 
+
+<img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-medaglioni.jpg" class=" img-fluid post-image" />
 
 
 ##### Un’attività che sta in piedi da 2 anni e mezzo, rispetto a prima sono cambiate tante cose, oltre al progetto della pasticceria avete anche altri tipo di progetti?
