@@ -19,7 +19,7 @@ In questa intervista Maria Teresa Russo, la proprietaria, ci racconta come una p
 
 #### Cosa ha spinto te e Roberto ad intraprendere un’iniziativa imprenditoriale come la vostra ad Amelia? 
 
-Sicuramente ci ha spinto l’idea di creare una seconda attività lavorativa ricercando qualcosa **che non entrasse in contrasto con altre esistenti sul territorio e che mancava anche a noi come clienti**. A Napoli, la domenica c’è l’usanza di passare in pasticceria, per prendere i dolci,  per trascorrere tra i parenti e gli amici un momento piacevole e di condivisione. Passare dall’idea della pasticceria alla realizzazione come poi l’abbiamo fatta, è stato molto naturale, perché non vediamo i dolci in altro modo.
+Sicuramente ci ha spinto l’idea di creare una seconda attività lavorativa ricercando qualcosa **che non entrasse in contrasto con altre esistenti sul territorio e che mancava anche a noi come clienti**. A Napoli, la domenica c’è l’usanza di passare in pasticceria, per prendere i dolci, per trascorrere tra i parenti e gli amici un momento piacevole e di condivisione. Passare dall’idea della pasticceria alla realizzazione come poi l’abbiamo fatta, è stato molto naturale, perché non vediamo i dolci in altro modo.
 
 **La passione ed il piacere per il buongusto insieme alle tradizioni di famiglia sono state alla base** dell’avvio della nostra attività. Il mio saper fare e la curiosità di Roberto, mio marito, ci ha portato a sperimentare e realizzare, da autodidatti, i grandi classici della pasticceria napoletana come i babà e le zeppole di san Giuseppe che facevamo degustare a tutti i nostri amici amerini.  
 
@@ -54,20 +54,20 @@ Sempre sulla base della valorizzazione del prodotto locale (il fico) abbiamo cre
 <img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-medaglioni.jpg" class=" img-fluid post-image" />
 
 
-#### Dopo 2 anni e mezzo di attività oltre al progetto della pasticceria avete anche altri tipi di progetti?
+#### Oltre alla pasticceria, avete qualche altro progetto?
 
-Grazie al nostro lavoro ed alla qualità dei nostri prodotti la nostra piccola pasticceria e stata conosciuta sul territorio Amerino e non solo. Possiamo dire di avere anche noi dei fans, tra i quali ce n’è uno speciale che è _Terence Hill_. Ci conoscemmo per caso ed ogni tanto passava a comprare la pastiera, la caprese o le sfogliatelle di cui va ghiotto. Avendo avuto modo di conoscerci meglio dopo circa un anno dall’apertura della pasticceria la famiglia Hill ci propose di aprire insieme a loro la **Gelateria Girotti**.  
+Grazie al nostro lavoro ed alla qualità dei nostri prodotti, la nostra piccola pasticceria è stata conosciuta sul territorio Amerino e non solo. Possiamo dire di avere anche noi dei fans, tra i quali ce n’è uno speciale che è _Terence Hill_. Ci conoscemmo per caso ed ogni tanto passava a comprare la pastiera, la caprese o le sfogliatelle di cui va ghiotto. Avendo avuto modo di conoscerci meglio dopo circa un anno dall’apertura della pasticceria la famiglia Hill ci propose di aprire insieme a loro la **Gelateria Girotti**.  
 
 Loro sono molto legati al gelato che faceva lo zio quando Terence era piccolo. Questo dolce ricordo condiviso con il figlio Jess e il nipote Will ha fatto crescere il desiderio di avviare questa splendida nuova avventura.  
 
-Alla loro proposta, molto spaventati ma anche onorati rispondemmo di non sentirci all’altezza ma con molto garbo Terence ci incoraggiò dicendoci che avendo cominciato da zero con i dolci potevamo fare lo stesso con il gelato.  Pieni di entusiasmo e carichi della fiducia di Terence avviammo questo emozionante progetto insieme a Jess e Will. 
+Alla loro proposta, molto spaventati, ma anche onorati, rispondemmo di non sentirci all’altezza ma con molto garbo Terence ci incoraggiò dicendoci che avendo cominciato da zero con i dolci potevamo fare lo stesso con il gelato.  Pieni di entusiasmo e carichi della fiducia di Terence avviammo questo emozionante progetto insieme a Jess e Will. 
 
 Jess ha tante idee sul gelato, tanta fantasia sui gusti. Si diverte tanto e anche noi con lui. 
 
 Con la Gelateria abbiamo recuperato, grazie ad un appassionato di Amelia, un’antica ricetta Amerina : **Il Paneforte Amerino**. Riequilibrando, così l’antica  ricetta e registrando il marchio come Paneforte Amerino Girotti abbiamo dato vita ad un nuovo prodotto della tipicità Amerina.
 
 
-#### Oltre a Terence Hill, avete catturato l’attenzione anche di altri personaggi o comunque esperti del settore?
+#### Avete catturato l’attenzione anche di altri personaggi o comunque esperti del settore?
 
 La visita di _Sal De Riso_ è stata un caso. È arrivato l’anno scorso e ci ha fatto questa bellissima sorpresa. Era insieme ad altre persone, probabilmente erano diretti al Sigep. 
 
