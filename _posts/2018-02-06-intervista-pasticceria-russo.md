@@ -41,7 +41,7 @@ Il secondo aspetto di maggiore importanza è aver puntato sulla **qualità delle
 
 Si, perché **crediamo che la qualità sia un punto di forza**. Abbiamo unito le eccellenze locali alla tradizione napoletana creando un connubio ricco di gusto sapori aromi e originalità 
 
-#### Questa è stata la spinta che vi ha portato a sviluppare anche un vostro prodotto vero e proprio? 
+#### Questa è stata la spinta che vi ha portato a sviluppare anche un vostro prodotto originale? 
 
 I numerosi turisti che passano in pasticceria oltre a degustare le nostre specialità cercano i prodotti dolciari del territorio. 
 
@@ -54,7 +54,7 @@ Sempre sulla base della valorizzazione del prodotto locale (il fico) abbiamo cre
 <img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-medaglioni.jpg" class=" img-fluid post-image" />
 
 
-#### Un’attività che sta in piedi da 2 anni e mezzo, rispetto a prima sono cambiate tante cose, oltre al progetto della pasticceria avete anche altri tipo di progetti?
+#### Dopo 2 anni e mezzo di attività oltre al progetto della pasticceria avete anche altri tipi di progetti?
 
 Grazie al nostro lavoro ed alla qualità dei nostri prodotti la nostra piccola pasticceria e stata conosciuta sul territorio Amerino e non solo. Possiamo dire di avere anche noi dei fans, tra i quali ce n’è uno speciale che è _Terence Hill_. Ci conoscemmo per caso ed ogni tanto passava a comprare la pastiera, la caprese o le sfogliatelle di cui va ghiotto. Avendo avuto modo di conoscerci meglio dopo circa un anno dall’apertura della pasticceria la famiglia Hill ci propose di aprire insieme a loro la **Gelateria Girotti**.  
 
