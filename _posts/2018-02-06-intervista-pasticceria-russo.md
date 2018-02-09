@@ -17,7 +17,7 @@ Voglia di sfogliatelle, bignè, pastiere e babà? Da quasi 3 anni, ad Amelia, vi
 In questa intervista Maria Teresa Russo, la proprietaria, ci racconta come una piccola realtà del posto può trasformarsi in una vera e propria eccellenza locale. 
 
 
-#### Cosa ha spinto te e Roberto ad intraprendere un’iniziativa imprenditoriale come la vostra ad Amelia? 
+#### Cosa te e tuo marito Roberto ha spinto ad intraprendere un’iniziativa imprenditoriale come la vostra ad Amelia? 
 
 Sicuramente ci ha spinto l’idea di creare una seconda attività lavorativa ricercando qualcosa **che non entrasse in contrasto con altre esistenti sul territorio e che mancava anche a noi come clienti**. A Napoli, la domenica c’è l’usanza di passare in pasticceria, per prendere i dolci, per trascorrere tra i parenti e gli amici un momento piacevole e di condivisione. Passare dall’idea della pasticceria alla realizzazione come poi l’abbiamo fatta, è stato molto naturale, perché non vediamo i dolci in altro modo.
 
@@ -30,51 +30,47 @@ Nello sviluppo dell’attività artigianale abbiamo individuato come sede il cen
 
 Abbiamo puntato su due aspetti. 
 
-Il primo **mantenere una nostra identità ma ricercando e valorizzando i prodotti locali**. 
+Il primo **mantenere una nostra identità ma ricercando e valorizzando i prodotti locali**; abbiamo unito le eccellenze locali alla tradizione napoletana creando un connubio ricco di gusto, sapori, aromi e originalità.
 
-Il secondo aspetto di maggiore importanza è aver puntato sulla **qualità delle materie prime e dei singoli ingredienti** cercando sul territorio quelle eccellenze già esistenti quali farine locali di grani antichi, allo zafferano prodotto su terreni amerini, alle ricotte di pecora e bufala per arrivare alle uova e al latte umbro. 
+Il secondo aspetto di maggiore importanza è aver puntato sulla **qualità delle materie prime e dei singoli ingredienti** cercando sul territorio quelle eccellenze già esistenti quali farine locali di grani antichi, allo zafferano prodotto su terreni amerini, alle ricotte di pecora e bufala per arrivare alle uova e al latte umbro: **la qualità prima di tutto**.
 
 <img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-pasticcini.jpg" class=" img-fluid post-image" />
 
 
-#### Quindi puntate sulla vera e propria qualità del prodotto dei singoli ingredienti?
-
-Si, perché **crediamo che la qualità sia un punto di forza**. Abbiamo unito le eccellenze locali alla tradizione napoletana creando un connubio ricco di gusto sapori aromi e originalità 
-
-#### Questa è stata la spinta che vi ha portato a sviluppare anche un vostro prodotto originale? 
+#### Quali prodotti originali avete creato per completare la vostra offerta? 
 
 I numerosi turisti che passano in pasticceria oltre a degustare le nostre specialità cercano i prodotti dolciari del territorio. 
 
 Storicamente Amelia era famosa per la produzione di fichi e partendo da questa base abbiamo creato nuovi prodotti cercando di valorizzare questo frutto che in passato ha dato lustro a questa cittadina. 
 
-Abbiamo dato vita ai **Medaglioni di Amelia**, biscotti in delicatissima pasta frolla farciti con marmellata biologica di fichi e fichi secchi italiani a pezzi. La scatola, realizzata da un artista, porta nel suo interno uno stampato con una breve storia di Amelia e dell’intreccio storico avvenuto tra un Amerino, il vescovo _Alessandro Gelardini_ e _Cristoforo Colombo_. Alessandro Geraldini primo vescovo delle Americhe si adoperò al cospetto della regina Isabella di Spagna affinché affidasse a Colombo gli strumenti per realizzare il suo viaggio.  
+Abbiamo dato vita ai **Medaglioni di Amelia**, biscotti in delicatissima pasta frolla farciti con marmellata biologica di fichi e fichi secchi italiani a pezzi. La scatola, realizzata da un artista, porta nel suo interno uno stampato con una breve storia di Amelia e dell’intreccio storico avvenuto tra un Amerino, il vescovo _Alessandro Gelardini_ e _Cristoforo Colombo_. _Alessandro Geraldini_ primo vescovo delle Americhe si adoperò al cospetto della regina _Isabella di Spagna_ affinché affidasse a _Colombo_ gli strumenti per realizzare il suo viaggio.  
 
 Sempre sulla base della valorizzazione del prodotto locale (il fico) abbiamo creato in collaborazione con un liquirificio artigianale un distillato che abbiamo chiamato il **Liquore di Donna Amelia** a base di grappa di vitigni misti aromatizzata **al fico secco**.  
 
 <img alt="{{page.image_alt}}" src="{{site.baseurl}}/assets/img/posts/interview-russo-medaglioni.jpg" class=" img-fluid post-image" />
 
 
-#### Oltre alla pasticceria, avete qualche altro progetto?
+#### Oltre alla pasticceria, avete intrapreso altre iniziative?
 
-Grazie al nostro lavoro ed alla qualità dei nostri prodotti, la nostra piccola pasticceria è stata conosciuta sul territorio Amerino e non solo. Possiamo dire di avere anche noi dei fans, tra i quali ce n’è uno speciale che è _Terence Hill_. Ci conoscemmo per caso ed ogni tanto passava a comprare la pastiera, la caprese o le sfogliatelle di cui va ghiotto. Avendo avuto modo di conoscerci meglio dopo circa un anno dall’apertura della pasticceria la famiglia Hill ci propose di aprire insieme a loro la **Gelateria Girotti**.  
+Grazie al nostro lavoro ed alla qualità dei nostri prodotti, la nostra piccola pasticceria è stata conosciuta sul territorio Amerino e non solo. Possiamo dire di avere anche noi dei fans, tra i quali ce n’è uno speciale che è _Terence Hill_. Ci conoscemmo per caso ed ogni tanto passava a comprare la pastiera, la caprese o le sfogliatelle di cui va ghiotto. Avendo avuto modo di conoscerci meglio dopo circa un anno dall’apertura della pasticceria la famiglia _Hill_ ci propose di aprire insieme a loro la **Gelateria Girotti**.  
 
-Loro sono molto legati al gelato che faceva lo zio quando Terence era piccolo. Questo dolce ricordo condiviso con il figlio Jess e il nipote Will ha fatto crescere il desiderio di avviare questa splendida nuova avventura.  
+Loro sono molto legati al gelato che faceva lo zio quando _Terence_ era piccolo. Questo dolce ricordo condiviso con il figlio _Jess_ e il nipote _Will_ ha fatto crescere il desiderio di avviare questa splendida nuova avventura.  
 
-Alla loro proposta, molto spaventati, ma anche onorati, rispondemmo di non sentirci all’altezza ma con molto garbo Terence ci incoraggiò dicendoci che avendo cominciato da zero con i dolci potevamo fare lo stesso con il gelato.  Pieni di entusiasmo e carichi della fiducia di Terence avviammo questo emozionante progetto insieme a Jess e Will. 
+Alla loro proposta, molto spaventati, ma anche onorati, rispondemmo di non sentirci all’altezza ma con molto garbo _Terence_ ci incoraggiò dicendoci che avendo cominciato da zero con i dolci potevamo fare lo stesso con il gelato.  Pieni di entusiasmo e carichi della fiducia di _Terence_ avviammo questo emozionante progetto insieme a _Jess_ e _Will_. 
 
 Jess ha tante idee sul gelato, tanta fantasia sui gusti. Si diverte tanto e anche noi con lui. 
 
 Con la Gelateria abbiamo recuperato, grazie ad un appassionato di Amelia, un’antica ricetta Amerina : **Il Paneforte Amerino**. Riequilibrando, così l’antica  ricetta e registrando il marchio come Paneforte Amerino Girotti abbiamo dato vita ad un nuovo prodotto della tipicità Amerina.
 
 
-#### Avete catturato l’attenzione anche di altri personaggi o comunque esperti del settore?
+#### Abbiamo saputo che avete catturato l'attenzione di esperti del settore...
 
 La visita di _Sal De Riso_ è stata un caso. È arrivato l’anno scorso e ci ha fatto questa bellissima sorpresa. Era insieme ad altre persone, probabilmente erano diretti al Sigep. 
 
 Il Maestro è stato entusiasta, non riusciva a credere che dopo un solo anno e mezzo, due persone non pasticcere, erano riusciti a raggiungere un grado di qualità molto elevato cosa che solitamente si raggiunge in 20 anni di attività. Quel giorno, De Riso, assaggiò di tutto complimentandosi per l’intera produzione e finanche per il nostro panettone artigianale. Volle visitare il nostro laboratorio trovandolo ben organizzato e regalandoci alla fine del nostro incontro alcuni piccoli ma preziosi suggerimenti.
 
 
-#### Ultima domanda, la vostra è a tutti gli effetti una eccellenza locale, secondo te quali potrebbero essere le potenzialità di altre attività che non sono così uscite allo scoperto come la vostra?
+#### Ultima domanda, la vostra è a tutti gli effetti una eccellenza locale, secondo voi quali potrebbero essere le potenzialità di altre attività che non sono così famose come la vostra?
 
 Ci sono parecchi settori che possono svilupparsi ad Amelia. Uno di questi settori è rappresentato dalla ristorazione, una ristorazione locale. Possiamo dire che molto si sta facendo e si farà prossimamente con l’apertura di nuovi locali nel centro storico che valorizzano la tradizione Amerina. **I turisti si troveranno un offerta più ampia che oltre a rendere più piacevole il loro soggiorno in questa splendida città darà un ulteriore spinta allo sviluppo.**
 
