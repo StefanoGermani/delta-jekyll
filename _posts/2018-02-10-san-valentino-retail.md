@@ -37,7 +37,7 @@ I social media possono essere il tuo miglior alleato in molte occasioni, sopratt
 
 Usando Facebook o Instagram potresti lanciare contest fotografici a tema, promozioni mirate, o eventi per 2, annunciare offerte last minute, offrire uno sconto, una confezione regalo gratuita, o un gadget insieme all'acquisto. 
 
-#### 4. Non dimenticare…..i single!
+#### 4. Non dimenticare… i single!
 
 Ti sorprenderebbe sapere quanto i single vengano trascurati in questo periodo, ma anche i cuori solitari hanno il diritto di godersi la festa; saper creare un’offerta a loro dedicata potrebbe essere una buona idea. 
 
