@@ -3,7 +3,7 @@ layout: post
 title:  4 errori da evitare per avere successo con il tuo ristorante
 description: Quali sono i peggiori errori di marketing che puoi fare nel tuo ristorante?
 date:   2018-01-22 00:00:00 +0200
-author: Stefano Germani
+author: Georgia Lepore
 image: posts/restaurant-mistakes-small.jpg
 image_sharing: posts/restaurant-mistakes.jpg
 image_alt: errori ristorante
@@ -40,7 +40,8 @@ I tuo clienti sono fondamentali per il tuo business. Il segreto per aumentare le
 
 Crea un programma fedeltà, delle promozioni esclusive ma soprattutto ascoltali, cerca di capire cosa vogliono e se ci sono problemi. Instaurare un rapporto di fiducia con i tuoi clienti è la miglior forma di soddisfazione e di fidelizzazione. Mettili a loro agio e falli sentire come se fossero a casa. 
 
-#### Conclusioni
+<br>
+<br>
 
 E tu quali strategie di marketing stai usando per il tuo ristorante? Quali successi, o fallimenti, hai avuto durante gli anni della tua attività? Non continuare con il solo volantino da lasciare sui tergicristalli, il più delle volte viene gettato nel cestino senza neanche averlo letto. 
 

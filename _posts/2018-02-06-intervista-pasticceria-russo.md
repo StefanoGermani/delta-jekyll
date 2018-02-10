@@ -3,7 +3,7 @@ layout: post
 title: "Eccellenze locali: Pasticceria Russo"
 description: Intervista a Maria Teresa Russo
 date:   2018-02-06 00:00:00 +0200
-author: Stefano Germani
+author: Georgia Lepore
 image: posts/interview-russo-small2.jpg
 image_sharing: posts/interview-russo2.jpg
 image_alt: pasticceria russo
