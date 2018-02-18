@@ -2,7 +2,7 @@
 layout: post
 title: "7 buoni motivi per aprire oggi il tuo e-commerce"
 description: Sempre più italiani comprano online! Scopri i vantaggi che può offrirti un e-commerce.
-date:   2018-02-17 00:00:00 +0200
+date:   2018-02-19 00:00:00 +0200
 author: Georgia Lepore
 image: posts/e-commerce-small.jpg
 image_sharing: posts/e-commerce.jpg
