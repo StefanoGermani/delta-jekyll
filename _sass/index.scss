@@ -1,27 +1,7 @@
-// COLORS
-$primary: #1aa7fa;
-$light-primary:#58bef8;
-$dark-primary: #1185c7;
-$transparent-primary: rgba(26, 167, 250, 0.8);
-$light-secondary:#f09354;
-$dark-secondary: #eb6308;
-$secondary: #f56e13;
-$text-light: #fff;
-$background-color: #fAfAfA;
+@import './global/variables';
+@import './global/layout';
+@import './global/buttons';
 
-// DEVICES
-$sm: 576px; // Small devices (landscape phones, 576px and up)
-$md: 768px; // Small devices (tablets)
-$lg: 992px; // Medium devices (desktops)
-$xl: 1200px; // Large devices (large desktops)
-
-@mixin font-title {
-    font-family: 'Lato', sans-serif;
-}
-
-@mixin font-text {
-    font-family: 'Open Sans', sans-serif;
-}
 
 // IMPORTS
 @import './navbar';
@@ -40,80 +20,16 @@ $xl: 1200px; // Large devices (large desktops)
 @import './about';
 @import './network';
 
-html {
-    font-size: 16px;
-    height: 100%;
-    
-    @media (min-width: $xl) {
-        font-size: 18px;
-    }
-}
 
 ::selection {
     color: $text-light;
     background: $secondary;
 }
 
-body {
-    position: relative;
-    background-color: $background-color;
-    color: #444;
-    min-height: 100%;
-    height: 100%;
-    min-width: 350px;
-    @include font-text;
-}
-
 .shadow {
     -webkit-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
     -moz-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
     box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
-}
-
-.btn-call-to-action {
-    color: $text-light;
-    background-color: $secondary;
-    border-color: $secondary;
-    white-space: normal;
-    text-transform: uppercase;
-    cursor: pointer;
-    &:hover {
-        background-color: $dark-secondary;
-        border-color: $dark-secondary;
-        color: $text-light;
-    }
-}
-
-.btn-delta {
-    color: $text-light;
-    background-color: $primary;
-    border-color: $primary;
-    white-space: normal;    
-    cursor: pointer;
-    &:hover {
-        background-color: $dark-primary;
-        border-color: $dark-primary;
-        color: $text-light;
-    }
-}
-
-.no-decoration {
-    text-decoration: none;
-    &:hover {
-        text-decoration: none;
-    }
-}
-
-.delta-link {
-    @extend .no-decoration;
-    color: $primary;
-    &:hover {
-        color: $dark-primary;
-    }
-}
-
-.btn {
-    border-radius: 0;
 }
 
 .form-control {

@@ -1,0 +1,22 @@
+html {
+    font-size: 16px;
+    height: 100%;
+    @media (min-width: $xl) {
+        font-size: 18px;
+    }
+}
+
+body {
+    @include font-text;
+    background-color: $background-color;
+    color: #444;
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+main {
+    margin-bottom: auto;
+}

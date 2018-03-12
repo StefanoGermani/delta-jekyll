@@ -1,0 +1,45 @@
+.btn-call-to-action {
+    color: $text-light;
+    background-color: $secondary;
+    border-color: $secondary;
+    white-space: normal;
+    text-transform: uppercase;
+    cursor: pointer;
+    &:hover {
+        background-color: $dark-secondary;
+        border-color: $dark-secondary;
+        color: $text-light;
+    }
+}
+
+.btn-delta {
+    color: $text-light;
+    background-color: $primary;
+    border-color: $primary;
+    white-space: normal;    
+    cursor: pointer;
+    &:hover {
+        background-color: $dark-primary;
+        border-color: $dark-primary;
+        color: $text-light;
+    }
+}
+
+.no-decoration {
+    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.delta-link {
+    @extend .no-decoration;
+    color: $primary;
+    &:hover {
+        color: $dark-primary;
+    }
+}
+
+.btn {
+    border-radius: 0;
+}

@@ -1,15 +1,8 @@
-.wrap {
-    min-height: 100%;
-    /* this needs to be bigger than footer height*/
-    padding-bottom: 8rem;
-}
 
 footer {
-    position: relative;
-    margin-top: -5rem;
+    margin-top: 2rem;
     height: 5rem;
     font-size: 0.8rem;
-    clear: both;
     background-color: $light-primary;
     color: $text-light;
     display: flex;

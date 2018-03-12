@@ -52,10 +52,11 @@
 </head>
 
 <body style="background-image: url('{{site.baseurl}}/assets/img/bg_pattern.png')">
-    <div class="wrap">
-        {% include navbar.html %}
-        {{ content }}
-    </div>
+    {% include navbar.html %}
+
+    <main role="main" id="MainContent" class="container">
+        {{ content }}        
+    </main>
 
     {% include footer.html %}
 
