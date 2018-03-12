@@ -1,0 +1,29 @@
+.clickable {
+    cursor: pointer;
+}
+
+.no-decoration {
+    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.shadow {
+    -webkit-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
+    -moz-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
+    box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
+}
+
+@mixin translateY($value) {
+    -ms-transform: translateY($value);
+    -moz-transform: translateY($value);
+    -webkit-transform: translateY($value);
+    transform: translateY($value);
+}
+
+@mixin transition($value) {
+    -moz-transition: $value;
+    -webkit-transition: $value;
+    transition: $value;
+}

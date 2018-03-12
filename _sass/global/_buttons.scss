@@ -25,12 +25,6 @@
     }
 }
 
-.no-decoration {
-    text-decoration: none;
-    &:hover {
-        text-decoration: none;
-    }
-}
 
 .delta-link {
     @extend .no-decoration;

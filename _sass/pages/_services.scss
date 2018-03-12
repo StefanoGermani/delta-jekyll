@@ -1,15 +1,4 @@
-@mixin translateY($value) {
-    -ms-transform: translateY($value);
-    -moz-transform: translateY($value);
-    -webkit-transform: translateY($value);
-    transform: translateY($value);
-}
 
-@mixin transition($value) {
-    -moz-transition: $value;
-    -webkit-transition: $value;
-    transition: $value;
-}
 
 .services-title {
     @include font-title;

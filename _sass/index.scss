@@ -2,6 +2,8 @@
 @import './global/variables';
 @import './global/layout';
 @import './global/buttons';
+@import './global/forms';
+@import './global/utils';
 
 // SECTIONS
 @import './sections/footer';
@@ -13,7 +15,6 @@
 // PAGES
 @import './pages/landing';
 @import './pages/services';
-@import './pages/contacts';
 @import './pages/blog';
 @import './pages/consultancy';
 @import './pages/post';
@@ -25,16 +26,6 @@
 ::selection {
     color: $text-light;
     background: $secondary;
-}
-
-.shadow {
-    -webkit-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
-    -moz-box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
-    box-shadow: -2px 6px 25px 0px rgba(50, 50, 50, 0.67);
-}
-
-.form-control {
-    border-radius: 0;
 }
 
 ul {
