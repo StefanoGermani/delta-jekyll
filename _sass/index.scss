@@ -1,24 +1,25 @@
+// GLOBAL
 @import './global/variables';
 @import './global/layout';
 @import './global/buttons';
 
+// SECTIONS
+@import './sections/footer';
+@import './sections/navbar';
+@import './sections/popular-posts';
+@import './sections/subscription';
+@import './sections/testimonials';
 
-// IMPORTS
-@import './navbar';
-@import './landing';
-@import './footer';
-@import './testimonials';
-@import './break';
-@import './services';
-@import './contacts';
-@import './blog';
-@import './consultancy';
-@import './popular-posts';
-@import './post';
-@import './subscription';
-@import './thank-you';
-@import './about';
-@import './network';
+// PAGES
+@import './pages/landing';
+@import './pages/services';
+@import './pages/contacts';
+@import './pages/blog';
+@import './pages/consultancy';
+@import './pages/post';
+@import './pages/thank-you';
+@import './pages/about';
+@import './pages/network';
 
 
 ::selection {
