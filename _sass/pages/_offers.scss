@@ -1,0 +1,24 @@
+.offert-card {
+    min-width: 220px;
+    border-radius: 0;
+    border-color: $primary;
+    .card-header {
+        background-color: $primary;
+        color: $text-light;
+    }
+    .card-body {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+}
+
+.offert-primary-card {
+    @extend .offert-card;
+    border-color: $secondary;
+    .card-header {
+        background-color: $secondary;
+        color: $text-light;
+    }
+}
+
