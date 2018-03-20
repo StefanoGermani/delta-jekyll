@@ -1,13 +1,13 @@
 // Open navbarSide when button is clicked
 
-var openSideMenu = function () {
+const openSideMenu = function () {
     if ($('#desktopNavigation').css('display') === 'none') {
         $('#navbarSide').addClass('reveal');
         $('.overlay').show();
     }
 };
 
-var closeSideMenu = function () {
+const closeSideMenu = function () {
     if ($('#desktopNavigation').css('display') === 'none') {
         $('#navbarSide').removeClass('reveal');
         $('.overlay').hide();
