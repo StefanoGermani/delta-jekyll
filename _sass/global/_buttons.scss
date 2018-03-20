@@ -25,6 +25,18 @@
     }
 }
 
+.btn-delta-light {
+    color: $text-light;
+    background-color: $light-primary;
+    border-color: $light-primary;
+    white-space: normal;    
+    cursor: pointer;
+    &:hover {
+        background-color: $primary;
+        border-color: $primary;
+        color: $text-light;
+    }
+}
 
 .delta-link {
     @extend .no-decoration;
