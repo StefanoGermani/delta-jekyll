@@ -8,15 +8,18 @@ description: Scopri la nostra offerte per l'avvio della tua attività!
     <div class="services-description-layout">
         <h1 class="services-title">Business Starter Pack</h1>
         <p class="services-description">
-            Avviare la tua attività da oggi è più semplice grazie ai nostri pacchetti pensati per risolvere
-            le tue esigenze!
+            <strong>Avviare la tua attività</strong> da oggi è più semplice grazie ai nostri <strong>pacchetti marketing</strong> 
+            pensati per risolvere le tue esigenze!
         </p>
         <p class="services-description">
-            Contattaci riempendo il form qui sotto o scrivendo a <a class="offert-mail-link" href="mailto:info@deltalocalmarketing.it">info@deltalocalmarketing.it</a>
+            Lasciati aiutare da <strong>esperti del settore</strong> per dare un'identità unica al tuo business!
+        </p>
+        <!-- <p class="services-description">
+            Contattaci riempendo il modulo qui sotto o scrivendo a <a class="offert-mail-link" href="mailto:info@deltalocalmarketing.it">info@deltalocalmarketing.it</a>
         </p>
         <p class="services-description">
             I nostri consulenti ti contatteranno appena possibile!
-        </p>
+        </p> -->
     </div>
 </section>
 
@@ -34,7 +37,7 @@ description: Scopri la nostra offerte per l'avvio della tua attività!
                     <li>+ Carta intestata</li>
                     <li>+ Local Listings</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-delta-light">Contattaci ora!</button>
+                <button type="button" class="offert-btn-contact btn btn-lg btn-delta-light" data-select="business-starter-lite">Contattaci ora!</button>
             </div>
         </div>
         <div class="offert-primary-card order-sm-2 order-lg-0 card mb-4 box-shadow">
@@ -50,7 +53,7 @@ description: Scopri la nostra offerte per l'avvio della tua attività!
                     <li>+ Grafica volantini</li>
                     <li>+ Grafica cartelloni</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-call-to-action">Contattaci ora!</button>
+                <button type="button" class="offert-btn-contact btn btn-lg btn-delta-primary" data-select="business-starter-base">Contattaci ora!</button>
             </div>
         </div>
         <div class="offert-secondary-card mt-lg-3 card mb-4 box-shadow">
@@ -65,15 +68,25 @@ description: Scopri la nostra offerte per l'avvio della tua attività!
                     <li>+ Sito web (pagina singola)</li>
                     <li>+ Email personalizzata</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-delta">Contattaci ora!</button>
+                <button type="button" class="offert-btn-contact btn btn-lg btn-delta" data-select="business-starter-premium">Contattaci ora!</button>
             </div>
         </div>
     </div>
     <div class="row">
-        <div class="col consultant-layout">
+        <div class="col offert-contacts-layout mt-5">
+            <p class="offert-contacts">
+                Contattaci riempendo il modulo qui sotto o scrivendo a <a class="delta-link" href="mailto:info@deltalocalmarketing.it">info@deltalocalmarketing.it</a>
+            </p>
+            <p class="offert-contacts">
+                I nostri consulenti ti contatteranno appena possibile!
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col consultant-layout mt-4">
             <form class="consultant-form" method="POST" action="https://formspree.io/info@deltalocalmarketing.it">
                 <div class="form-group form-text">
-                    <label for="business-pack">Pacchetto</label>
+                    <label for="business-pack">Pacchetto scelto</label>
                     <select class="form-control" name="business-pack" required>
                         <option value="business-starter-lite">Pacchetto Lite</option>
                         <option value="business-starter-base" selected>Pacchetto Base</option>

@@ -5,6 +5,8 @@
     .card-header {
         background-color: $light-primary;
         color: $text-light;
+        border-radius: 0;
+        border-bottom: 0;
     }
     .card-body {
         display: flex;
@@ -42,5 +44,25 @@
     font-weight: bold;
     &:hover {
         color: $dark-secondary;
+    }
+}
+
+.offert-contacts {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.offert-contacts-layout {
+    @media (min-width: $sm) {
+        width: 450px;
+    }
+    @media  (min-width: $md) {
+        width: 650px;
+    }
+    @media  (min-width: $lg) {
+        width: 750px;
+    }
+    @media  (min-width: $xl) {
+        width: 900px;
     }
 }

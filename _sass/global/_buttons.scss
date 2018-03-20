@@ -1,40 +1,44 @@
-.btn-call-to-action {
+.btn-base {
     color: $text-light;
-    background-color: $secondary;
-    border-color: $secondary;
-    white-space: normal;
-    text-transform: uppercase;
     cursor: pointer;
+    white-space: normal;
     &:hover {
-        background-color: $dark-secondary;
-        border-color: $dark-secondary;
         color: $text-light;
     }
 }
 
+.btn-delta-primary {
+    @extend .btn-base;
+    background-color: $secondary;
+    border-color: $secondary;
+    &:hover {
+        background-color: $dark-secondary;
+        border-color: $dark-secondary;
+    }
+}
+
+.btn-call-to-action {
+    @extend .btn-delta-primary;
+    text-transform: uppercase;
+}
+
 .btn-delta {
-    color: $text-light;
+    @extend .btn-base;
     background-color: $primary;
     border-color: $primary;
-    white-space: normal;    
-    cursor: pointer;
     &:hover {
         background-color: $dark-primary;
         border-color: $dark-primary;
-        color: $text-light;
     }
 }
 
 .btn-delta-light {
-    color: $text-light;
+    @extend .btn-base;
     background-color: $light-primary;
     border-color: $light-primary;
-    white-space: normal;    
-    cursor: pointer;
     &:hover {
         background-color: $primary;
         border-color: $primary;
-        color: $text-light;
     }
 }
 
