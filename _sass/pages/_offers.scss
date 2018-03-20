@@ -1,9 +1,9 @@
 .offert-card {
     min-width: 220px;
     border-radius: 0;
-    border-color: $primary;
+    border-color: $light-primary;
     .card-header {
-        background-color: $primary;
+        background-color: $light-primary;
         color: $text-light;
     }
     .card-body {
@@ -18,7 +18,29 @@
     border-color: $secondary;
     .card-header {
         background-color: $secondary;
-        color: $text-light;
     }
 }
 
+.offert-secondary-card {
+    @extend .offert-card;
+    border-color: $primary;
+    .card-header {
+        background-color: $primary;
+    }
+}
+
+.offert-price {
+    font-size: 2.5rem;
+    small {
+        font-size: 1rem;
+    }
+}
+
+.offert-mail-link {
+    @extend .no-decoration;
+    color: $text-light;
+    font-weight: bold;
+    &:hover {
+        color: $dark-secondary;
+    }
+}

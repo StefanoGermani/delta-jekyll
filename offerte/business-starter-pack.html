@@ -4,71 +4,104 @@ title: Business Starter Pack
 description: Scopri la nostra offerte per l'avvio della tua attività!
 ---
 
-<!-- <section class="services-description-container">
+<section class="services-description-container">
     <div class="services-description-layout">
-        <h2 class="services-title">Business Starter Pack</h2>
+        <h1 class="services-title">Business Starter Pack</h1>
         <p class="services-description">
             Avviare la tua attività da oggi è più semplice grazie ai nostri pacchetti pensati per risolvere
             le tue esigenze!
         </p>
+        <p class="services-description">
+            Contattaci riempendo il form qui sotto o scrivendo a <a class="offert-mail-link" href="mailto:info@deltalocalmarketing.it">info@deltalocalmarketing.it</a>
+        </p>
+        <p class="services-description">
+            I nostri consulenti ti contatteranno appena possibile!
+        </p>
     </div>
-</section> -->
+</section>
 
 <div class="container">
-    <div class="row">
-        <div class="offert-header col-12 text-center">
-            <h1 class="display-4">Business Starter Pack</h1>
-            <p class="lead">
-                Avviare la tua attività da oggi è più semplice grazie ai nostri pacchetti
-                pensati per risolvere le tue esigenze!
-            </p>
-        </div>
-    </div>
     <div class="offert-card-deck card-deck mt-5 text-center">
         <div class="offert-card mt-lg-3 card mb-4 box-shadow">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Economico</h4>
+                <h4 class="my-0 font-weight-normal">Pacchetto Lite</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">€ 300</h1>
+                <span class="card-title offert-price">€ 299<small class="text-muted"> + IVA</small></span>
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>Logo</li>
-                    <li>Business card</li>
-                    <li>Carta intestata</li>
-                    <li>Local Listings</li>
+                    <li>+ Business card</li>
+                    <li>+ Carta intestata</li>
+                    <li>+ Local Listings</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-delta">Sign up for free</button>
+                <button type="button" class="btn btn-lg btn-block btn-delta-light">Contattaci ora!</button>
             </div>
         </div>
         <div class="offert-primary-card order-sm-2 order-lg-0 card mb-4 box-shadow">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Base</h4>
+                <h4 class="my-0 font-weight-normal">Pacchetto Base</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">€ 450</h1>
+                <h1 class="card-title offert-price">€ 499<small class="text-muted"> + IVA</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Pacchetto Economico</li>
+                    <li class="font-weight-bold">Pacchetto Lite</li>
                     <li>+ Pagina Facebook</li>
                     <li>+ Pagina LinkedIn</li>
-                    <li>+ Volantini</li>
-                    <li>+ Cartelloni</li>
+                    <li>+ Grafica volantini</li>
+                    <li>+ Grafica cartelloni</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-call-to-action">Get started</button>
+                <button type="button" class="btn btn-lg btn-block btn-call-to-action">Contattaci ora!</button>
             </div>
         </div>
-        <div class="offert-card mt-lg-3 card mb-4 box-shadow">
+        <div class="offert-secondary-card mt-lg-3 card mb-4 box-shadow">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Premium</h4>
+                <h4 class="my-0 font-weight-normal">Pacchetto Premium</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">€ 600</h1>
+                <h1 class="card-title offert-price">€ 699<small class="text-muted"> + IVA</small></h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                <li>Pacchetto base</li>
-                <li>+ Dominio personalizzato</li>
-                <li>+ Sito web</li>
+                    <li class="font-weight-bold">Pacchetto Base</li>
+                    <li>+ Dominio personalizzato</li>
+                    <li>+ Sito web (pagina singola)</li>
+                    <li>+ Email personalizzata</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-delta">Contact us</button>
+                <button type="button" class="btn btn-lg btn-block btn-delta">Contattaci ora!</button>
             </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col consultant-layout">
+            <form class="consultant-form" method="POST" action="https://formspree.io/info@deltalocalmarketing.it">
+                <div class="form-group form-text">
+                    <label for="business-pack">Pacchetto</label>
+                    <select class="form-control" name="business-pack" required>
+                        <option value="business-starter-lite">Pacchetto Lite</option>
+                        <option value="business-starter-base" selected>Pacchetto Base</option>
+                        <option value="business-starter-premium">Pacchetto Premium</option>
+                    </select>
+                </div>
+                <div class="form-group form-text">
+                    <label for="company-name">Nome Impresa</label>
+                    <input type="text" class="form-control" name="company-name" placeholder="La tua società Srl" required>
+                </div>
+                <div class="form-group form-text">
+                    <label for="name">Nome contatto</label>
+                    <input type="text" class="form-control" name="name" placeholder="Mario Rossi" required>
+                </div>
+                <div class="form-group form-phone">
+                    <label for="phone">Telefono</label>
+                    <input type="tel" class="form-control" name="phone" placeholder="+39 320 1212123" required>
+                </div>
+                <div class="form-group form-text">
+                    <label for="comments">Note</label>
+                    <textarea class="form-control sett" rows="5" name="comments" placeholder="Contattare dopo le 18."></textarea>
+                </div>
+                <input type="hidden" name="_language" value="it" />
+                <input type="hidden" name="_next" value="https://deltalocalmarketing.it/grazie-consulenza" />
+                <div class="text-center">
+                    <button type="submit" class="btn btn-call-to-action btn-invia">Invia</button>
+                </div>
+            </form>
         </div>
     </div>
 </div>
