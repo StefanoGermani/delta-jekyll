@@ -9,13 +9,30 @@
             <img alt="home" src="{{site.url}}{{site.baseurl}}/assets/img/delta-logo.svg?v=2" height="50px">
         </a>
         <div class="collapse navbar-collapse flex-row-reverse" id="desktopNavigation">
-            <div class="navbar-nav">
-                <a class="nav-item nav-link{% if current == empty %} active{% endif %}" href="{{site.url}}{{site.baseurl}}">Home</a>
-                <a class="nav-item nav-link{% if current.last == 'chi-siamo' %} active{% endif %}"
-                    href="{{site.baseurl}}/chi-siamo">Chi Siamo</a>
-                <a class="nav-item nav-link{% if current contains 'servizi' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/servizi">Servizi</a>
-                <a class="nav-item nav-link{% if current contains 'blog' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/blog">Blog</a>
-                <a class="nav-item nav-link{% if current.last == 'consulenza-gratuita' %} active{% endif %}" href="{{site.url}}{{site.baseurl}}/consulenza-gratuita">Consulenza</a>
+            <ul class="navbar-nav">
+                <li class="nav-item {% if current == empty %} active{% endif %}">
+                    <a class="nav-link" href="{{site.url}}{{site.baseurl}}">Home</a>
+                </li>
+                <li class="nav-item {% if current.last == 'chi-siamo' %} active{% endif %}">
+                    <a class="nav-link" href="{{site.baseurl}}/chi-siamo">Chi Siamo</a>
+                </li>
+                <li class="nav-item {% if current contains 'servizi' %} active{% endif %}">
+                    <a class="nav-link" href="{{site.url}}{{site.baseurl}}/servizi">Servizi</a>
+                </li>
+                <li class="nav-item dropdown {% if current contains 'prezzi' %} active{% endif %}">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Prezzi
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="{{site.url}}{{site.baseurl}}/prezzi/business-starter-pack">Business Starter Pack</a>
+                    </div>
+                </li>
+                <li class="nav-item {% if current contains 'blog' %} active{% endif %}">
+                    <a class="nav-link" href="{{site.url}}{{site.baseurl}}/blog">Blog</a>
+                </li>
+                <li class="nav-item {% if current.last == 'consulenza-gratuita' %} active{% endif %}">
+                    <a class="nav-link" href="{{site.url}}{{site.baseurl}}/consulenza-gratuita">Consulenza</a>
+                </li>
             </div>
         </div>
         <div class="navbar-side d-md-none" id="navbarSide" style="background-image: url('{{site.baseurl}}/assets/img/bg_pattern.png')">
