@@ -9,6 +9,20 @@
     }
 }
 
+.dropdown-item {
+    color: $primary;
+    &:hover {
+        color: $dark-primary;
+    }
+    &:active{
+        background-color: $dark-primary;
+        color: $text-light !important;
+    }
+    &:focus {
+        color: $primary;
+    }
+}
+
 .navbar-side {
     height: 150%;
     width: 60%;
