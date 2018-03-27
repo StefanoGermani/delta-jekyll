@@ -1,0 +1,69 @@
+.offert-card {
+    min-width: 220px;
+    border-radius: 0;
+    border-color: $light-primary;
+    border-width: 2px;
+    .card-header {
+        background-color: $light-primary;
+        color: $text-light;
+        border-radius: 0;
+        border-bottom: 0;
+    }
+    .card-body {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+}
+
+.offert-primary-card {
+    @extend .offert-card;
+    border-color: $secondary;
+    .card-header {
+        background-color: $secondary;
+    }
+}
+
+.offert-secondary-card {
+    @extend .offert-card;
+    border-color: $primary;
+    .card-header {
+        background-color: $primary;
+    }
+}
+
+.offert-price {
+    font-size: 2.5rem;
+    small {
+        font-size: 1rem;
+    }
+}
+
+.offert-mail-link {
+    @extend .no-decoration;
+    color: $text-light;
+    font-weight: bold;
+    &:hover {
+        color: $dark-secondary;
+    }
+}
+
+.offert-contacts {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.offert-contacts-layout {
+    @media (min-width: $sm) {
+        width: 450px;
+    }
+    @media  (min-width: $md) {
+        width: 650px;
+    }
+    @media  (min-width: $lg) {
+        width: 750px;
+    }
+    @media  (min-width: $xl) {
+        width: 900px;
+    }
+}

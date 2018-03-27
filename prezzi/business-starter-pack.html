@@ -1,0 +1,120 @@
+---
+layout: default
+title: Business Starter Pack
+description: Avviare la tua attività da oggi è più semplice grazie ai nostri pacchetti marketing pensati per risolvere le tue esigenze!
+---
+
+<section class="services-description-container">
+    <div class="services-description-layout">
+        <h1 class="services-title">Business Starter Pack</h1>
+        <p class="services-description">
+            <strong>Avviare la tua attività</strong> da oggi è più semplice grazie ai nostri <strong>pacchetti marketing</strong> 
+            pensati per risolvere le tue esigenze!
+        </p>
+        <p class="services-description">
+            Lasciati aiutare da <strong>esperti del settore</strong> per dare un'identità unica al tuo business!
+        </p>
+        <!-- <p class="services-description">
+            Contattaci riempendo il modulo qui sotto o scrivendo a <a class="offert-mail-link" href="mailto:info@deltalocalmarketing.it">info@deltalocalmarketing.it</a>
+        </p>
+        <p class="services-description">
+            I nostri consulenti ti contatteranno appena possibile!
+        </p> -->
+    </div>
+</section>
+
+<div class="container">
+    <div class="offert-card-deck card-deck mt-5 text-center">
+        <div class="offert-card mt-lg-3 card mb-4 box-shadow">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Pacchetto Lite</h4>
+            </div>
+            <div class="card-body">
+                <span class="card-title offert-price">€ 299<small class="text-muted"> + IVA</small></span>
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>Logo</li>
+                    <li>+ Business card</li>
+                    <li>+ Carta intestata</li>
+                    <li>+ Local Listings</li>
+                </ul>
+                <button type="button" class="offert-btn-contact btn btn-lg btn-delta-light" data-select="business-starter-lite">Contattaci ora!</button>
+            </div>
+        </div>
+        <div class="offert-primary-card order-sm-2 order-lg-0 card mb-4 box-shadow">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Pacchetto Base</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="card-title offert-price">€ 499<small class="text-muted"> + IVA</small></h1>
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li class="font-weight-bold">Pacchetto Lite</li>
+                    <li>+ Pagina Facebook</li>
+                    <li>+ Pagina LinkedIn</li>
+                    <li>+ Grafica volantini</li>
+                    <li>+ Grafica cartelloni</li>
+                </ul>
+                <button type="button" class="offert-btn-contact btn btn-lg btn-delta-primary" data-select="business-starter-base">Contattaci ora!</button>
+            </div>
+        </div>
+        <div class="offert-secondary-card mt-lg-3 card mb-4 box-shadow">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Pacchetto Premium</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="card-title offert-price">€ 699<small class="text-muted"> + IVA</small></h1>
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li class="font-weight-bold">Pacchetto Base</li>
+                    <li>+ Dominio personalizzato</li>
+                    <li>+ Sito web (pagina singola)</li>
+                    <li>+ Email personalizzata</li>
+                </ul>
+                <button type="button" class="offert-btn-contact btn btn-lg btn-delta" data-select="business-starter-premium">Contattaci ora!</button>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col offert-contacts-layout mt-5">
+            <p class="offert-contacts">
+                Contattaci riempendo il modulo qui sotto o scrivendo a <a class="delta-link" href="mailto:info@deltalocalmarketing.it">info@deltalocalmarketing.it</a>
+            </p>
+            <p class="offert-contacts">
+                I nostri consulenti ti contatteranno appena possibile!
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col consultant-layout mt-4">
+            <form class="consultant-form" method="POST" action="https://formspree.io/info@deltalocalmarketing.it">
+                <div class="form-group form-text">
+                    <label for="business-pack">Pacchetto scelto</label>
+                    <select class="form-control" id="offert-business-starter-pack" name="business-pack" required>
+                        <option value="business-starter-lite">Pacchetto Lite</option>
+                        <option value="business-starter-base" selected>Pacchetto Base</option>
+                        <option value="business-starter-premium">Pacchetto Premium</option>
+                    </select>
+                </div>
+                <div class="form-group form-text">
+                    <label for="company-name">Nome Impresa</label>
+                    <input type="text" class="form-control" name="company-name" placeholder="La tua società Srl" required>
+                </div>
+                <div class="form-group form-text">
+                    <label for="name">Nome contatto</label>
+                    <input type="text" class="form-control" name="name" placeholder="Mario Rossi" required>
+                </div>
+                <div class="form-group form-phone">
+                    <label for="phone">Telefono</label>
+                    <input type="tel" class="form-control" name="phone" placeholder="+39 320 1212123" required>
+                </div>
+                <div class="form-group form-text">
+                    <label for="comments">Note</label>
+                    <textarea class="form-control sett" rows="5" name="comments" placeholder="Contattare dopo le 18."></textarea>
+                </div>
+                <input type="hidden" name="_language" value="it" />
+                <input type="hidden" name="_next" value="https://deltalocalmarketing.it/grazie-consulenza" />
+                <div class="text-center">
+                    <button type="submit" class="btn btn-call-to-action btn-invia">Invia</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

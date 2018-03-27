@@ -1,0 +1,15 @@
+{
+  "name": "delta-jekyll",
+  "version": "1.0.0",
+  "description": "webpack configuration",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12"
+  },
+  "scripts": {
+    "start": "webpack & bundle exec jekyll s -L",
+    "js": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
