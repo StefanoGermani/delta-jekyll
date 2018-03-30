@@ -16,21 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}{% if page.title %} - {% endif %}Delta Local Marketing</title>
 
-    <meta property="fb:app_id" content="525003201170203" />
-    {% if page.id and page.image_sharing %}
-        <meta property="og:title" content="{{ page.title }}" />
-        <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{ page.url }}" />
-        <meta property="og:description" content="{{ page.description }}" />
-        <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/img/{{ page.image_sharing }}" />
-        <meta property="og:type" content="article" />
-        <meta property="og:locale" content="it_IT" />
-    {% else %}
-        <meta property="og:title" content="{{ page.title }}{% if page.title %} - {% endif %}Delta Local Marketing" />
-        <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{ page.url }}" />
-        <meta property="og:description" content="{{ page.description }}" />
-        <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/img/delta-link.jpg" />
-        <meta property="og:type" content="website" />
-    {% endif %}
+    {% include social_tags.html %}
 
     {% if paginator %}
         {% if paginator.previous_page %}
