@@ -49,14 +49,15 @@ Le tipologie di Dati Personali utilizzati per ciascuna finalità sono indicati n
 I Dati Personali sono raccolti per le seguenti finalità ed utilizzando i seguenti servizi:
 
 #### Statistica
-
 I servizi contenuti nella presente sezione permettono al Titolare del Trattamento di monitorare e analizzare i dati di traffico e servono a tener traccia del comportamento dell’Utente.
 
 ##### Google Analytics (Google Inc.)
 Google Analytics è un servizio di analisi web fornito da Google Inc. (“Google”). Google utilizza i Dati Personali raccolti allo scopo di tracciare ed esaminare l’utilizzo di questa Applicazione, compilare report e condividerli con gli altri servizi sviluppati da Google.
+
 Google potrebbe utilizzare i Dati Personali per contestualizzare e personalizzare gli annunci del proprio network pubblicitario.
 Dati Personali raccolti: Cookie e Dati di Utilizzo.
-Luogo del trattamento: USA – (Privacy Policy)[https://www.google.com/intl/it/policies/privacy/] – Opt Out
+
+Luogo del trattamento: USA – [Privacy Policy](https://policies.google.com/privacy?hl=it) – <a href="javascript:gaOptout()">Opt Out</a>
 
 ### Ulteriori informazioni sul trattamento
 
